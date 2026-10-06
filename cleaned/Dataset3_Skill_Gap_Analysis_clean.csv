@@ -1,0 +1,2001 @@
+Student_ID,Desired_Career,Current_Skill,Missing_Skill,Recommended_Certification,Skill_Gap_Level
+1001,Graphic Designer,Adobe Photoshop,UI/UX Design,Adobe Certified Professional,Low
+1002,Travel Consultant,Itinerary Planning,Amadeus / GDS Systems,IATA Certification,High
+1003,Registered Nurse,Patient Care,Critical Care Nursing,KRCHN Licensing,Low
+1004,Marketing Executive,Content Creation,SEO,Google Digital Marketing Certificate,Low
+1005,Agribusiness Manager,Farm Management,Financial Planning,Agribusiness Management Certification,Low
+1006,Teacher,Classroom Management,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+1007,Agricultural Officer,Crop Management,GIS,GIS Certification,Low
+1008,Graphic Designer,Adobe Photoshop,Motion Graphics,Adobe Certified Professional,Low
+1009,Lawyer / Advocate,Drafting,Case Management,Kenya School of Law (KSL) Certification,High
+1010,Sports Coach,Team Management,Sports Science Analytics,Kenya National Sports Council Certification,High
+1011,Registered Nurse,Clinical Skills,Emergency Care,Basic Life Support (BLS),Low
+1012,Accountant,Financial Reporting,Taxation,ACCA,Low
+1013,Lawyer / Advocate,Legal Research,Litigation Skills,Kenya School of Law (KSL) Certification,Low
+1014,Teacher,Classroom Management,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+1015,Teacher,Lesson Planning,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+1016,Data Analyst,Excel,Power BI,Power BI Certification,High
+1017,Electrical Engineer,Circuit Design,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,Low
+1018,Pharmacist,Pharmacology,Clinical Pharmacy,Pharmacy and Poisons Board Licensing,High
+1019,Horticulturist,Plant Propagation,Greenhouse Management,Horticultural Crops Directorate Certification,Low
+1020,Social Worker,Counselling,Community Mobilization,Kenya National Association of Social Workers Certification,High
+1021,Conservation Officer,Fieldwork,GIS Mapping,KWS Certification,High
+1022,Physical Education Teacher,Fitness Training,Sports Psychology,TSC Registration,Low
+1023,Accountant,Bookkeeping,Financial Modelling,ACCA,High
+1024,Video Editor,Video Editing,Motion Graphics,Adobe Certified Professional,Low
+1025,Electrical Engineer,Circuit Design,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,Low
+1026,Journalist,Writing,Video Editing,Adobe Certified Professional,High
+1027,Graphic Designer,Adobe Photoshop,UI/UX Design,Adobe Certified Professional,Low
+1028,Illustrator,Drawing,Character Design,Adobe Certified Professional,High
+1029,Public Relations Officer,Communication,Crisis Management,PRSK Certification,High
+1030,Community Development Officer,Community Engagement,Monitoring and Evaluation,M&E Certification,Low
+1031,Sports Coach,Coaching Techniques,Sports Science Analytics,Kenya National Sports Council Certification,High
+1032,Community Development Officer,Community Engagement,Monitoring and Evaluation,M&E Certification,Low
+1033,Lawyer / Advocate,Drafting,Case Management,Kenya School of Law (KSL) Certification,Low
+1034,Lawyer / Advocate,Legal Research,Case Management,Kenya School of Law (KSL) Certification,Low
+1035,Marketing Executive,Content Creation,SEO,Google Digital Marketing Certificate,Low
+1036,Tourism Officer,Customer Relations,Digital Marketing for Tourism,Tourism Regulatory Authority Certification,High
+1037,Hotel Manager,Front Office Operations,Revenue Management,AHLEI Certification,Low
+1038,Travel Consultant,Ticketing,Amadeus / GDS Systems,IATA Certification,High
+1039,Software Engineer,Web Development,DevOps,Microsoft Azure Fundamentals,Low
+1040,Travel Consultant,Itinerary Planning,Amadeus / GDS Systems,IATA Certification,High
+1041,Public Relations Officer,Media Relations,Crisis Management,PRSK Certification,Low
+1042,Mobile App Developer,Java,Flutter,Google Associate Android Developer,Low
+1043,Software Engineer,Java,Cloud Computing,AWS Certified Developer,High
+1044,Sports Coach,Coaching Techniques,Sports Science Analytics,Kenya National Sports Council Certification,High
+1045,Accountant,Bookkeeping,Financial Modelling,ACCA,High
+1046,Accountant,Financial Reporting,Taxation,ACCA,Low
+1047,Social Worker,Counselling,Community Mobilization,Kenya National Association of Social Workers Certification,High
+1048,Teacher,Classroom Management,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+1049,Graphic Designer,Adobe Photoshop,Motion Graphics,Adobe Certified Professional,Low
+1050,Airline Operations Officer,Flight Scheduling,Aviation Safety Management,IATA Certification,Low
+1051,Business Administrator,Communication,Project Management,CPA,High
+1052,Film Producer,Scriptwriting,Budgeting for Film,Film Production Certificate,High
+1053,Software Engineer,Java,DevOps,Microsoft Azure Fundamentals,Low
+1054,Procurement Officer,Sourcing,Contract Management,CIPS Certification,High
+1055,Medical Doctor,Patient Management,Surgery Skills,ACLS,High
+1056,Operations Manager,Team Leadership,Supply Chain Optimization,Six Sigma Green Belt,Low
+1057,Community Development Officer,Project Coordination,Monitoring and Evaluation,M&E Certification,Low
+1058,Video Editor,Video Editing,Motion Graphics,Adobe Certified Professional,Low
+1059,Hotel Manager,Front Office Operations,Revenue Management,AHLEI Certification,Low
+1060,Conservation Officer,Wildlife Management,GIS Mapping,KWS Certification,Low
+1061,Tourism Officer,Customer Relations,Digital Marketing for Tourism,Tourism Regulatory Authority Certification,High
+1062,Airport Operations Officer,Safety Compliance,Airport Security Management,ICAO Certification,High
+1063,Sports Coach,Team Management,Sports Science Analytics,Kenya National Sports Council Certification,High
+1064,Airport Operations Officer,Ground Handling,Airport Security Management,ICAO Certification,High
+1065,Public Relations Officer,Media Relations,Crisis Management,PRSK Certification,Low
+1066,Civil Engineer,Structural Design,Project Management,Engineers Board of Kenya (EBK) Licensing,Low
+1067,Airline Operations Officer,Flight Scheduling,Aviation Safety Management,IATA Certification,Low
+1068,Accountant,Bookkeeping,Financial Modelling,ACCA,High
+1069,Agricultural Officer,Extension Services,GIS,GIS Certification,Low
+1070,Procurement Officer,Negotiation,Contract Management,CIPS Certification,High
+1071,Airport Operations Officer,Ground Handling,Airport Security Management,ICAO Certification,High
+1072,Video Editor,Storytelling,Motion Graphics,Adobe Certified Professional,Low
+1073,Physical Education Teacher,Fitness Training,Sports Psychology,TSC Registration,Low
+1074,Graphic Designer,Adobe Photoshop,UI/UX Design,Adobe Certified Professional,Low
+1075,Graphic Designer,Adobe Photoshop,Motion Graphics,Adobe Certified Professional,Low
+1076,Airline Operations Officer,Flight Scheduling,Aviation Safety Management,IATA Certification,Low
+1077,Conservation Officer,Fieldwork,GIS Mapping,KWS Certification,High
+1078,Architect,Design Drafting,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,Low
+1079,Marketing Executive,Digital Marketing,SEO,Google Digital Marketing Certificate,Low
+1080,Lawyer / Advocate,Legal Research,Litigation Skills,Kenya School of Law (KSL) Certification,Low
+1081,Tourism Officer,Customer Relations,Digital Marketing for Tourism,Tourism Regulatory Authority Certification,High
+1082,Financial Analyst,Financial Modelling,Investment Analysis,CFA Level 1,Low
+1083,Video Editor,Video Editing,Motion Graphics,Adobe Certified Professional,Low
+1084,Social Worker,Counselling,Community Mobilization,Kenya National Association of Social Workers Certification,High
+1085,Supply Chain Analyst,Excel,Data Analytics,CIPS Certification,High
+1086,Financial Analyst,Financial Modelling,Investment Analysis,CPA,Low
+1087,Airport Operations Officer,Safety Compliance,Airport Security Management,ICAO Certification,High
+1088,Architect,AutoCAD,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,High
+1089,Agricultural Officer,Extension Services,Precision Farming,GIS Certification,Low
+1090,Teacher,Lesson Planning,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+1091,Software Engineer,Java,System Design,AWS Certified Developer,High
+1092,Software Engineer,Web Development,DevOps,Google Cloud Associate,Low
+1093,Public Relations Officer,Communication,Crisis Management,PRSK Certification,High
+1094,Lawyer / Advocate,Legal Research,Case Management,Kenya School of Law (KSL) Certification,Low
+1095,Sports Coach,Coaching Techniques,Sports Science Analytics,Kenya National Sports Council Certification,High
+1096,Airport Operations Officer,Ground Handling,Airport Security Management,ICAO Certification,High
+1097,Supply Chain Analyst,Excel,Data Analytics,CIPS Certification,High
+1098,Lawyer / Advocate,Drafting,Case Management,Kenya School of Law (KSL) Certification,High
+1099,Community Development Officer,Community Engagement,Monitoring and Evaluation,M&E Certification,Low
+1100,Mechanical Engineer,AutoCAD,CAD/CAM,EBK Licensing,Low
+1101,Teacher,Lesson Planning,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+1102,Teacher,Lesson Planning,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+1103,Airport Operations Officer,Ground Handling,Airport Security Management,ICAO Certification,High
+1104,Airline Operations Officer,Customer Service,Aviation Safety Management,IATA Certification,Low
+1105,Electrical Engineer,Circuit Design,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,Low
+1106,Software Engineer,Python,Cloud Computing,Google Cloud Associate,Low
+1107,Architect,Design Drafting,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,Low
+1108,Accountant,Bookkeeping,Financial Modelling,ACCA,High
+1109,Software Engineer,Python,System Design,AWS Certified Developer,High
+1110,Civil Engineer,Structural Design,Project Management,Engineers Board of Kenya (EBK) Licensing,High
+1111,Journalist,Research,Video Editing,Adobe Certified Professional,High
+1112,Lawyer / Advocate,Legal Research,Litigation Skills,Kenya School of Law (KSL) Certification,Low
+1113,Business Analyst,Requirements Gathering,Power BI,Power BI Certification,Low
+1114,Mechanical Engineer,Machine Design,CAD/CAM,EBK Licensing,Low
+1115,Agricultural Officer,Crop Management,GIS,GIS Certification,Low
+1116,Software Engineer,Java,Cloud Computing,Google Cloud Associate,High
+1117,Environmental Officer,Impact Assessment,Climate Policy,GIS Certification,Low
+1118,Lawyer / Advocate,Drafting,Case Management,Kenya School of Law (KSL) Certification,High
+1119,Electrical Engineer,AutoCAD,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,High
+1120,Mechanical Engineer,Machine Design,CAD/CAM,EBK Licensing,Low
+1121,Airport Operations Officer,Safety Compliance,Airport Security Management,ICAO Certification,High
+1122,Conservation Officer,Fieldwork,GIS Mapping,KWS Certification,High
+1123,Financial Analyst,Excel,Investment Analysis,CFA Level 1,High
+1124,Airport Operations Officer,Ground Handling,Airport Security Management,ICAO Certification,High
+1125,Accountant,Financial Reporting,Financial Modelling,CPA,Low
+1126,Systems Analyst,SQL,Cloud,ITIL Foundation,Low
+1127,Accountant,Bookkeeping,Financial Modelling,ACCA,High
+1128,Environmental Officer,Impact Assessment,GIS,GIS Certification,Low
+1129,Financial Analyst,Financial Modelling,Investment Analysis,CFA Level 1,Low
+1130,Pharmacist,Dispensing,Clinical Pharmacy,Pharmacy and Poisons Board Licensing,High
+1131,Teacher,Classroom Management,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+1132,Graphic Designer,Illustration,UI/UX Design,Adobe Certified Professional,High
+1133,Medical Doctor,Clinical Diagnosis,Specialization,ACLS,Low
+1134,Financial Analyst,Financial Modelling,Investment Analysis,CFA Level 1,Low
+1135,Registered Nurse,Patient Care,Emergency Care,KRCHN Licensing,Low
+1136,Travel Consultant,Ticketing,Amadeus / GDS Systems,IATA Certification,High
+1137,Horticulturist,Plant Propagation,Greenhouse Management,Horticultural Crops Directorate Certification,Low
+1138,Public Relations Officer,Media Relations,Crisis Management,PRSK Certification,Low
+1139,Supply Chain Analyst,Excel,Data Analytics,CIPS Certification,High
+1140,Horticulturist,Plant Propagation,Greenhouse Management,Horticultural Crops Directorate Certification,Low
+1141,Graphic Designer,Illustration,Motion Graphics,Adobe Certified Professional,High
+1142,Actuarial Analyst,Statistics,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+1143,Medical Doctor,Patient Management,Surgery Skills,KMPDC Licensing,Low
+1144,Bank Officer,Credit Analysis,Risk Management,Certified Credit Professional,Low
+1145,Conservation Officer,Fieldwork,GIS Mapping,KWS Certification,High
+1146,Graphic Designer,Illustration,UI/UX Design,Adobe Certified Professional,High
+1147,Travel Consultant,Itinerary Planning,Amadeus / GDS Systems,IATA Certification,High
+1148,Medical Doctor,Clinical Diagnosis,Surgery Skills,KMPDC Licensing,Low
+1149,Community Development Officer,Community Engagement,Monitoring and Evaluation,M&E Certification,Low
+1150,Lawyer / Advocate,Drafting,Case Management,Kenya School of Law (KSL) Certification,High
+1151,Horticulturist,Plant Propagation,Greenhouse Management,Horticultural Crops Directorate Certification,Low
+1152,Electrical Engineer,Circuit Design,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,Low
+1153,Mechanical Engineer,AutoCAD,PLC Programming,EBK Licensing,High
+1154,Conservation Officer,Fieldwork,GIS Mapping,KWS Certification,High
+1155,Procurement Officer,Negotiation,Contract Management,CIPS Certification,High
+1156,Mechanical Engineer,AutoCAD,CAD/CAM,Siemens PLC Certification,Low
+1157,Airport Operations Officer,Safety Compliance,Airport Security Management,ICAO Certification,High
+1158,Teacher,Lesson Planning,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+1159,Physical Education Teacher,Coaching,Sports Psychology,TSC Registration,High
+1160,Actuarial Analyst,Statistics,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+1161,Environmental Officer,Environmental Monitoring,GIS,NEMA Certification,Low
+1162,Teacher,Lesson Planning,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+1163,Pharmacist,Dispensing,Clinical Pharmacy,Pharmacy and Poisons Board Licensing,High
+1164,Social Worker,Counselling,Community Mobilization,Kenya National Association of Social Workers Certification,High
+1165,Procurement Officer,Sourcing,Contract Management,CIPS Certification,High
+1166,Agricultural Officer,Crop Management,Precision Farming,GIS Certification,Low
+1167,Lawyer / Advocate,Drafting,Case Management,Kenya School of Law (KSL) Certification,High
+1168,Travel Consultant,Ticketing,Amadeus / GDS Systems,IATA Certification,High
+1169,Electrical Engineer,Circuit Design,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,Low
+1170,Financial Analyst,Financial Modelling,Investment Analysis,CFA Level 1,Low
+1171,Film Producer,Project Coordination,Budgeting for Film,Film Production Certificate,High
+1172,Lawyer / Advocate,Drafting,Case Management,Kenya School of Law (KSL) Certification,High
+1173,Sports Coach,Team Management,Sports Science Analytics,Kenya National Sports Council Certification,High
+1174,Public Relations Officer,Media Relations,Crisis Management,PRSK Certification,Low
+1175,Systems Analyst,SQL,Data Modelling,ITIL Foundation,High
+1176,Lawyer / Advocate,Legal Research,Litigation Skills,Kenya School of Law (KSL) Certification,Low
+1177,Airline Operations Officer,Flight Scheduling,Aviation Safety Management,IATA Certification,Low
+1178,Environmental Officer,Environmental Monitoring,GIS,NEMA Certification,Low
+1179,Community Development Officer,Project Coordination,Monitoring and Evaluation,M&E Certification,Low
+1180,Environmental Officer,Environmental Monitoring,Climate Policy,NEMA Certification,Low
+1181,Airline Operations Officer,Customer Service,Aviation Safety Management,IATA Certification,High
+1182,Sports Coach,Coaching Techniques,Sports Science Analytics,Kenya National Sports Council Certification,High
+1183,Agribusiness Manager,Marketing,Financial Planning,Agribusiness Management Certification,High
+1184,Teacher,Lesson Planning,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+1185,Physical Education Teacher,Coaching,Sports Psychology,TSC Registration,High
+1186,Public Relations Officer,Media Relations,Crisis Management,PRSK Certification,Low
+1187,Hotel Manager,Customer Service,Revenue Management,AHLEI Certification,Low
+1188,Lawyer / Advocate,Legal Research,Case Management,Kenya School of Law (KSL) Certification,Low
+1189,Procurement Officer,Sourcing,Contract Management,CIPS Certification,High
+1190,Teacher,Lesson Planning,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+1191,Lawyer / Advocate,Legal Research,Case Management,Kenya School of Law (KSL) Certification,Low
+1192,Registered Nurse,Patient Care,Critical Care Nursing,Basic Life Support (BLS),Low
+1193,Conservation Officer,Fieldwork,GIS Mapping,KWS Certification,High
+1194,Illustrator,Drawing,Character Design,Adobe Certified Professional,High
+1195,Airport Operations Officer,Safety Compliance,Airport Security Management,ICAO Certification,High
+1196,Architect,AutoCAD,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,High
+1197,Physical Education Teacher,Fitness Training,Sports Psychology,TSC Registration,Low
+1198,Tourism Officer,Customer Relations,Digital Marketing for Tourism,Tourism Regulatory Authority Certification,High
+1199,Business Analyst,Requirements Gathering,Power BI,CBAP,Low
+1200,Accountant,Bookkeeping,Financial Modelling,ACCA,High
+1201,Teacher,Classroom Management,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+1202,Community Development Officer,Community Engagement,Monitoring and Evaluation,M&E Certification,Low
+1203,Agribusiness Manager,Marketing,Financial Planning,Agribusiness Management Certification,High
+1204,Lawyer / Advocate,Drafting,Litigation Skills,Kenya School of Law (KSL) Certification,High
+1205,News Anchor,Public Speaking,Broadcast Presentation,Broadcast Journalism Certificate,Low
+1206,Mechanical Engineer,AutoCAD,CAD/CAM,EBK Licensing,Low
+1207,Journalist,Writing,Video Editing,Adobe Certified Professional,High
+1208,Journalist,Writing,Digital Journalism,Adobe Certified Professional,High
+1209,Supply Chain Analyst,Inventory Management,Data Analytics,CIPS Certification,Low
+1210,Horticulturist,Plant Propagation,Greenhouse Management,Horticultural Crops Directorate Certification,Low
+1211,Graphic Designer,Adobe Photoshop,Motion Graphics,Adobe Certified Professional,Low
+1212,Pharmacist,Pharmacology,Clinical Pharmacy,Pharmacy and Poisons Board Licensing,High
+1213,Travel Consultant,Itinerary Planning,Amadeus / GDS Systems,IATA Certification,High
+1214,Bank Officer,Customer Service,Risk Management,CPA,Low
+1215,Medical Doctor,Patient Management,Surgery Skills,KMPDC Licensing,Low
+1216,Public Relations Officer,Media Relations,Crisis Management,PRSK Certification,Low
+1217,Environmental Officer,Environmental Monitoring,GIS,GIS Certification,Low
+1218,Social Worker,Counselling,Community Mobilization,Kenya National Association of Social Workers Certification,High
+1219,Financial Analyst,Financial Modelling,Investment Analysis,CFA Level 1,Low
+1220,Actuarial Analyst,Risk Analysis,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+1221,Social Worker,Case Management,Community Mobilization,Kenya National Association of Social Workers Certification,Low
+1222,Pharmacist,Pharmacology,Clinical Pharmacy,Pharmacy and Poisons Board Licensing,High
+1223,Social Worker,Case Management,Community Mobilization,Kenya National Association of Social Workers Certification,Low
+1224,Journalist,Research,Video Editing,Adobe Certified Professional,High
+1225,Pharmacist,Pharmacology,Clinical Pharmacy,Pharmacy and Poisons Board Licensing,High
+1226,Teacher,Classroom Management,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+1227,Social Worker,Case Management,Community Mobilization,Kenya National Association of Social Workers Certification,Low
+1228,Environmental Officer,Impact Assessment,GIS,NEMA Certification,Low
+1229,Bank Officer,Credit Analysis,Risk Management,Certified Credit Professional,Low
+1230,Travel Consultant,Ticketing,Amadeus / GDS Systems,IATA Certification,High
+1231,Agribusiness Manager,Marketing,Financial Planning,Agribusiness Management Certification,High
+1232,Lawyer / Advocate,Legal Research,Case Management,Kenya School of Law (KSL) Certification,Low
+1233,Conservation Officer,Fieldwork,GIS Mapping,KWS Certification,High
+1234,Airline Operations Officer,Customer Service,Aviation Safety Management,IATA Certification,High
+1235,Actuarial Analyst,Risk Analysis,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+1236,Hotel Manager,Customer Service,Revenue Management,AHLEI Certification,Low
+1237,Physical Education Teacher,Fitness Training,Sports Psychology,TSC Registration,Low
+1238,Pharmacist,Pharmacology,Clinical Pharmacy,Pharmacy and Poisons Board Licensing,High
+1239,Medical Doctor,Clinical Diagnosis,Specialization,ACLS,Low
+1240,Lawyer / Advocate,Drafting,Case Management,Kenya School of Law (KSL) Certification,High
+1241,Illustrator,Drawing,Character Design,Adobe Certified Professional,High
+1242,Sports Coach,Coaching Techniques,Sports Science Analytics,Kenya National Sports Council Certification,High
+1243,Architect,AutoCAD,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,High
+1244,Environmental Officer,Impact Assessment,Climate Policy,GIS Certification,Low
+1245,Social Worker,Counselling,Community Mobilization,Kenya National Association of Social Workers Certification,High
+1246,Conservation Officer,Wildlife Management,GIS Mapping,KWS Certification,Low
+1247,Travel Consultant,Ticketing,Amadeus / GDS Systems,IATA Certification,High
+1248,Teacher,Classroom Management,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+1249,Conservation Officer,Wildlife Management,GIS Mapping,KWS Certification,Low
+1250,Civil Engineer,Structural Design,BIM,PMP,Low
+1251,Journalist,Writing,Video Editing,Adobe Certified Professional,High
+1252,Hotel Manager,Customer Service,Revenue Management,AHLEI Certification,Low
+1253,Physical Education Teacher,Coaching,Sports Psychology,TSC Registration,High
+1254,Lawyer / Advocate,Drafting,Case Management,Kenya School of Law (KSL) Certification,High
+1255,Airport Operations Officer,Ground Handling,Airport Security Management,ICAO Certification,High
+1256,Agribusiness Manager,Marketing,Financial Planning,Agribusiness Management Certification,High
+1257,Supply Chain Analyst,Inventory Management,Data Analytics,CIPS Certification,Low
+1258,Sports Coach,Team Management,Sports Science Analytics,Kenya National Sports Council Certification,High
+1259,Environmental Officer,Environmental Monitoring,GIS,NEMA Certification,Low
+1260,Bank Officer,Credit Analysis,Risk Management,CPA,Low
+1261,Agribusiness Manager,Marketing,Financial Planning,Agribusiness Management Certification,High
+1262,Video Editor,Storytelling,Motion Graphics,Adobe Certified Professional,High
+1263,Medical Doctor,Patient Management,Surgery Skills,ACLS,Low
+1264,Travel Consultant,Ticketing,Amadeus / GDS Systems,IATA Certification,High
+1265,Physical Education Teacher,Coaching,Sports Psychology,TSC Registration,High
+1266,Data Analyst,SQL,Power BI,Power BI Certification,High
+1267,Pharmacist,Dispensing,Clinical Pharmacy,Pharmacy and Poisons Board Licensing,High
+1268,Conservation Officer,Fieldwork,GIS Mapping,KWS Certification,High
+1269,Environmental Officer,Impact Assessment,Climate Policy,NEMA Certification,Low
+1270,Procurement Officer,Sourcing,Contract Management,CIPS Certification,High
+1271,Airline Operations Officer,Flight Scheduling,Aviation Safety Management,IATA Certification,Low
+1272,Medical Doctor,Patient Management,Specialization,ACLS,Low
+1273,Public Relations Officer,Media Relations,Crisis Management,PRSK Certification,Low
+1274,Procurement Officer,Sourcing,Contract Management,CIPS Certification,Low
+1275,Film Producer,Scriptwriting,Budgeting for Film,Film Production Certificate,High
+1276,Sports Coach,Team Management,Sports Science Analytics,Kenya National Sports Council Certification,High
+1277,Sports Coach,Team Management,Sports Science Analytics,Kenya National Sports Council Certification,High
+1278,Teacher,Classroom Management,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+1279,Teacher,Lesson Planning,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+1280,Procurement Officer,Negotiation,Contract Management,CIPS Certification,High
+1281,Supply Chain Analyst,Inventory Management,Data Analytics,CIPS Certification,Low
+1282,Electrical Engineer,Circuit Design,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,Low
+1283,Conservation Officer,Fieldwork,GIS Mapping,KWS Certification,High
+1284,Video Editor,Storytelling,Motion Graphics,Adobe Certified Professional,High
+1285,Pharmacist,Pharmacology,Clinical Pharmacy,Pharmacy and Poisons Board Licensing,High
+1286,Horticulturist,Crop Care,Greenhouse Management,Horticultural Crops Directorate Certification,Low
+1287,Software Engineer,Java,Cloud Computing,AWS Certified Developer,High
+1288,Teacher,Classroom Management,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+1289,Mechanical Engineer,AutoCAD,CAD/CAM,EBK Licensing,Low
+1290,Sports Coach,Team Management,Sports Science Analytics,Kenya National Sports Council Certification,High
+1291,Mobile App Developer,Java,UI/UX Design,Google Associate Android Developer,High
+1292,Architect,AutoCAD,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,High
+1293,Teacher,Lesson Planning,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+1294,Airline Operations Officer,Customer Service,Aviation Safety Management,IATA Certification,Low
+1295,Journalist,Research,Digital Journalism,Adobe Certified Professional,High
+1296,Network Administrator,Server Management,Security,CompTIA Security+,Low
+1297,Film Producer,Scriptwriting,Budgeting for Film,Film Production Certificate,High
+1298,Procurement Officer,Sourcing,Contract Management,CIPS Certification,High
+1299,IT Support Specialist,Networking Basics,Cybersecurity,CompTIA Network+,Low
+1300,Actuarial Analyst,Statistics,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+1301,Public Relations Officer,Communication,Crisis Management,PRSK Certification,High
+1302,Hotel Manager,Front Office Operations,Revenue Management,AHLEI Certification,Low
+1303,Travel Consultant,Itinerary Planning,Amadeus / GDS Systems,IATA Certification,High
+1304,Mechanical Engineer,Machine Design,CAD/CAM,EBK Licensing,Low
+1305,Clinical Officer,Clinical Assessment,Specialized Diagnostics,Clinical Officers Council Licensing,Low
+1306,Graphic Designer,Adobe Photoshop,UI/UX Design,Adobe Certified Professional,Low
+1307,Hotel Manager,Customer Service,Revenue Management,AHLEI Certification,Low
+1308,Community Development Officer,Community Engagement,Monitoring and Evaluation,M&E Certification,Low
+1309,Teacher,Classroom Management,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+1310,Teacher,Classroom Management,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+1311,Public Relations Officer,Communication,Crisis Management,PRSK Certification,High
+1312,Lawyer / Advocate,Drafting,Case Management,Kenya School of Law (KSL) Certification,High
+1313,Journalist,Writing,Video Editing,Adobe Certified Professional,High
+1314,Community Development Officer,Community Engagement,Monitoring and Evaluation,M&E Certification,Low
+1315,Electrical Engineer,Circuit Design,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,Low
+1316,Actuarial Analyst,Risk Analysis,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+1317,Conservation Officer,Wildlife Management,GIS Mapping,KWS Certification,Low
+1318,Physical Education Teacher,Coaching,Sports Psychology,TSC Registration,High
+1319,Lawyer / Advocate,Drafting,Case Management,Kenya School of Law (KSL) Certification,High
+1320,Community Development Officer,Community Engagement,Monitoring and Evaluation,M&E Certification,Low
+1321,Teacher,Lesson Planning,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+1322,Public Relations Officer,Media Relations,Crisis Management,PRSK Certification,Low
+1323,Lawyer / Advocate,Drafting,Case Management,Kenya School of Law (KSL) Certification,High
+1324,Data Scientist,Python,Deep Learning,TensorFlow Developer Certificate,High
+1325,Electrical Engineer,Circuit Design,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,Low
+1326,Travel Consultant,Itinerary Planning,Amadeus / GDS Systems,IATA Certification,High
+1327,Social Worker,Case Management,Community Mobilization,Kenya National Association of Social Workers Certification,Low
+1328,Travel Consultant,Ticketing,Amadeus / GDS Systems,IATA Certification,High
+1329,Architect,AutoCAD,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,High
+1330,Mechanical Engineer,AutoCAD,PLC Programming,EBK Licensing,High
+1331,Social Worker,Case Management,Community Mobilization,Kenya National Association of Social Workers Certification,Low
+1332,Teacher,Classroom Management,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+1333,Agribusiness Manager,Farm Management,Financial Planning,Agribusiness Management Certification,Low
+1334,Illustrator,Digital Art,Character Design,Adobe Certified Professional,Low
+1335,Agricultural Officer,Crop Management,GIS,GIS Certification,Low
+1336,Accountant,Bookkeeping,Taxation,CPA,Low
+1337,Data Analyst,SQL,Machine Learning,Power BI Certification,High
+1338,Social Worker,Counselling,Community Mobilization,Kenya National Association of Social Workers Certification,High
+1339,Teacher,Lesson Planning,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+1340,Electrical Engineer,AutoCAD,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,High
+1341,Conservation Officer,Fieldwork,GIS Mapping,KWS Certification,High
+1342,Lawyer / Advocate,Drafting,Case Management,Kenya School of Law (KSL) Certification,High
+1343,Financial Analyst,Financial Modelling,Investment Analysis,CFA Level 1,Low
+1344,Financial Analyst,Financial Modelling,Investment Analysis,CPA,Low
+1345,Environmental Officer,Impact Assessment,GIS,NEMA Certification,Low
+1346,Environmental Officer,Environmental Monitoring,Climate Policy,NEMA Certification,Low
+1347,Hotel Manager,Front Office Operations,Revenue Management,AHLEI Certification,Low
+1348,Illustrator,Digital Art,Character Design,Adobe Certified Professional,Low
+1349,Sports Coach,Team Management,Sports Science Analytics,Kenya National Sports Council Certification,High
+1350,Software Engineer,Java,DevOps,Microsoft Azure Fundamentals,Low
+1351,Teacher,Classroom Management,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+1352,Clinical Officer,Clinical Assessment,Specialized Diagnostics,Clinical Officers Council Licensing,Low
+1353,Actuarial Analyst,Risk Analysis,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+1354,Public Relations Officer,Media Relations,Crisis Management,PRSK Certification,Low
+1355,Software Engineer,Web Development,DevOps,Microsoft Azure Fundamentals,Low
+1356,Lawyer / Advocate,Legal Research,Case Management,Kenya School of Law (KSL) Certification,Low
+1357,Airline Operations Officer,Flight Scheduling,Aviation Safety Management,IATA Certification,Low
+1358,Financial Analyst,Excel,Investment Analysis,CFA Level 1,High
+1359,Teacher,Classroom Management,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+1360,Electrical Engineer,AutoCAD,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,High
+1361,Agribusiness Manager,Farm Management,Financial Planning,Agribusiness Management Certification,Low
+1362,Travel Consultant,Itinerary Planning,Amadeus / GDS Systems,IATA Certification,High
+1363,Physical Education Teacher,Coaching,Sports Psychology,TSC Registration,High
+1364,Social Worker,Case Management,Community Mobilization,Kenya National Association of Social Workers Certification,Low
+1365,Community Development Officer,Project Coordination,Monitoring and Evaluation,M&E Certification,Low
+1366,Architect,AutoCAD,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,High
+1367,Actuarial Analyst,Risk Analysis,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+1368,Software Engineer,Python,Cloud Computing,AWS Certified Developer,High
+1369,Conservation Officer,Fieldwork,GIS Mapping,KWS Certification,High
+1370,Social Worker,Counselling,Community Mobilization,Kenya National Association of Social Workers Certification,High
+1371,Pharmacist,Pharmacology,Clinical Pharmacy,Pharmacy and Poisons Board Licensing,High
+1372,Physical Education Teacher,Coaching,Sports Psychology,TSC Registration,High
+1373,Clinical Officer,Clinical Assessment,Specialized Diagnostics,Clinical Officers Council Licensing,Low
+1374,Graphic Designer,Illustration,UI/UX Design,Adobe Certified Professional,High
+1375,Software Engineer,Java,DevOps,Microsoft Azure Fundamentals,Low
+1376,Agribusiness Manager,Farm Management,Financial Planning,Agribusiness Management Certification,Low
+1377,Public Relations Officer,Media Relations,Crisis Management,PRSK Certification,Low
+1378,Community Development Officer,Project Coordination,Monitoring and Evaluation,M&E Certification,Low
+1379,Lawyer / Advocate,Legal Research,Litigation Skills,Kenya School of Law (KSL) Certification,Low
+1380,Social Worker,Case Management,Community Mobilization,Kenya National Association of Social Workers Certification,Low
+1381,Tourism Officer,Customer Relations,Digital Marketing for Tourism,Tourism Regulatory Authority Certification,High
+1382,Architect,Design Drafting,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,Low
+1383,Airport Operations Officer,Safety Compliance,Airport Security Management,ICAO Certification,High
+1384,Agribusiness Manager,Farm Management,Financial Planning,Agribusiness Management Certification,Low
+1385,Civil Engineer,AutoCAD,Project Management,Engineers Board of Kenya (EBK) Licensing,High
+1386,Software Engineer,Python,Cloud Computing,AWS Certified Developer,High
+1387,Financial Analyst,Excel,Investment Analysis,CPA,High
+1388,Travel Consultant,Itinerary Planning,Amadeus / GDS Systems,IATA Certification,High
+1389,Social Worker,Case Management,Community Mobilization,Kenya National Association of Social Workers Certification,Low
+1390,Mobile App Developer,Java,UI/UX Design,Google Associate Android Developer,High
+1391,Supply Chain Analyst,Inventory Management,Data Analytics,CIPS Certification,High
+1392,Actuarial Analyst,Statistics,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+1393,Community Development Officer,Project Coordination,Monitoring and Evaluation,M&E Certification,Low
+1394,Sports Coach,Coaching Techniques,Sports Science Analytics,Kenya National Sports Council Certification,High
+1395,Horticulturist,Crop Care,Greenhouse Management,Horticultural Crops Directorate Certification,Low
+1396,Software Engineer,Web Development,DevOps,Google Cloud Associate,Low
+1397,News Anchor,Writing,Broadcast Presentation,Broadcast Journalism Certificate,High
+1398,Teacher,Lesson Planning,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+1399,Mechanical Engineer,Machine Design,CAD/CAM,EBK Licensing,Low
+1400,Public Relations Officer,Communication,Crisis Management,PRSK Certification,High
+1401,Environmental Officer,Impact Assessment,Climate Policy,GIS Certification,Low
+1402,Registered Nurse,Clinical Skills,Emergency Care,Basic Life Support (BLS),Low
+1403,Civil Engineer,AutoCAD,Project Management,PMP,High
+1404,Financial Analyst,Financial Modelling,Investment Analysis,CFA Level 1,Low
+1405,Pharmacist,Dispensing,Clinical Pharmacy,Pharmacy and Poisons Board Licensing,High
+1406,Accountant,Financial Reporting,Taxation,ACCA,Low
+1407,Physical Education Teacher,Fitness Training,Sports Psychology,TSC Registration,Low
+1408,Teacher,Classroom Management,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+1409,Actuarial Analyst,Statistics,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+1410,Airport Operations Officer,Safety Compliance,Airport Security Management,ICAO Certification,High
+1411,News Anchor,Writing,Broadcast Presentation,Broadcast Journalism Certificate,High
+1412,Financial Analyst,Financial Modelling,Investment Analysis,CFA Level 1,Low
+1413,Environmental Officer,Environmental Monitoring,GIS,GIS Certification,Low
+1414,Illustrator,Drawing,Character Design,Adobe Certified Professional,High
+1415,Community Development Officer,Community Engagement,Monitoring and Evaluation,M&E Certification,Low
+1416,Travel Consultant,Ticketing,Amadeus / GDS Systems,IATA Certification,High
+1417,Airline Operations Officer,Customer Service,Aviation Safety Management,IATA Certification,Low
+1418,Architect,AutoCAD,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,High
+1419,Supply Chain Analyst,Inventory Management,Data Analytics,CIPS Certification,Low
+1420,Graphic Designer,Illustration,Motion Graphics,Adobe Certified Professional,High
+1421,Conservation Officer,Fieldwork,GIS Mapping,KWS Certification,High
+1422,Sports Coach,Team Management,Sports Science Analytics,Kenya National Sports Council Certification,Low
+1423,Actuarial Analyst,Risk Analysis,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+1424,Public Relations Officer,Communication,Crisis Management,PRSK Certification,High
+1425,Teacher,Classroom Management,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+1426,Graphic Designer,Illustration,UI/UX Design,Adobe Certified Professional,High
+1427,Illustrator,Drawing,Character Design,Adobe Certified Professional,High
+1428,Actuarial Analyst,Risk Analysis,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+1429,Teacher,Lesson Planning,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+1430,Agricultural Officer,Extension Services,Precision Farming,GIS Certification,Low
+1431,Registered Nurse,Clinical Skills,Critical Care Nursing,Basic Life Support (BLS),Low
+1432,Community Development Officer,Community Engagement,Monitoring and Evaluation,M&E Certification,Low
+1433,Airline Operations Officer,Flight Scheduling,Aviation Safety Management,IATA Certification,Low
+1434,Hotel Manager,Front Office Operations,Revenue Management,AHLEI Certification,Low
+1435,Airline Operations Officer,Flight Scheduling,Aviation Safety Management,IATA Certification,Low
+1436,Environmental Officer,Impact Assessment,GIS,NEMA Certification,Low
+1437,Horticulturist,Crop Care,Greenhouse Management,Horticultural Crops Directorate Certification,Low
+1438,Environmental Officer,Impact Assessment,GIS,NEMA Certification,Low
+1439,Conservation Officer,Fieldwork,GIS Mapping,KWS Certification,High
+1440,Agricultural Officer,Extension Services,GIS,GIS Certification,Low
+1441,Airport Operations Officer,Ground Handling,Airport Security Management,ICAO Certification,High
+1442,Electrical Engineer,Circuit Design,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,Low
+1443,Sports Coach,Coaching Techniques,Sports Science Analytics,Kenya National Sports Council Certification,High
+1444,Video Editor,Video Editing,Motion Graphics,Adobe Certified Professional,Low
+1445,Airline Operations Officer,Customer Service,Aviation Safety Management,IATA Certification,Low
+1446,Teacher,Classroom Management,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+1447,Architect,AutoCAD,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,High
+1448,Registered Nurse,Patient Care,Emergency Care,KRCHN Licensing,Low
+1449,Illustrator,Drawing,Character Design,Adobe Certified Professional,High
+1450,Graphic Designer,Adobe Photoshop,UI/UX Design,Adobe Certified Professional,Low
+1451,Pharmacist,Dispensing,Clinical Pharmacy,Pharmacy and Poisons Board Licensing,High
+1452,Registered Nurse,Clinical Skills,Critical Care Nursing,KRCHN Licensing,Low
+1453,Airport Operations Officer,Ground Handling,Airport Security Management,ICAO Certification,High
+1454,Conservation Officer,Wildlife Management,GIS Mapping,KWS Certification,Low
+1455,Video Editor,Video Editing,Motion Graphics,Adobe Certified Professional,Low
+1456,Teacher,Lesson Planning,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+1457,Actuarial Analyst,Statistics,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+1458,Sports Coach,Team Management,Sports Science Analytics,Kenya National Sports Council Certification,High
+1459,Lawyer / Advocate,Legal Research,Case Management,Kenya School of Law (KSL) Certification,Low
+1460,Teacher,Classroom Management,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+1461,Conservation Officer,Wildlife Management,GIS Mapping,KWS Certification,Low
+1462,Airport Operations Officer,Safety Compliance,Airport Security Management,ICAO Certification,High
+1463,Environmental Officer,Environmental Monitoring,GIS,GIS Certification,Low
+1464,Environmental Officer,Impact Assessment,GIS,NEMA Certification,Low
+1465,Film Producer,Project Coordination,Budgeting for Film,Film Production Certificate,High
+1466,Systems Analyst,Business Analysis,Data Modelling,CBAP,Low
+1467,Environmental Officer,Environmental Monitoring,Climate Policy,GIS Certification,Low
+1468,Environmental Officer,Impact Assessment,GIS,GIS Certification,Low
+1469,Environmental Officer,Impact Assessment,Climate Policy,GIS Certification,Low
+1470,Actuarial Analyst,Statistics,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+1471,Graphic Designer,Adobe Photoshop,Motion Graphics,Adobe Certified Professional,Low
+1472,Teacher,Classroom Management,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+1473,Travel Consultant,Itinerary Planning,Amadeus / GDS Systems,IATA Certification,High
+1474,Sports Coach,Coaching Techniques,Sports Science Analytics,Kenya National Sports Council Certification,High
+1475,Teacher,Classroom Management,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+1476,Medical Doctor,Patient Management,Surgery Skills,ACLS,Low
+1477,Lawyer / Advocate,Drafting,Litigation Skills,Kenya School of Law (KSL) Certification,High
+1478,Mobile App Developer,Java,Flutter,Google Associate Android Developer,Low
+1479,Teacher,Classroom Management,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+1480,Mechanical Engineer,AutoCAD,CAD/CAM,EBK Licensing,Low
+1481,Teacher,Lesson Planning,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+1482,Operations Manager,Process Management,Supply Chain Optimization,Six Sigma Green Belt,Low
+1483,Teacher,Lesson Planning,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+1484,Network Administrator,Server Management,Cloud Networking,CCNA,Low
+1485,Travel Consultant,Ticketing,Amadeus / GDS Systems,IATA Certification,High
+1486,Registered Nurse,Patient Care,Emergency Care,Basic Life Support (BLS),Low
+1487,Sports Coach,Coaching Techniques,Sports Science Analytics,Kenya National Sports Council Certification,High
+1488,Airline Operations Officer,Flight Scheduling,Aviation Safety Management,IATA Certification,Low
+1489,Pharmacist,Dispensing,Clinical Pharmacy,Pharmacy and Poisons Board Licensing,High
+1490,Teacher,Lesson Planning,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+1491,Teacher,Lesson Planning,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+1492,Medical Doctor,Clinical Diagnosis,Specialization,KMPDC Licensing,Low
+1493,Medical Doctor,Patient Management,Surgery Skills,ACLS,Low
+1494,Operations Manager,Team Leadership,Supply Chain Optimization,Six Sigma Green Belt,Low
+1495,Electrical Engineer,AutoCAD,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,High
+1496,Community Development Officer,Project Coordination,Monitoring and Evaluation,M&E Certification,Low
+1497,Agricultural Officer,Extension Services,GIS,GIS Certification,Low
+1498,Airline Operations Officer,Customer Service,Aviation Safety Management,IATA Certification,Low
+1499,Financial Analyst,Financial Modelling,Investment Analysis,CFA Level 1,Low
+1500,Agribusiness Manager,Farm Management,Financial Planning,Agribusiness Management Certification,Low
+1501,Social Worker,Case Management,Community Mobilization,Kenya National Association of Social Workers Certification,Low
+1502,Environmental Officer,Impact Assessment,Climate Policy,GIS Certification,Low
+1503,Lawyer / Advocate,Drafting,Case Management,Kenya School of Law (KSL) Certification,High
+1504,Agribusiness Manager,Farm Management,Financial Planning,Agribusiness Management Certification,Low
+1505,Film Producer,Project Coordination,Budgeting for Film,Film Production Certificate,High
+1506,Social Worker,Counselling,Community Mobilization,Kenya National Association of Social Workers Certification,High
+1507,Mechanical Engineer,Machine Design,PLC Programming,EBK Licensing,Low
+1508,Graphic Designer,Adobe Photoshop,Motion Graphics,Adobe Certified Professional,Low
+1509,Teacher,Classroom Management,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+1510,Lawyer / Advocate,Drafting,Case Management,Kenya School of Law (KSL) Certification,High
+1511,Mechanical Engineer,AutoCAD,PLC Programming,Siemens PLC Certification,High
+1512,Illustrator,Digital Art,Character Design,Adobe Certified Professional,Low
+1513,Electrical Engineer,Circuit Design,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,Low
+1514,Environmental Officer,Environmental Monitoring,GIS,GIS Certification,Low
+1515,Sports Coach,Coaching Techniques,Sports Science Analytics,Kenya National Sports Council Certification,High
+1516,Conservation Officer,Fieldwork,GIS Mapping,KWS Certification,High
+1517,Environmental Officer,Environmental Monitoring,Climate Policy,NEMA Certification,Low
+1518,Architect,AutoCAD,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,High
+1519,Marketing Executive,Content Creation,SEO,Google Digital Marketing Certificate,Low
+1520,Agricultural Officer,Crop Management,Precision Farming,GIS Certification,Low
+1521,Sports Coach,Coaching Techniques,Sports Science Analytics,Kenya National Sports Council Certification,High
+1522,Registered Nurse,Clinical Skills,Critical Care Nursing,KRCHN Licensing,Low
+1523,Conservation Officer,Fieldwork,GIS Mapping,KWS Certification,High
+1524,Civil Engineer,AutoCAD,Project Management,Engineers Board of Kenya (EBK) Licensing,High
+1525,Agribusiness Manager,Marketing,Financial Planning,Agribusiness Management Certification,High
+1526,Agricultural Officer,Extension Services,GIS,GIS Certification,Low
+1527,Clinical Officer,Clinical Assessment,Specialized Diagnostics,Clinical Officers Council Licensing,Low
+1528,IT Support Specialist,Networking Basics,Cloud Support,CompTIA Network+,High
+1529,Community Development Officer,Community Engagement,Monitoring and Evaluation,M&E Certification,Low
+1530,Data Scientist,Python,MLOps,TensorFlow Developer Certificate,Low
+1531,Lawyer / Advocate,Drafting,Case Management,Kenya School of Law (KSL) Certification,High
+1532,Sports Coach,Team Management,Sports Science Analytics,Kenya National Sports Council Certification,High
+1533,Agribusiness Manager,Marketing,Financial Planning,Agribusiness Management Certification,High
+1534,Airport Operations Officer,Safety Compliance,Airport Security Management,ICAO Certification,High
+1535,Actuarial Analyst,Risk Analysis,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+1536,Mechanical Engineer,AutoCAD,PLC Programming,EBK Licensing,High
+1537,Horticulturist,Plant Propagation,Greenhouse Management,Horticultural Crops Directorate Certification,Low
+1538,Social Worker,Case Management,Community Mobilization,Kenya National Association of Social Workers Certification,Low
+1539,Hotel Manager,Customer Service,Revenue Management,AHLEI Certification,Low
+1540,Public Relations Officer,Media Relations,Crisis Management,PRSK Certification,Low
+1541,Agricultural Officer,Extension Services,GIS,GIS Certification,Low
+1542,Video Editor,Video Editing,Motion Graphics,Adobe Certified Professional,Low
+1543,Sports Coach,Coaching Techniques,Sports Science Analytics,Kenya National Sports Council Certification,High
+1544,News Anchor,Writing,Broadcast Presentation,Broadcast Journalism Certificate,High
+1545,Airport Operations Officer,Safety Compliance,Airport Security Management,ICAO Certification,High
+1546,Data Analyst,Excel,Power BI,Power BI Certification,High
+1547,Environmental Officer,Environmental Monitoring,Climate Policy,GIS Certification,Low
+1548,Airport Operations Officer,Safety Compliance,Airport Security Management,ICAO Certification,High
+1549,Social Worker,Case Management,Community Mobilization,Kenya National Association of Social Workers Certification,Low
+1550,Public Relations Officer,Media Relations,Crisis Management,PRSK Certification,Low
+1551,Public Relations Officer,Media Relations,Crisis Management,PRSK Certification,Low
+1552,Procurement Officer,Negotiation,Contract Management,CIPS Certification,High
+1553,Airport Operations Officer,Safety Compliance,Airport Security Management,ICAO Certification,High
+1554,Physical Education Teacher,Fitness Training,Sports Psychology,TSC Registration,Low
+1555,Airport Operations Officer,Ground Handling,Airport Security Management,ICAO Certification,High
+1556,Marketing Executive,Content Creation,Data-Driven Marketing,HubSpot Certification,High
+1557,Mechanical Engineer,AutoCAD,PLC Programming,EBK Licensing,High
+1558,Bank Officer,Credit Analysis,Risk Management,Certified Credit Professional,Low
+1559,Environmental Officer,Impact Assessment,Climate Policy,GIS Certification,Low
+1560,Agribusiness Manager,Farm Management,Financial Planning,Agribusiness Management Certification,Low
+1561,Supply Chain Analyst,Excel,Data Analytics,CIPS Certification,High
+1562,Accountant,Financial Reporting,Taxation,CPA,Low
+1563,Lawyer / Advocate,Legal Research,Case Management,Kenya School of Law (KSL) Certification,Low
+1564,Environmental Officer,Impact Assessment,Climate Policy,GIS Certification,Low
+1565,Business Analyst,Requirements Gathering,Power BI,Power BI Certification,Low
+1566,Airport Operations Officer,Ground Handling,Airport Security Management,ICAO Certification,High
+1567,Lawyer / Advocate,Legal Research,Case Management,Kenya School of Law (KSL) Certification,High
+1568,Environmental Officer,Impact Assessment,Climate Policy,NEMA Certification,Low
+1569,Social Worker,Counselling,Community Mobilization,Kenya National Association of Social Workers Certification,High
+1570,Medical Doctor,Patient Management,Surgery Skills,KMPDC Licensing,Low
+1571,Clinical Officer,Clinical Assessment,Specialized Diagnostics,Clinical Officers Council Licensing,Low
+1572,Procurement Officer,Negotiation,Contract Management,CIPS Certification,High
+1573,Agribusiness Manager,Marketing,Financial Planning,Agribusiness Management Certification,High
+1574,Environmental Officer,Environmental Monitoring,Climate Policy,GIS Certification,Low
+1575,Data Analyst,Excel,Machine Learning,Power BI Certification,High
+1576,Teacher,Lesson Planning,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+1577,Accountant,Financial Reporting,Financial Modelling,ACCA,Low
+1578,Data Scientist,Statistics,MLOps,TensorFlow Developer Certificate,Low
+1579,Illustrator,Digital Art,Character Design,Adobe Certified Professional,Low
+1580,Teacher,Lesson Planning,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+1581,Conservation Officer,Wildlife Management,GIS Mapping,KWS Certification,Low
+1582,Environmental Officer,Impact Assessment,Climate Policy,NEMA Certification,Low
+1583,Graphic Designer,Illustration,Motion Graphics,Adobe Certified Professional,High
+1584,Film Producer,Scriptwriting,Budgeting for Film,Film Production Certificate,High
+1585,Civil Engineer,AutoCAD,Project Management,PMP,High
+1586,Physical Education Teacher,Coaching,Sports Psychology,TSC Registration,High
+1587,Airport Operations Officer,Safety Compliance,Airport Security Management,ICAO Certification,High
+1588,Social Worker,Counselling,Community Mobilization,Kenya National Association of Social Workers Certification,High
+1589,Lawyer / Advocate,Legal Research,Case Management,Kenya School of Law (KSL) Certification,Low
+1590,Conservation Officer,Wildlife Management,GIS Mapping,KWS Certification,Low
+1591,Public Relations Officer,Communication,Crisis Management,PRSK Certification,High
+1592,Medical Doctor,Patient Management,Specialization,KMPDC Licensing,Low
+1593,Airline Operations Officer,Flight Scheduling,Aviation Safety Management,IATA Certification,Low
+1594,Airline Operations Officer,Customer Service,Aviation Safety Management,IATA Certification,Low
+1595,Architect,Design Drafting,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,Low
+1596,Sports Coach,Coaching Techniques,Sports Science Analytics,Kenya National Sports Council Certification,High
+1597,Social Worker,Case Management,Community Mobilization,Kenya National Association of Social Workers Certification,Low
+1598,Lawyer / Advocate,Legal Research,Litigation Skills,Kenya School of Law (KSL) Certification,Low
+1599,Physical Education Teacher,Fitness Training,Sports Psychology,TSC Registration,Low
+1600,Architect,Design Drafting,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,Low
+1601,Airport Operations Officer,Safety Compliance,Airport Security Management,ICAO Certification,High
+1602,Social Worker,Case Management,Community Mobilization,Kenya National Association of Social Workers Certification,Low
+1603,Mechanical Engineer,Machine Design,CAD/CAM,Siemens PLC Certification,Low
+1604,Electrical Engineer,Circuit Design,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,Low
+1605,Social Worker,Case Management,Community Mobilization,Kenya National Association of Social Workers Certification,Low
+1606,Architect,AutoCAD,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,High
+1607,Environmental Officer,Environmental Monitoring,Climate Policy,NEMA Certification,Low
+1608,Conservation Officer,Fieldwork,GIS Mapping,KWS Certification,High
+1609,Registered Nurse,Patient Care,Critical Care Nursing,Basic Life Support (BLS),Low
+1610,Bank Officer,Customer Service,Risk Management,Certified Credit Professional,Low
+1611,Agricultural Officer,Extension Services,GIS,GIS Certification,Low
+1612,Accountant,Financial Reporting,Taxation,CPA,Low
+1613,Travel Consultant,Itinerary Planning,Amadeus / GDS Systems,IATA Certification,High
+1614,Conservation Officer,Wildlife Management,GIS Mapping,KWS Certification,Low
+1615,Mechanical Engineer,AutoCAD,CAD/CAM,EBK Licensing,Low
+1616,Architect,AutoCAD,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,High
+1617,Environmental Officer,Impact Assessment,GIS,GIS Certification,Low
+1618,Airport Operations Officer,Ground Handling,Airport Security Management,ICAO Certification,High
+1619,Mobile App Developer,Kotlin,UI/UX Design,Google Associate Android Developer,High
+1620,Architect,AutoCAD,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,High
+1621,Illustrator,Digital Art,Character Design,Adobe Certified Professional,Low
+1622,Environmental Officer,Environmental Monitoring,GIS,GIS Certification,Low
+1623,Agribusiness Manager,Marketing,Financial Planning,Agribusiness Management Certification,High
+1624,Graphic Designer,Adobe Photoshop,Motion Graphics,Adobe Certified Professional,Low
+1625,Environmental Officer,Impact Assessment,GIS,GIS Certification,Low
+1626,Lawyer / Advocate,Drafting,Case Management,Kenya School of Law (KSL) Certification,High
+1627,Electrical Engineer,AutoCAD,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,High
+1628,Data Scientist,Statistics,MLOps,TensorFlow Developer Certificate,Low
+1629,Public Relations Officer,Communication,Crisis Management,PRSK Certification,High
+1630,Airport Operations Officer,Safety Compliance,Airport Security Management,ICAO Certification,High
+1631,Physical Education Teacher,Coaching,Sports Psychology,TSC Registration,High
+1632,Lawyer / Advocate,Legal Research,Litigation Skills,Kenya School of Law (KSL) Certification,Low
+1633,Teacher,Lesson Planning,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+1634,Actuarial Analyst,Risk Analysis,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+1635,Travel Consultant,Ticketing,Amadeus / GDS Systems,IATA Certification,High
+1636,Agricultural Officer,Crop Management,Precision Farming,GIS Certification,Low
+1637,Electrical Engineer,Circuit Design,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,Low
+1638,Pharmacist,Pharmacology,Clinical Pharmacy,Pharmacy and Poisons Board Licensing,High
+1639,Physical Education Teacher,Coaching,Sports Psychology,TSC Registration,High
+1640,Tourism Officer,Tour Planning,Digital Marketing for Tourism,Tourism Regulatory Authority Certification,High
+1641,Teacher,Lesson Planning,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+1642,Teacher,Lesson Planning,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+1643,Conservation Officer,Wildlife Management,GIS Mapping,KWS Certification,Low
+1644,Airline Operations Officer,Flight Scheduling,Aviation Safety Management,IATA Certification,Low
+1645,Actuarial Analyst,Statistics,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+1646,Architect,Design Drafting,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,Low
+1647,Social Worker,Counselling,Community Mobilization,Kenya National Association of Social Workers Certification,High
+1648,Film Producer,Scriptwriting,Budgeting for Film,Film Production Certificate,High
+1649,Electrical Engineer,AutoCAD,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,High
+1650,Horticulturist,Crop Care,Greenhouse Management,Horticultural Crops Directorate Certification,Low
+1651,Community Development Officer,Community Engagement,Monitoring and Evaluation,M&E Certification,Low
+1652,Teacher,Classroom Management,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+1653,Financial Analyst,Excel,Investment Analysis,CFA Level 1,High
+1654,Mechanical Engineer,Machine Design,PLC Programming,Siemens PLC Certification,Low
+1655,Sports Coach,Coaching Techniques,Sports Science Analytics,Kenya National Sports Council Certification,High
+1656,Agribusiness Manager,Farm Management,Financial Planning,Agribusiness Management Certification,Low
+1657,Systems Analyst,SQL,Cloud,ITIL Foundation,Low
+1658,Social Worker,Counselling,Community Mobilization,Kenya National Association of Social Workers Certification,High
+1659,Clinical Officer,Clinical Assessment,Specialized Diagnostics,Clinical Officers Council Licensing,Low
+1660,Airline Operations Officer,Customer Service,Aviation Safety Management,IATA Certification,Low
+1661,Physical Education Teacher,Coaching,Sports Psychology,TSC Registration,High
+1662,Supply Chain Analyst,Inventory Management,Data Analytics,CIPS Certification,Low
+1663,Social Worker,Counselling,Community Mobilization,Kenya National Association of Social Workers Certification,High
+1664,Teacher,Lesson Planning,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+1665,Actuarial Analyst,Statistics,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+1666,Lawyer / Advocate,Legal Research,Case Management,Kenya School of Law (KSL) Certification,Low
+1667,Public Relations Officer,Communication,Crisis Management,PRSK Certification,High
+1668,Registered Nurse,Clinical Skills,Critical Care Nursing,KRCHN Licensing,Low
+1669,IT Support Specialist,Troubleshooting,Cloud Support,CompTIA A+,High
+1670,Physical Education Teacher,Coaching,Sports Psychology,TSC Registration,Low
+1671,Clinical Officer,Clinical Assessment,Specialized Diagnostics,Clinical Officers Council Licensing,Low
+1672,Bank Officer,Credit Analysis,Risk Management,Certified Credit Professional,Low
+1673,Agribusiness Manager,Farm Management,Financial Planning,Agribusiness Management Certification,Low
+1674,Public Relations Officer,Media Relations,Crisis Management,PRSK Certification,Low
+1675,Clinical Officer,Clinical Assessment,Specialized Diagnostics,Clinical Officers Council Licensing,Low
+1676,Teacher,Classroom Management,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+1677,Sports Coach,Coaching Techniques,Sports Science Analytics,Kenya National Sports Council Certification,High
+1678,Mechanical Engineer,Machine Design,CAD/CAM,EBK Licensing,Low
+1679,Physical Education Teacher,Fitness Training,Sports Psychology,TSC Registration,Low
+1680,Travel Consultant,Itinerary Planning,Amadeus / GDS Systems,IATA Certification,High
+1681,Illustrator,Drawing,Character Design,Adobe Certified Professional,High
+1682,Airline Operations Officer,Customer Service,Aviation Safety Management,IATA Certification,Low
+1683,Marketing Executive,Content Creation,Data-Driven Marketing,HubSpot Certification,High
+1684,Agribusiness Manager,Marketing,Financial Planning,Agribusiness Management Certification,High
+1685,Public Relations Officer,Communication,Crisis Management,PRSK Certification,High
+1686,Hotel Manager,Customer Service,Revenue Management,AHLEI Certification,Low
+1687,Tourism Officer,Customer Relations,Digital Marketing for Tourism,Tourism Regulatory Authority Certification,High
+1688,Video Editor,Video Editing,Motion Graphics,Adobe Certified Professional,Low
+1689,Social Worker,Case Management,Community Mobilization,Kenya National Association of Social Workers Certification,Low
+1690,Environmental Officer,Environmental Monitoring,Climate Policy,GIS Certification,Low
+1691,Clinical Officer,Clinical Assessment,Specialized Diagnostics,Clinical Officers Council Licensing,Low
+1692,Environmental Officer,Impact Assessment,Climate Policy,GIS Certification,Low
+1693,Graphic Designer,Adobe Photoshop,Motion Graphics,Adobe Certified Professional,Low
+1694,Actuarial Analyst,Risk Analysis,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+1695,Lawyer / Advocate,Legal Research,Case Management,Kenya School of Law (KSL) Certification,Low
+1696,Sports Coach,Team Management,Sports Science Analytics,Kenya National Sports Council Certification,High
+1697,Operations Manager,Process Management,Supply Chain Optimization,Six Sigma Green Belt,Low
+1698,Mechanical Engineer,AutoCAD,PLC Programming,EBK Licensing,High
+1699,Film Producer,Scriptwriting,Budgeting for Film,Film Production Certificate,High
+1700,Teacher,Lesson Planning,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+1701,Data Analyst,SQL,Power BI,Power BI Certification,High
+1702,Illustrator,Drawing,Character Design,Adobe Certified Professional,High
+1703,Registered Nurse,Clinical Skills,Critical Care Nursing,Basic Life Support (BLS),Low
+1704,Actuarial Analyst,Statistics,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+1705,Agricultural Officer,Crop Management,Precision Farming,GIS Certification,Low
+1706,Travel Consultant,Itinerary Planning,Amadeus / GDS Systems,IATA Certification,High
+1707,Clinical Officer,Clinical Assessment,Specialized Diagnostics,Clinical Officers Council Licensing,Low
+1708,Agricultural Officer,Extension Services,GIS,GIS Certification,Low
+1709,Video Editor,Video Editing,Motion Graphics,Adobe Certified Professional,Low
+1710,Lawyer / Advocate,Legal Research,Litigation Skills,Kenya School of Law (KSL) Certification,Low
+1711,Airport Operations Officer,Safety Compliance,Airport Security Management,ICAO Certification,Low
+1712,Actuarial Analyst,Risk Analysis,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+1713,Horticulturist,Crop Care,Greenhouse Management,Horticultural Crops Directorate Certification,Low
+1714,Tourism Officer,Customer Relations,Digital Marketing for Tourism,Tourism Regulatory Authority Certification,High
+1715,Mobile App Developer,Java,UI/UX Design,Google Associate Android Developer,High
+1716,Teacher,Lesson Planning,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+1717,Airline Operations Officer,Customer Service,Aviation Safety Management,IATA Certification,Low
+1718,Electrical Engineer,AutoCAD,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,High
+1719,Airport Operations Officer,Ground Handling,Airport Security Management,ICAO Certification,High
+1720,Horticulturist,Plant Propagation,Greenhouse Management,Horticultural Crops Directorate Certification,Low
+1721,Procurement Officer,Negotiation,Contract Management,CIPS Certification,High
+1722,Architect,Design Drafting,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,Low
+1723,Social Worker,Case Management,Community Mobilization,Kenya National Association of Social Workers Certification,Low
+1724,Actuarial Analyst,Risk Analysis,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+1725,Teacher,Lesson Planning,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+1726,Electrical Engineer,Circuit Design,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,Low
+1727,Accountant,Bookkeeping,Taxation,ACCA,Low
+1728,Airline Operations Officer,Flight Scheduling,Aviation Safety Management,IATA Certification,Low
+1729,Clinical Officer,Clinical Assessment,Specialized Diagnostics,Clinical Officers Council Licensing,Low
+1730,Actuarial Analyst,Statistics,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+1731,Community Development Officer,Community Engagement,Monitoring and Evaluation,M&E Certification,Low
+1732,Mechanical Engineer,Machine Design,PLC Programming,EBK Licensing,Low
+1733,Architect,Design Drafting,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,Low
+1734,Conservation Officer,Fieldwork,GIS Mapping,KWS Certification,High
+1735,Operations Manager,Team Leadership,Supply Chain Optimization,Six Sigma Green Belt,Low
+1736,Financial Analyst,Financial Modelling,Investment Analysis,CPA,Low
+1737,Video Editor,Video Editing,Motion Graphics,Adobe Certified Professional,Low
+1738,Electrical Engineer,Circuit Design,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,Low
+1739,Airport Operations Officer,Safety Compliance,Airport Security Management,ICAO Certification,High
+1740,Pharmacist,Pharmacology,Clinical Pharmacy,Pharmacy and Poisons Board Licensing,High
+1741,Physical Education Teacher,Fitness Training,Sports Psychology,TSC Registration,Low
+1742,Mechanical Engineer,AutoCAD,PLC Programming,EBK Licensing,High
+1743,Business Analyst,Excel,Power BI,Power BI Certification,High
+1744,Lawyer / Advocate,Legal Research,Case Management,Kenya School of Law (KSL) Certification,Low
+1745,Agribusiness Manager,Farm Management,Financial Planning,Agribusiness Management Certification,Low
+1746,Architect,AutoCAD,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,High
+1747,Financial Analyst,Excel,Investment Analysis,CFA Level 1,High
+1748,Illustrator,Digital Art,Character Design,Adobe Certified Professional,High
+1749,Sports Coach,Coaching Techniques,Sports Science Analytics,Kenya National Sports Council Certification,High
+1750,Journalist,Writing,Digital Journalism,Adobe Certified Professional,High
+1751,Social Worker,Counselling,Community Mobilization,Kenya National Association of Social Workers Certification,High
+1752,Airline Operations Officer,Customer Service,Aviation Safety Management,IATA Certification,Low
+1753,Journalist,Writing,Video Editing,Adobe Certified Professional,High
+1754,Mechanical Engineer,AutoCAD,PLC Programming,EBK Licensing,High
+1755,Financial Analyst,Excel,Investment Analysis,CFA Level 1,High
+1756,Data Analyst,SQL,Machine Learning,Google Data Analytics,High
+1757,Teacher,Lesson Planning,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+1758,Airline Operations Officer,Flight Scheduling,Aviation Safety Management,IATA Certification,Low
+1759,Conservation Officer,Wildlife Management,GIS Mapping,KWS Certification,Low
+1760,Environmental Officer,Environmental Monitoring,Climate Policy,NEMA Certification,Low
+1761,Clinical Officer,Clinical Assessment,Specialized Diagnostics,Clinical Officers Council Licensing,Low
+1762,Travel Consultant,Itinerary Planning,Amadeus / GDS Systems,IATA Certification,High
+1763,Lawyer / Advocate,Legal Research,Case Management,Kenya School of Law (KSL) Certification,Low
+1764,Teacher,Classroom Management,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+1765,Systems Analyst,SQL,Cloud,ITIL Foundation,Low
+1766,Software Engineer,Java,System Design,Microsoft Azure Fundamentals,High
+1767,Graphic Designer,Illustration,Motion Graphics,Adobe Certified Professional,High
+1768,Systems Analyst,SQL,Cloud,ITIL Foundation,Low
+1769,Agribusiness Manager,Farm Management,Financial Planning,Agribusiness Management Certification,Low
+1770,Airline Operations Officer,Customer Service,Aviation Safety Management,IATA Certification,Low
+1771,Bank Officer,Credit Analysis,Risk Management,CPA,Low
+1772,Film Producer,Scriptwriting,Budgeting for Film,Film Production Certificate,High
+1773,Tourism Officer,Customer Relations,Digital Marketing for Tourism,Tourism Regulatory Authority Certification,High
+1774,Lawyer / Advocate,Drafting,Case Management,Kenya School of Law (KSL) Certification,High
+1775,Lawyer / Advocate,Legal Research,Litigation Skills,Kenya School of Law (KSL) Certification,Low
+1776,Airline Operations Officer,Flight Scheduling,Aviation Safety Management,IATA Certification,Low
+1777,Sports Coach,Coaching Techniques,Sports Science Analytics,Kenya National Sports Council Certification,High
+1778,Conservation Officer,Wildlife Management,GIS Mapping,KWS Certification,Low
+1779,Airport Operations Officer,Safety Compliance,Airport Security Management,ICAO Certification,High
+1780,Public Relations Officer,Media Relations,Crisis Management,PRSK Certification,Low
+1781,Agricultural Officer,Extension Services,GIS,GIS Certification,Low
+1782,Financial Analyst,Financial Modelling,Investment Analysis,CFA Level 1,Low
+1783,Physical Education Teacher,Coaching,Sports Psychology,TSC Registration,High
+1784,Data Analyst,SQL,Power BI,Google Data Analytics,High
+1785,Accountant,Financial Reporting,Financial Modelling,CPA,Low
+1786,Lawyer / Advocate,Legal Research,Case Management,Kenya School of Law (KSL) Certification,Low
+1787,Social Worker,Counselling,Community Mobilization,Kenya National Association of Social Workers Certification,High
+1788,Electrical Engineer,AutoCAD,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,High
+1789,Social Worker,Counselling,Community Mobilization,Kenya National Association of Social Workers Certification,High
+1790,Clinical Officer,Clinical Assessment,Specialized Diagnostics,Clinical Officers Council Licensing,Low
+1791,Data Scientist,Statistics,MLOps,TensorFlow Developer Certificate,Low
+1792,Operations Manager,Team Leadership,Supply Chain Optimization,Six Sigma Green Belt,Low
+1793,Tourism Officer,Customer Relations,Digital Marketing for Tourism,Tourism Regulatory Authority Certification,High
+1794,Public Relations Officer,Communication,Crisis Management,PRSK Certification,High
+1795,Horticulturist,Crop Care,Greenhouse Management,Horticultural Crops Directorate Certification,Low
+1796,Financial Analyst,Excel,Investment Analysis,CFA Level 1,High
+1797,Lawyer / Advocate,Drafting,Litigation Skills,Kenya School of Law (KSL) Certification,Low
+1798,Environmental Officer,Impact Assessment,Climate Policy,NEMA Certification,Low
+1799,Physical Education Teacher,Coaching,Sports Psychology,TSC Registration,High
+1800,Community Development Officer,Project Coordination,Monitoring and Evaluation,M&E Certification,Low
+1801,Graphic Designer,Adobe Photoshop,UI/UX Design,Adobe Certified Professional,Low
+1802,Journalist,Writing,Video Editing,Adobe Certified Professional,Low
+1803,Graphic Designer,Adobe Photoshop,UI/UX Design,Adobe Certified Professional,Low
+1804,Airport Operations Officer,Safety Compliance,Airport Security Management,ICAO Certification,High
+1805,Physical Education Teacher,Coaching,Sports Psychology,TSC Registration,High
+1806,Environmental Officer,Impact Assessment,GIS,GIS Certification,Low
+1807,Physical Education Teacher,Coaching,Sports Psychology,TSC Registration,High
+1808,Hotel Manager,Customer Service,Revenue Management,AHLEI Certification,Low
+1809,Social Worker,Case Management,Community Mobilization,Kenya National Association of Social Workers Certification,Low
+1810,Civil Engineer,AutoCAD,Project Management,Engineers Board of Kenya (EBK) Licensing,High
+1811,Teacher,Classroom Management,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+1812,Agricultural Officer,Extension Services,Precision Farming,GIS Certification,Low
+1813,Registered Nurse,Patient Care,Emergency Care,Basic Life Support (BLS),Low
+1814,Social Worker,Case Management,Community Mobilization,Kenya National Association of Social Workers Certification,Low
+1815,Illustrator,Drawing,Character Design,Adobe Certified Professional,High
+1816,Film Producer,Scriptwriting,Budgeting for Film,Film Production Certificate,High
+1817,Teacher,Classroom Management,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+1818,Video Editor,Video Editing,Motion Graphics,Adobe Certified Professional,Low
+1819,Operations Manager,Team Leadership,Supply Chain Optimization,Six Sigma Green Belt,Low
+1820,Teacher,Classroom Management,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+1821,Registered Nurse,Clinical Skills,Critical Care Nursing,Basic Life Support (BLS),Low
+1822,Medical Doctor,Clinical Diagnosis,Specialization,ACLS,Low
+1823,Physical Education Teacher,Coaching,Sports Psychology,TSC Registration,High
+1824,Lawyer / Advocate,Legal Research,Litigation Skills,Kenya School of Law (KSL) Certification,Low
+1825,Business Analyst,Excel,Power BI,Power BI Certification,High
+1826,Lawyer / Advocate,Legal Research,Case Management,Kenya School of Law (KSL) Certification,Low
+1827,Financial Analyst,Financial Modelling,Investment Analysis,CPA,Low
+1828,Lawyer / Advocate,Legal Research,Case Management,Kenya School of Law (KSL) Certification,Low
+1829,Lawyer / Advocate,Legal Research,Litigation Skills,Kenya School of Law (KSL) Certification,Low
+1830,Clinical Officer,Clinical Assessment,Specialized Diagnostics,Clinical Officers Council Licensing,Low
+1831,Airline Operations Officer,Customer Service,Aviation Safety Management,IATA Certification,Low
+1832,Systems Analyst,Business Analysis,Data Modelling,CBAP,Low
+1833,Airline Operations Officer,Customer Service,Aviation Safety Management,IATA Certification,Low
+1834,Electrical Engineer,Circuit Design,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,Low
+1835,Software Engineer,Python,System Design,Google Cloud Associate,High
+1836,Business Administrator,Communication,Project Management,PMP,High
+1837,Lawyer / Advocate,Drafting,Litigation Skills,Kenya School of Law (KSL) Certification,High
+1838,IT Support Specialist,Troubleshooting,Cloud Support,CompTIA A+,High
+1839,Lawyer / Advocate,Drafting,Case Management,Kenya School of Law (KSL) Certification,High
+1840,Physical Education Teacher,Coaching,Sports Psychology,TSC Registration,High
+1841,Physical Education Teacher,Coaching,Sports Psychology,TSC Registration,High
+1842,Environmental Officer,Environmental Monitoring,GIS,GIS Certification,Low
+1843,Airport Operations Officer,Ground Handling,Airport Security Management,ICAO Certification,High
+1844,Medical Doctor,Patient Management,Surgery Skills,KMPDC Licensing,Low
+1845,News Anchor,Public Speaking,Broadcast Presentation,Broadcast Journalism Certificate,Low
+1846,Data Scientist,Statistics,MLOps,TensorFlow Developer Certificate,Low
+1847,Airport Operations Officer,Ground Handling,Airport Security Management,ICAO Certification,High
+1848,Airport Operations Officer,Ground Handling,Airport Security Management,ICAO Certification,High
+1849,Pharmacist,Pharmacology,Clinical Pharmacy,Pharmacy and Poisons Board Licensing,High
+1850,Mobile App Developer,Kotlin,Flutter,Google Associate Android Developer,Low
+1851,Lawyer / Advocate,Drafting,Litigation Skills,Kenya School of Law (KSL) Certification,High
+1852,Pharmacist,Pharmacology,Clinical Pharmacy,Pharmacy and Poisons Board Licensing,High
+1853,Software Engineer,Python,DevOps,Google Cloud Associate,Low
+1854,Operations Manager,Team Leadership,Supply Chain Optimization,Six Sigma Green Belt,Low
+1855,Airport Operations Officer,Safety Compliance,Airport Security Management,ICAO Certification,High
+1856,Teacher,Classroom Management,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+1857,Actuarial Analyst,Risk Analysis,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+1858,Tourism Officer,Tour Planning,Digital Marketing for Tourism,Tourism Regulatory Authority Certification,High
+1859,Software Engineer,Java,DevOps,AWS Certified Developer,Low
+1860,Tourism Officer,Tour Planning,Digital Marketing for Tourism,Tourism Regulatory Authority Certification,High
+1861,Community Development Officer,Community Engagement,Monitoring and Evaluation,M&E Certification,Low
+1862,Travel Consultant,Itinerary Planning,Amadeus / GDS Systems,IATA Certification,High
+1863,Electrical Engineer,AutoCAD,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,High
+1864,Agribusiness Manager,Farm Management,Financial Planning,Agribusiness Management Certification,Low
+1865,Conservation Officer,Fieldwork,GIS Mapping,KWS Certification,High
+1866,Registered Nurse,Clinical Skills,Critical Care Nursing,KRCHN Licensing,Low
+1867,Lawyer / Advocate,Drafting,Case Management,Kenya School of Law (KSL) Certification,High
+1868,Public Relations Officer,Media Relations,Crisis Management,PRSK Certification,Low
+1869,Travel Consultant,Ticketing,Amadeus / GDS Systems,IATA Certification,High
+1870,Data Scientist,Python,MLOps,TensorFlow Developer Certificate,Low
+1871,Accountant,Financial Reporting,Financial Modelling,ACCA,Low
+1872,Sports Coach,Team Management,Sports Science Analytics,Kenya National Sports Council Certification,High
+1873,Tourism Officer,Tour Planning,Digital Marketing for Tourism,Tourism Regulatory Authority Certification,High
+1874,Environmental Officer,Impact Assessment,Climate Policy,NEMA Certification,Low
+1875,Business Administrator,Communication,Project Management,PMP,High
+1876,Business Analyst,Excel,Data Analytics,CBAP,High
+1877,Public Relations Officer,Media Relations,Crisis Management,PRSK Certification,Low
+1878,Lawyer / Advocate,Drafting,Case Management,Kenya School of Law (KSL) Certification,High
+1879,Community Development Officer,Community Engagement,Monitoring and Evaluation,M&E Certification,Low
+1880,Procurement Officer,Negotiation,Contract Management,CIPS Certification,High
+1881,Electrical Engineer,Circuit Design,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,Low
+1882,Social Worker,Case Management,Community Mobilization,Kenya National Association of Social Workers Certification,Low
+1883,Mechanical Engineer,AutoCAD,PLC Programming,Siemens PLC Certification,High
+1884,Data Scientist,Statistics,MLOps,TensorFlow Developer Certificate,Low
+1885,Financial Analyst,Excel,Investment Analysis,CPA,High
+1886,Graphic Designer,Adobe Photoshop,UI/UX Design,Adobe Certified Professional,Low
+1887,Teacher,Classroom Management,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+1888,Public Relations Officer,Communication,Crisis Management,PRSK Certification,High
+1889,Social Worker,Case Management,Community Mobilization,Kenya National Association of Social Workers Certification,Low
+1890,Registered Nurse,Patient Care,Emergency Care,KRCHN Licensing,Low
+1891,Environmental Officer,Impact Assessment,GIS,NEMA Certification,Low
+1892,Software Engineer,Web Development,System Design,Google Cloud Associate,Low
+1893,Sports Coach,Coaching Techniques,Sports Science Analytics,Kenya National Sports Council Certification,High
+1894,Clinical Officer,Clinical Assessment,Specialized Diagnostics,Clinical Officers Council Licensing,Low
+1895,Lawyer / Advocate,Drafting,Litigation Skills,Kenya School of Law (KSL) Certification,High
+1896,Sports Coach,Team Management,Sports Science Analytics,Kenya National Sports Council Certification,High
+1897,Social Worker,Case Management,Community Mobilization,Kenya National Association of Social Workers Certification,Low
+1898,Pharmacist,Dispensing,Clinical Pharmacy,Pharmacy and Poisons Board Licensing,High
+1899,Pharmacist,Dispensing,Clinical Pharmacy,Pharmacy and Poisons Board Licensing,High
+1900,Civil Engineer,AutoCAD,BIM,PMP,Low
+1901,Public Relations Officer,Media Relations,Crisis Management,PRSK Certification,Low
+1902,Sports Coach,Coaching Techniques,Sports Science Analytics,Kenya National Sports Council Certification,High
+1903,Medical Doctor,Clinical Diagnosis,Surgery Skills,KMPDC Licensing,Low
+1904,Physical Education Teacher,Coaching,Sports Psychology,TSC Registration,High
+1905,Agricultural Officer,Crop Management,Precision Farming,GIS Certification,Low
+1906,Teacher,Lesson Planning,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+1907,Social Worker,Case Management,Community Mobilization,Kenya National Association of Social Workers Certification,Low
+1908,Civil Engineer,Structural Design,Project Management,Engineers Board of Kenya (EBK) Licensing,High
+1909,Public Relations Officer,Communication,Crisis Management,PRSK Certification,High
+1910,Pharmacist,Pharmacology,Clinical Pharmacy,Pharmacy and Poisons Board Licensing,High
+1911,Actuarial Analyst,Risk Analysis,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+1912,Graphic Designer,Illustration,UI/UX Design,Adobe Certified Professional,High
+1913,Video Editor,Video Editing,Motion Graphics,Adobe Certified Professional,Low
+1914,Teacher,Lesson Planning,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+1915,Airline Operations Officer,Flight Scheduling,Aviation Safety Management,IATA Certification,Low
+1916,Airport Operations Officer,Ground Handling,Airport Security Management,ICAO Certification,High
+1917,IT Support Specialist,Networking Basics,Cybersecurity,CompTIA Network+,Low
+1918,Operations Manager,Team Leadership,Supply Chain Optimization,Six Sigma Green Belt,Low
+1919,Conservation Officer,Fieldwork,GIS Mapping,KWS Certification,High
+1920,Physical Education Teacher,Fitness Training,Sports Psychology,TSC Registration,Low
+1921,Graphic Designer,Adobe Photoshop,Motion Graphics,Adobe Certified Professional,Low
+1922,Social Worker,Counselling,Community Mobilization,Kenya National Association of Social Workers Certification,High
+1923,Lawyer / Advocate,Drafting,Case Management,Kenya School of Law (KSL) Certification,High
+1924,Travel Consultant,Ticketing,Amadeus / GDS Systems,IATA Certification,High
+1925,Environmental Officer,Impact Assessment,Climate Policy,GIS Certification,Low
+1926,Lawyer / Advocate,Legal Research,Litigation Skills,Kenya School of Law (KSL) Certification,Low
+1927,News Anchor,Public Speaking,Broadcast Presentation,Broadcast Journalism Certificate,Low
+1928,Graphic Designer,Adobe Photoshop,Motion Graphics,Adobe Certified Professional,Low
+1929,Financial Analyst,Financial Modelling,Investment Analysis,CFA Level 1,Low
+1930,Travel Consultant,Itinerary Planning,Amadeus / GDS Systems,IATA Certification,High
+1931,Community Development Officer,Project Coordination,Monitoring and Evaluation,M&E Certification,Low
+1932,Graphic Designer,Illustration,Motion Graphics,Adobe Certified Professional,High
+1933,Registered Nurse,Patient Care,Emergency Care,KRCHN Licensing,Low
+1934,Travel Consultant,Ticketing,Amadeus / GDS Systems,IATA Certification,High
+1935,Teacher,Lesson Planning,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+1936,Teacher,Classroom Management,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+1937,Film Producer,Scriptwriting,Budgeting for Film,Film Production Certificate,High
+1938,Supply Chain Analyst,Inventory Management,Data Analytics,CIPS Certification,Low
+1939,Accountant,Financial Reporting,Taxation,CPA,Low
+1940,Airline Operations Officer,Customer Service,Aviation Safety Management,IATA Certification,Low
+1941,Lawyer / Advocate,Drafting,Litigation Skills,Kenya School of Law (KSL) Certification,High
+1942,Airline Operations Officer,Customer Service,Aviation Safety Management,IATA Certification,Low
+1943,Tourism Officer,Customer Relations,Digital Marketing for Tourism,Tourism Regulatory Authority Certification,High
+1944,Airport Operations Officer,Ground Handling,Airport Security Management,ICAO Certification,High
+1945,Conservation Officer,Wildlife Management,GIS Mapping,KWS Certification,High
+1946,Illustrator,Digital Art,Character Design,Adobe Certified Professional,Low
+1947,Environmental Officer,Environmental Monitoring,Climate Policy,NEMA Certification,Low
+1948,Medical Doctor,Clinical Diagnosis,Specialization,KMPDC Licensing,Low
+1949,Physical Education Teacher,Coaching,Sports Psychology,TSC Registration,High
+1950,Data Scientist,Python,MLOps,TensorFlow Developer Certificate,Low
+1951,Physical Education Teacher,Fitness Training,Sports Psychology,TSC Registration,Low
+1952,Travel Consultant,Ticketing,Amadeus / GDS Systems,IATA Certification,High
+1953,Software Engineer,Python,DevOps,Google Cloud Associate,Low
+1954,Travel Consultant,Ticketing,Amadeus / GDS Systems,IATA Certification,High
+1955,News Anchor,Writing,Broadcast Presentation,Broadcast Journalism Certificate,High
+1956,Bank Officer,Customer Service,Risk Management,Certified Credit Professional,High
+1957,Physical Education Teacher,Coaching,Sports Psychology,TSC Registration,High
+1958,Airline Operations Officer,Customer Service,Aviation Safety Management,IATA Certification,Low
+1959,Financial Analyst,Financial Modelling,Investment Analysis,CPA,Low
+1960,Medical Doctor,Patient Management,Specialization,KMPDC Licensing,Low
+1961,Marketing Executive,Content Creation,SEO,HubSpot Certification,Low
+1962,Social Worker,Counselling,Community Mobilization,Kenya National Association of Social Workers Certification,High
+1963,Lawyer / Advocate,Legal Research,Case Management,Kenya School of Law (KSL) Certification,Low
+1964,Civil Engineer,AutoCAD,Project Management,PMP,High
+1965,Mechanical Engineer,Machine Design,PLC Programming,EBK Licensing,Low
+1966,IT Support Specialist,Networking Basics,Cybersecurity,CompTIA Network+,Low
+1967,Tourism Officer,Tour Planning,Digital Marketing for Tourism,Tourism Regulatory Authority Certification,High
+1968,Teacher,Lesson Planning,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+1969,Community Development Officer,Community Engagement,Monitoring and Evaluation,M&E Certification,Low
+1970,Illustrator,Drawing,Character Design,Adobe Certified Professional,High
+1971,Environmental Officer,Environmental Monitoring,GIS,GIS Certification,Low
+1972,Public Relations Officer,Communication,Crisis Management,PRSK Certification,High
+1973,Airline Operations Officer,Flight Scheduling,Aviation Safety Management,IATA Certification,Low
+1974,Horticulturist,Crop Care,Greenhouse Management,Horticultural Crops Directorate Certification,Low
+1975,Agricultural Officer,Crop Management,Precision Farming,GIS Certification,Low
+1976,Medical Doctor,Patient Management,Surgery Skills,ACLS,Low
+1977,Electrical Engineer,Circuit Design,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,Low
+1978,Data Scientist,Statistics,Deep Learning,TensorFlow Developer Certificate,High
+1979,Teacher,Classroom Management,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+1980,Teacher,Lesson Planning,ICT Integration,Teachers Service Commission (TSC) Registration,High
+1981,Community Development Officer,Project Coordination,Monitoring and Evaluation,M&E Certification,Low
+1982,Registered Nurse,Patient Care,Critical Care Nursing,KRCHN Licensing,Low
+1983,Teacher,Classroom Management,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+1984,Horticulturist,Crop Care,Greenhouse Management,Horticultural Crops Directorate Certification,Low
+1985,Lawyer / Advocate,Legal Research,Case Management,Kenya School of Law (KSL) Certification,Low
+1986,Electrical Engineer,Circuit Design,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,Low
+1987,Community Development Officer,Community Engagement,Monitoring and Evaluation,M&E Certification,Low
+1988,Horticulturist,Plant Propagation,Greenhouse Management,Horticultural Crops Directorate Certification,Low
+1989,Financial Analyst,Excel,Investment Analysis,CFA Level 1,High
+1990,Lawyer / Advocate,Legal Research,Litigation Skills,Kenya School of Law (KSL) Certification,Low
+1991,IT Support Specialist,Troubleshooting,Cloud Support,CompTIA Network+,High
+1992,Mechanical Engineer,AutoCAD,CAD/CAM,EBK Licensing,Low
+1993,Business Analyst,Excel,Power BI,CBAP,High
+1994,Sports Coach,Team Management,Sports Science Analytics,Kenya National Sports Council Certification,High
+1995,Data Analyst,Excel,Power BI,Power BI Certification,High
+1996,Conservation Officer,Fieldwork,GIS Mapping,KWS Certification,High
+1997,Journalist,Writing,Video Editing,Adobe Certified Professional,High
+1998,Lawyer / Advocate,Drafting,Case Management,Kenya School of Law (KSL) Certification,High
+1999,Supply Chain Analyst,Inventory Management,Data Analytics,CIPS Certification,Low
+2000,Mechanical Engineer,AutoCAD,PLC Programming,EBK Licensing,High
+2001,Teacher,Lesson Planning,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+2002,Travel Consultant,Itinerary Planning,Amadeus / GDS Systems,IATA Certification,High
+2003,Procurement Officer,Negotiation,Contract Management,CIPS Certification,High
+2004,Financial Analyst,Financial Modelling,Investment Analysis,CFA Level 1,Low
+2005,Teacher,Lesson Planning,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+2006,Journalist,Writing,Digital Journalism,Adobe Certified Professional,High
+2007,Civil Engineer,Structural Design,Project Management,Engineers Board of Kenya (EBK) Licensing,Low
+2008,Accountant,Financial Reporting,Financial Modelling,CPA,Low
+2009,Agricultural Officer,Crop Management,Precision Farming,GIS Certification,Low
+2010,Supply Chain Analyst,Inventory Management,Data Analytics,CIPS Certification,Low
+2011,Teacher,Classroom Management,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+2012,Business Analyst,Excel,Power BI,Power BI Certification,High
+2013,Airline Operations Officer,Flight Scheduling,Aviation Safety Management,IATA Certification,Low
+2014,Pharmacist,Dispensing,Clinical Pharmacy,Pharmacy and Poisons Board Licensing,High
+2015,Teacher,Classroom Management,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+2016,Pharmacist,Pharmacology,Clinical Pharmacy,Pharmacy and Poisons Board Licensing,High
+2017,Lawyer / Advocate,Legal Research,Case Management,Kenya School of Law (KSL) Certification,Low
+2018,Airline Operations Officer,Flight Scheduling,Aviation Safety Management,IATA Certification,Low
+2019,Illustrator,Digital Art,Character Design,Adobe Certified Professional,High
+2020,News Anchor,Public Speaking,Broadcast Presentation,Broadcast Journalism Certificate,Low
+2021,Agribusiness Manager,Marketing,Financial Planning,Agribusiness Management Certification,High
+2022,Social Worker,Counselling,Community Mobilization,Kenya National Association of Social Workers Certification,High
+2023,Operations Manager,Team Leadership,Supply Chain Optimization,Six Sigma Green Belt,Low
+2024,Teacher,Classroom Management,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+2025,Graphic Designer,Adobe Photoshop,UI/UX Design,Adobe Certified Professional,Low
+2026,Architect,Design Drafting,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,Low
+2027,Data Scientist,Statistics,Deep Learning,TensorFlow Developer Certificate,High
+2028,Teacher,Classroom Management,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+2029,Civil Engineer,Structural Design,Project Management,Engineers Board of Kenya (EBK) Licensing,Low
+2030,Lawyer / Advocate,Legal Research,Litigation Skills,Kenya School of Law (KSL) Certification,Low
+2031,Sports Coach,Team Management,Sports Science Analytics,Kenya National Sports Council Certification,High
+2032,Public Relations Officer,Communication,Crisis Management,PRSK Certification,High
+2033,Journalist,Research,Video Editing,Adobe Certified Professional,High
+2034,Illustrator,Drawing,Character Design,Adobe Certified Professional,High
+2035,Bank Officer,Credit Analysis,Risk Management,Certified Credit Professional,Low
+2036,Civil Engineer,AutoCAD,Project Management,Engineers Board of Kenya (EBK) Licensing,High
+2037,Financial Analyst,Excel,Investment Analysis,CPA,High
+2038,Conservation Officer,Wildlife Management,GIS Mapping,KWS Certification,Low
+2039,Travel Consultant,Ticketing,Amadeus / GDS Systems,IATA Certification,High
+2040,Clinical Officer,Clinical Assessment,Specialized Diagnostics,Clinical Officers Council Licensing,Low
+2041,Environmental Officer,Impact Assessment,Climate Policy,NEMA Certification,Low
+2042,Financial Analyst,Financial Modelling,Investment Analysis,CPA,Low
+2043,Airline Operations Officer,Flight Scheduling,Aviation Safety Management,IATA Certification,Low
+2044,Tourism Officer,Tour Planning,Digital Marketing for Tourism,Tourism Regulatory Authority Certification,High
+2045,Medical Doctor,Clinical Diagnosis,Specialization,ACLS,Low
+2046,Medical Doctor,Patient Management,Surgery Skills,ACLS,Low
+2047,Business Analyst,Requirements Gathering,Data Analytics,Power BI Certification,Low
+2048,Environmental Officer,Impact Assessment,Climate Policy,NEMA Certification,Low
+2049,Graphic Designer,Illustration,UI/UX Design,Adobe Certified Professional,High
+2050,Tourism Officer,Customer Relations,Digital Marketing for Tourism,Tourism Regulatory Authority Certification,High
+2051,Travel Consultant,Itinerary Planning,Amadeus / GDS Systems,IATA Certification,High
+2052,Tourism Officer,Customer Relations,Digital Marketing for Tourism,Tourism Regulatory Authority Certification,High
+2053,Lawyer / Advocate,Legal Research,Case Management,Kenya School of Law (KSL) Certification,Low
+2054,Social Worker,Case Management,Community Mobilization,Kenya National Association of Social Workers Certification,Low
+2055,News Anchor,Public Speaking,Broadcast Presentation,Broadcast Journalism Certificate,Low
+2056,Clinical Officer,Clinical Assessment,Specialized Diagnostics,Clinical Officers Council Licensing,Low
+2057,Data Scientist,Statistics,Deep Learning,TensorFlow Developer Certificate,High
+2058,Illustrator,Drawing,Character Design,Adobe Certified Professional,High
+2059,Environmental Officer,Environmental Monitoring,GIS,NEMA Certification,Low
+2060,Sports Coach,Coaching Techniques,Sports Science Analytics,Kenya National Sports Council Certification,High
+2061,Lawyer / Advocate,Drafting,Case Management,Kenya School of Law (KSL) Certification,High
+2062,Travel Consultant,Itinerary Planning,Amadeus / GDS Systems,IATA Certification,High
+2063,News Anchor,Public Speaking,Broadcast Presentation,Broadcast Journalism Certificate,Low
+2064,Hotel Manager,Front Office Operations,Revenue Management,AHLEI Certification,Low
+2065,Environmental Officer,Impact Assessment,GIS,NEMA Certification,Low
+2066,Teacher,Lesson Planning,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+2067,Conservation Officer,Fieldwork,GIS Mapping,KWS Certification,High
+2068,Social Worker,Case Management,Community Mobilization,Kenya National Association of Social Workers Certification,Low
+2069,Conservation Officer,Wildlife Management,GIS Mapping,KWS Certification,Low
+2070,Operations Manager,Team Leadership,Supply Chain Optimization,Six Sigma Green Belt,High
+2071,Mechanical Engineer,Machine Design,CAD/CAM,EBK Licensing,Low
+2072,Mechanical Engineer,AutoCAD,PLC Programming,EBK Licensing,High
+2073,Illustrator,Digital Art,Character Design,Adobe Certified Professional,Low
+2074,Lawyer / Advocate,Drafting,Case Management,Kenya School of Law (KSL) Certification,High
+2075,Travel Consultant,Ticketing,Amadeus / GDS Systems,IATA Certification,High
+2076,Financial Analyst,Excel,Investment Analysis,CPA,High
+2077,Physical Education Teacher,Coaching,Sports Psychology,TSC Registration,High
+2078,Mechanical Engineer,Machine Design,PLC Programming,EBK Licensing,Low
+2079,Graphic Designer,Illustration,Motion Graphics,Adobe Certified Professional,High
+2080,Social Worker,Counselling,Community Mobilization,Kenya National Association of Social Workers Certification,High
+2081,Sports Coach,Team Management,Sports Science Analytics,Kenya National Sports Council Certification,High
+2082,Operations Manager,Team Leadership,Supply Chain Optimization,Six Sigma Green Belt,Low
+2083,Travel Consultant,Itinerary Planning,Amadeus / GDS Systems,IATA Certification,High
+2084,Airline Operations Officer,Customer Service,Aviation Safety Management,IATA Certification,Low
+2085,Travel Consultant,Ticketing,Amadeus / GDS Systems,IATA Certification,High
+2086,Tourism Officer,Customer Relations,Digital Marketing for Tourism,Tourism Regulatory Authority Certification,High
+2087,Conservation Officer,Fieldwork,GIS Mapping,KWS Certification,High
+2088,Electrical Engineer,AutoCAD,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,High
+2089,Business Administrator,Office Management,Project Management,CPA,Low
+2090,Video Editor,Storytelling,Motion Graphics,Adobe Certified Professional,High
+2091,Operations Manager,Process Management,Supply Chain Optimization,Six Sigma Green Belt,Low
+2092,Hotel Manager,Front Office Operations,Revenue Management,AHLEI Certification,Low
+2093,Electrical Engineer,Circuit Design,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,Low
+2094,Data Analyst,Excel,Machine Learning,Google Data Analytics,High
+2095,Teacher,Lesson Planning,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+2096,Sports Coach,Team Management,Sports Science Analytics,Kenya National Sports Council Certification,High
+2097,Business Administrator,Office Management,Project Management,CPA,Low
+2098,Registered Nurse,Patient Care,Critical Care Nursing,KRCHN Licensing,Low
+2099,Accountant,Financial Reporting,Taxation,CPA,Low
+2100,Teacher,Classroom Management,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+2101,Actuarial Analyst,Statistics,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+2102,Hotel Manager,Front Office Operations,Revenue Management,AHLEI Certification,Low
+2103,Airline Operations Officer,Customer Service,Aviation Safety Management,IATA Certification,Low
+2104,Procurement Officer,Negotiation,Contract Management,CIPS Certification,High
+2105,Electrical Engineer,Circuit Design,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,Low
+2106,Actuarial Analyst,Risk Analysis,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+2107,Procurement Officer,Negotiation,Contract Management,CIPS Certification,High
+2108,Architect,AutoCAD,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,High
+2109,Travel Consultant,Ticketing,Amadeus / GDS Systems,IATA Certification,High
+2110,Physical Education Teacher,Coaching,Sports Psychology,TSC Registration,High
+2111,Social Worker,Case Management,Community Mobilization,Kenya National Association of Social Workers Certification,Low
+2112,Mechanical Engineer,Machine Design,CAD/CAM,EBK Licensing,Low
+2113,Social Worker,Case Management,Community Mobilization,Kenya National Association of Social Workers Certification,Low
+2114,News Anchor,Public Speaking,Broadcast Presentation,Broadcast Journalism Certificate,Low
+2115,Bank Officer,Credit Analysis,Risk Management,Certified Credit Professional,Low
+2116,Video Editor,Storytelling,Motion Graphics,Adobe Certified Professional,High
+2117,IT Support Specialist,Networking Basics,Cybersecurity,CompTIA Network+,Low
+2118,Hotel Manager,Customer Service,Revenue Management,AHLEI Certification,Low
+2119,Environmental Officer,Impact Assessment,GIS,GIS Certification,Low
+2120,Teacher,Classroom Management,ICT Integration,Teachers Service Commission (TSC) Registration,High
+2121,Clinical Officer,Clinical Assessment,Specialized Diagnostics,Clinical Officers Council Licensing,Low
+2122,Operations Manager,Process Management,Supply Chain Optimization,Six Sigma Green Belt,Low
+2123,Mechanical Engineer,Machine Design,PLC Programming,Siemens PLC Certification,Low
+2124,Horticulturist,Plant Propagation,Greenhouse Management,Horticultural Crops Directorate Certification,Low
+2125,Conservation Officer,Wildlife Management,GIS Mapping,KWS Certification,Low
+2126,Airline Operations Officer,Customer Service,Aviation Safety Management,IATA Certification,Low
+2127,Public Relations Officer,Media Relations,Crisis Management,PRSK Certification,Low
+2128,Hotel Manager,Customer Service,Revenue Management,AHLEI Certification,Low
+2129,Conservation Officer,Fieldwork,GIS Mapping,KWS Certification,High
+2130,Horticulturist,Plant Propagation,Greenhouse Management,Horticultural Crops Directorate Certification,Low
+2131,Tourism Officer,Tour Planning,Digital Marketing for Tourism,Tourism Regulatory Authority Certification,High
+2132,Mechanical Engineer,Machine Design,PLC Programming,Siemens PLC Certification,Low
+2133,Tourism Officer,Customer Relations,Digital Marketing for Tourism,Tourism Regulatory Authority Certification,High
+2134,Agricultural Officer,Crop Management,Precision Farming,GIS Certification,Low
+2135,Social Worker,Case Management,Community Mobilization,Kenya National Association of Social Workers Certification,Low
+2136,Supply Chain Analyst,Excel,Data Analytics,CIPS Certification,High
+2137,Lawyer / Advocate,Legal Research,Case Management,Kenya School of Law (KSL) Certification,Low
+2138,Accountant,Financial Reporting,Taxation,ACCA,Low
+2139,Architect,AutoCAD,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,High
+2140,Sports Coach,Coaching Techniques,Sports Science Analytics,Kenya National Sports Council Certification,High
+2141,Data Analyst,SQL,Power BI,Google Data Analytics,High
+2142,Teacher,Classroom Management,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+2143,Airline Operations Officer,Customer Service,Aviation Safety Management,IATA Certification,Low
+2144,Accountant,Bookkeeping,Taxation,CPA,Low
+2145,Teacher,Lesson Planning,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+2146,Operations Manager,Process Management,Supply Chain Optimization,Six Sigma Green Belt,Low
+2147,Physical Education Teacher,Fitness Training,Sports Psychology,TSC Registration,Low
+2148,Airport Operations Officer,Ground Handling,Airport Security Management,ICAO Certification,High
+2149,Conservation Officer,Fieldwork,GIS Mapping,KWS Certification,High
+2150,IT Support Specialist,Troubleshooting,Cybersecurity,CompTIA A+,Low
+2151,Agricultural Officer,Crop Management,Precision Farming,GIS Certification,Low
+2152,Sports Coach,Coaching Techniques,Sports Science Analytics,Kenya National Sports Council Certification,High
+2153,IT Support Specialist,Troubleshooting,Cybersecurity,CompTIA A+,Low
+2154,Graphic Designer,Illustration,Motion Graphics,Adobe Certified Professional,High
+2155,Registered Nurse,Clinical Skills,Critical Care Nursing,Basic Life Support (BLS),Low
+2156,Environmental Officer,Environmental Monitoring,Climate Policy,GIS Certification,Low
+2157,Horticulturist,Plant Propagation,Greenhouse Management,Horticultural Crops Directorate Certification,Low
+2158,Software Engineer,Python,System Design,Microsoft Azure Fundamentals,High
+2159,Teacher,Classroom Management,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+2160,Physical Education Teacher,Fitness Training,Sports Psychology,TSC Registration,Low
+2161,Video Editor,Storytelling,Motion Graphics,Adobe Certified Professional,High
+2162,Medical Doctor,Patient Management,Specialization,ACLS,Low
+2163,Graphic Designer,Illustration,UI/UX Design,Adobe Certified Professional,High
+2164,Business Administrator,Communication,Project Management,PMP,High
+2165,Lawyer / Advocate,Legal Research,Case Management,Kenya School of Law (KSL) Certification,Low
+2166,Social Worker,Counselling,Community Mobilization,Kenya National Association of Social Workers Certification,High
+2167,Hotel Manager,Customer Service,Revenue Management,AHLEI Certification,Low
+2168,Architect,AutoCAD,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,High
+2169,Sports Coach,Team Management,Sports Science Analytics,Kenya National Sports Council Certification,High
+2170,Environmental Officer,Environmental Monitoring,GIS,NEMA Certification,Low
+2171,Travel Consultant,Itinerary Planning,Amadeus / GDS Systems,IATA Certification,High
+2172,Travel Consultant,Ticketing,Amadeus / GDS Systems,IATA Certification,High
+2173,Agribusiness Manager,Farm Management,Financial Planning,Agribusiness Management Certification,Low
+2174,Illustrator,Digital Art,Character Design,Adobe Certified Professional,Low
+2175,Financial Analyst,Financial Modelling,Investment Analysis,CPA,Low
+2176,Journalist,Writing,Digital Journalism,Adobe Certified Professional,High
+2177,Lawyer / Advocate,Legal Research,Case Management,Kenya School of Law (KSL) Certification,Low
+2178,Journalist,Research,Digital Journalism,Adobe Certified Professional,High
+2179,Graphic Designer,Illustration,UI/UX Design,Adobe Certified Professional,High
+2180,Conservation Officer,Wildlife Management,GIS Mapping,KWS Certification,Low
+2181,Graphic Designer,Illustration,UI/UX Design,Adobe Certified Professional,High
+2182,Physical Education Teacher,Coaching,Sports Psychology,TSC Registration,High
+2183,Agricultural Officer,Extension Services,GIS,GIS Certification,Low
+2184,Graphic Designer,Adobe Photoshop,UI/UX Design,Adobe Certified Professional,Low
+2185,News Anchor,Public Speaking,Broadcast Presentation,Broadcast Journalism Certificate,Low
+2186,Software Engineer,Java,Cloud Computing,Microsoft Azure Fundamentals,High
+2187,Mobile App Developer,Kotlin,Flutter,Google Associate Android Developer,Low
+2188,Lawyer / Advocate,Drafting,Litigation Skills,Kenya School of Law (KSL) Certification,High
+2189,Travel Consultant,Ticketing,Amadeus / GDS Systems,IATA Certification,High
+2190,Sports Coach,Coaching Techniques,Sports Science Analytics,Kenya National Sports Council Certification,High
+2191,Mechanical Engineer,AutoCAD,PLC Programming,EBK Licensing,High
+2192,Conservation Officer,Wildlife Management,GIS Mapping,KWS Certification,Low
+2193,Sports Coach,Coaching Techniques,Sports Science Analytics,Kenya National Sports Council Certification,High
+2194,Registered Nurse,Clinical Skills,Critical Care Nursing,KRCHN Licensing,Low
+2195,Physical Education Teacher,Coaching,Sports Psychology,TSC Registration,High
+2196,Environmental Officer,Environmental Monitoring,Climate Policy,GIS Certification,Low
+2197,Environmental Officer,Environmental Monitoring,GIS,GIS Certification,Low
+2198,Bank Officer,Customer Service,Risk Management,Certified Credit Professional,Low
+2199,Lawyer / Advocate,Legal Research,Case Management,Kenya School of Law (KSL) Certification,Low
+2200,Teacher,Classroom Management,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+2201,Journalist,Writing,Video Editing,Adobe Certified Professional,High
+2202,Public Relations Officer,Communication,Crisis Management,PRSK Certification,High
+2203,Conservation Officer,Fieldwork,GIS Mapping,KWS Certification,High
+2204,Lawyer / Advocate,Drafting,Litigation Skills,Kenya School of Law (KSL) Certification,High
+2205,Sports Coach,Team Management,Sports Science Analytics,Kenya National Sports Council Certification,High
+2206,Airline Operations Officer,Customer Service,Aviation Safety Management,IATA Certification,Low
+2207,Horticulturist,Plant Propagation,Greenhouse Management,Horticultural Crops Directorate Certification,Low
+2208,Video Editor,Storytelling,Motion Graphics,Adobe Certified Professional,High
+2209,Lawyer / Advocate,Drafting,Case Management,Kenya School of Law (KSL) Certification,High
+2210,Financial Analyst,Excel,Investment Analysis,CPA,High
+2211,Marketing Executive,Digital Marketing,Data-Driven Marketing,Google Digital Marketing Certificate,Low
+2212,Airline Operations Officer,Customer Service,Aviation Safety Management,IATA Certification,High
+2213,Accountant,Financial Reporting,Financial Modelling,ACCA,Low
+2214,Financial Analyst,Excel,Investment Analysis,CPA,High
+2215,Video Editor,Storytelling,Motion Graphics,Adobe Certified Professional,High
+2216,Bank Officer,Customer Service,Risk Management,CPA,Low
+2217,Environmental Officer,Environmental Monitoring,Climate Policy,NEMA Certification,Low
+2218,Data Scientist,Python,Deep Learning,TensorFlow Developer Certificate,High
+2219,Physical Education Teacher,Coaching,Sports Psychology,TSC Registration,High
+2220,Airport Operations Officer,Ground Handling,Airport Security Management,ICAO Certification,High
+2221,Teacher,Classroom Management,Public Speaking,Teachers Service Commission (TSC) Registration,High
+2222,Video Editor,Storytelling,Motion Graphics,Adobe Certified Professional,High
+2223,Teacher,Lesson Planning,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+2224,Teacher,Classroom Management,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+2225,Film Producer,Scriptwriting,Budgeting for Film,Film Production Certificate,High
+2226,Actuarial Analyst,Statistics,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+2227,Architect,AutoCAD,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,High
+2228,Community Development Officer,Project Coordination,Monitoring and Evaluation,M&E Certification,Low
+2229,Pharmacist,Pharmacology,Clinical Pharmacy,Pharmacy and Poisons Board Licensing,High
+2230,Horticulturist,Plant Propagation,Greenhouse Management,Horticultural Crops Directorate Certification,Low
+2231,Agribusiness Manager,Farm Management,Financial Planning,Agribusiness Management Certification,Low
+2232,Graphic Designer,Adobe Photoshop,Motion Graphics,Adobe Certified Professional,Low
+2233,Teacher,Lesson Planning,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+2234,Lawyer / Advocate,Legal Research,Case Management,Kenya School of Law (KSL) Certification,Low
+2235,Mechanical Engineer,AutoCAD,CAD/CAM,Siemens PLC Certification,Low
+2236,Software Engineer,Java,System Design,Google Cloud Associate,High
+2237,Agribusiness Manager,Marketing,Financial Planning,Agribusiness Management Certification,High
+2238,Video Editor,Storytelling,Motion Graphics,Adobe Certified Professional,High
+2239,Electrical Engineer,AutoCAD,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,High
+2240,Accountant,Financial Reporting,Taxation,CPA,Low
+2241,Airline Operations Officer,Customer Service,Aviation Safety Management,IATA Certification,Low
+2242,Film Producer,Project Coordination,Budgeting for Film,Film Production Certificate,High
+2243,Medical Doctor,Clinical Diagnosis,Surgery Skills,ACLS,Low
+2244,Clinical Officer,Clinical Assessment,Specialized Diagnostics,Clinical Officers Council Licensing,Low
+2245,Lawyer / Advocate,Drafting,Litigation Skills,Kenya School of Law (KSL) Certification,High
+2246,Software Engineer,Java,System Design,Google Cloud Associate,High
+2247,Teacher,Lesson Planning,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+2248,Operations Manager,Team Leadership,Supply Chain Optimization,Six Sigma Green Belt,Low
+2249,Horticulturist,Crop Care,Greenhouse Management,Horticultural Crops Directorate Certification,Low
+2250,Airline Operations Officer,Flight Scheduling,Aviation Safety Management,IATA Certification,Low
+2251,Teacher,Classroom Management,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+2252,Lawyer / Advocate,Drafting,Case Management,Kenya School of Law (KSL) Certification,High
+2253,Travel Consultant,Ticketing,Amadeus / GDS Systems,IATA Certification,High
+2254,Airport Operations Officer,Safety Compliance,Airport Security Management,ICAO Certification,High
+2255,Lawyer / Advocate,Drafting,Case Management,Kenya School of Law (KSL) Certification,High
+2256,Teacher,Lesson Planning,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+2257,Journalist,Writing,Digital Journalism,Adobe Certified Professional,High
+2258,Electrical Engineer,AutoCAD,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,High
+2259,Lawyer / Advocate,Drafting,Case Management,Kenya School of Law (KSL) Certification,High
+2260,Data Analyst,Excel,Machine Learning,Power BI Certification,High
+2261,Clinical Officer,Clinical Assessment,Specialized Diagnostics,Clinical Officers Council Licensing,Low
+2262,Agricultural Officer,Extension Services,GIS,GIS Certification,Low
+2263,Hotel Manager,Customer Service,Revenue Management,AHLEI Certification,Low
+2264,Financial Analyst,Financial Modelling,Investment Analysis,CPA,Low
+2265,Pharmacist,Pharmacology,Clinical Pharmacy,Pharmacy and Poisons Board Licensing,High
+2266,Horticulturist,Crop Care,Greenhouse Management,Horticultural Crops Directorate Certification,Low
+2267,Community Development Officer,Community Engagement,Monitoring and Evaluation,M&E Certification,Low
+2268,Lawyer / Advocate,Drafting,Litigation Skills,Kenya School of Law (KSL) Certification,High
+2269,Agricultural Officer,Extension Services,GIS,GIS Certification,Low
+2270,Accountant,Bookkeeping,Taxation,ACCA,Low
+2271,Operations Manager,Team Leadership,Supply Chain Optimization,Six Sigma Green Belt,Low
+2272,Airport Operations Officer,Ground Handling,Airport Security Management,ICAO Certification,High
+2273,IT Support Specialist,Troubleshooting,Cloud Support,CompTIA Network+,High
+2274,Civil Engineer,Structural Design,BIM,Engineers Board of Kenya (EBK) Licensing,Low
+2275,Electrical Engineer,AutoCAD,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,High
+2276,Horticulturist,Plant Propagation,Greenhouse Management,Horticultural Crops Directorate Certification,Low
+2277,Accountant,Financial Reporting,Taxation,ACCA,Low
+2278,Agricultural Officer,Crop Management,Precision Farming,GIS Certification,Low
+2279,Lawyer / Advocate,Legal Research,Case Management,Kenya School of Law (KSL) Certification,Low
+2280,Medical Doctor,Patient Management,Surgery Skills,ACLS,Low
+2281,Agricultural Officer,Crop Management,Precision Farming,GIS Certification,Low
+2282,Video Editor,Video Editing,Motion Graphics,Adobe Certified Professional,Low
+2283,Environmental Officer,Impact Assessment,Climate Policy,GIS Certification,Low
+2284,Mechanical Engineer,AutoCAD,CAD/CAM,Siemens PLC Certification,Low
+2285,Financial Analyst,Excel,Investment Analysis,CFA Level 1,High
+2286,Community Development Officer,Community Engagement,Monitoring and Evaluation,M&E Certification,Low
+2287,Airline Operations Officer,Flight Scheduling,Aviation Safety Management,IATA Certification,Low
+2288,Social Worker,Case Management,Community Mobilization,Kenya National Association of Social Workers Certification,Low
+2289,Clinical Officer,Clinical Assessment,Specialized Diagnostics,Clinical Officers Council Licensing,Low
+2290,Actuarial Analyst,Risk Analysis,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+2291,Architect,AutoCAD,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,High
+2292,Teacher,Classroom Management,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+2293,IT Support Specialist,Troubleshooting,Cybersecurity,CompTIA A+,Low
+2294,Community Development Officer,Project Coordination,Monitoring and Evaluation,M&E Certification,Low
+2295,Teacher,Lesson Planning,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+2296,Mechanical Engineer,AutoCAD,PLC Programming,Siemens PLC Certification,High
+2297,Electrical Engineer,AutoCAD,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,High
+2298,Financial Analyst,Financial Modelling,Investment Analysis,CPA,Low
+2299,Agricultural Officer,Extension Services,GIS,GIS Certification,Low
+2300,Registered Nurse,Patient Care,Critical Care Nursing,Basic Life Support (BLS),Low
+2301,Environmental Officer,Environmental Monitoring,GIS,GIS Certification,Low
+2302,Airport Operations Officer,Safety Compliance,Airport Security Management,ICAO Certification,High
+2303,Physical Education Teacher,Fitness Training,Sports Psychology,TSC Registration,Low
+2304,Tourism Officer,Customer Relations,Digital Marketing for Tourism,Tourism Regulatory Authority Certification,High
+2305,Data Analyst,Excel,Power BI,Power BI Certification,High
+2306,Mobile App Developer,Java,UI/UX Design,Google Associate Android Developer,High
+2307,Sports Coach,Coaching Techniques,Sports Science Analytics,Kenya National Sports Council Certification,High
+2308,Graphic Designer,Adobe Photoshop,UI/UX Design,Adobe Certified Professional,Low
+2309,Conservation Officer,Wildlife Management,GIS Mapping,KWS Certification,Low
+2310,Airline Operations Officer,Customer Service,Aviation Safety Management,IATA Certification,Low
+2311,Conservation Officer,Wildlife Management,GIS Mapping,KWS Certification,Low
+2312,Lawyer / Advocate,Legal Research,Case Management,Kenya School of Law (KSL) Certification,Low
+2313,Registered Nurse,Patient Care,Emergency Care,Basic Life Support (BLS),Low
+2314,Teacher,Lesson Planning,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+2315,Medical Doctor,Clinical Diagnosis,Specialization,KMPDC Licensing,Low
+2316,Lawyer / Advocate,Drafting,Litigation Skills,Kenya School of Law (KSL) Certification,High
+2317,Architect,AutoCAD,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,High
+2318,Teacher,Classroom Management,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+2319,Sports Coach,Coaching Techniques,Sports Science Analytics,Kenya National Sports Council Certification,High
+2320,Business Administrator,Office Management,Project Management,CPA,Low
+2321,Bank Officer,Credit Analysis,Risk Management,CPA,Low
+2322,Teacher,Classroom Management,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+2323,Mobile App Developer,Kotlin,UI/UX Design,Google Associate Android Developer,High
+2324,Software Engineer,Python,Cloud Computing,Google Cloud Associate,High
+2325,Community Development Officer,Project Coordination,Monitoring and Evaluation,M&E Certification,Low
+2326,Clinical Officer,Clinical Assessment,Specialized Diagnostics,Clinical Officers Council Licensing,Low
+2327,Lawyer / Advocate,Drafting,Litigation Skills,Kenya School of Law (KSL) Certification,High
+2328,IT Support Specialist,Networking Basics,Cybersecurity,CompTIA Network+,Low
+2329,Teacher,Lesson Planning,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+2330,Teacher,Classroom Management,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+2331,Accountant,Bookkeeping,Financial Modelling,CPA,High
+2332,Agribusiness Manager,Marketing,Financial Planning,Agribusiness Management Certification,High
+2333,Travel Consultant,Itinerary Planning,Amadeus / GDS Systems,IATA Certification,High
+2334,Financial Analyst,Financial Modelling,Investment Analysis,CPA,Low
+2335,IT Support Specialist,Troubleshooting,Cybersecurity,CompTIA A+,Low
+2336,Illustrator,Drawing,Character Design,Adobe Certified Professional,High
+2337,Teacher,Classroom Management,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+2338,IT Support Specialist,Networking Basics,Cybersecurity,CompTIA Network+,Low
+2339,Hotel Manager,Customer Service,Revenue Management,AHLEI Certification,Low
+2340,Public Relations Officer,Media Relations,Crisis Management,PRSK Certification,Low
+2341,Medical Doctor,Clinical Diagnosis,Specialization,KMPDC Licensing,Low
+2342,Teacher,Lesson Planning,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+2343,Graphic Designer,Illustration,Motion Graphics,Adobe Certified Professional,High
+2344,Civil Engineer,AutoCAD,BIM,PMP,Low
+2345,Community Development Officer,Project Coordination,Monitoring and Evaluation,M&E Certification,Low
+2346,Civil Engineer,AutoCAD,Project Management,Engineers Board of Kenya (EBK) Licensing,High
+2347,Horticulturist,Crop Care,Greenhouse Management,Horticultural Crops Directorate Certification,Low
+2348,Civil Engineer,AutoCAD,Project Management,PMP,High
+2349,Registered Nurse,Clinical Skills,Emergency Care,Basic Life Support (BLS),Low
+2350,Airport Operations Officer,Ground Handling,Airport Security Management,ICAO Certification,High
+2351,Journalist,Writing,Video Editing,Adobe Certified Professional,High
+2352,Agricultural Officer,Crop Management,GIS,GIS Certification,Low
+2353,Data Scientist,Statistics,Deep Learning,TensorFlow Developer Certificate,High
+2354,Systems Analyst,Business Analysis,Cloud,CBAP,Low
+2355,Actuarial Analyst,Statistics,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+2356,Financial Analyst,Financial Modelling,Investment Analysis,CPA,Low
+2357,Physical Education Teacher,Fitness Training,Sports Psychology,TSC Registration,Low
+2358,Lawyer / Advocate,Legal Research,Litigation Skills,Kenya School of Law (KSL) Certification,Low
+2359,Accountant,Financial Reporting,Taxation,ACCA,Low
+2360,Journalist,Writing,Video Editing,Adobe Certified Professional,High
+2361,Data Scientist,Statistics,Deep Learning,TensorFlow Developer Certificate,High
+2362,Systems Analyst,SQL,Cloud,CBAP,Low
+2363,Financial Analyst,Excel,Investment Analysis,CPA,High
+2364,Agribusiness Manager,Marketing,Financial Planning,Agribusiness Management Certification,High
+2365,Hotel Manager,Front Office Operations,Revenue Management,AHLEI Certification,Low
+2366,Graphic Designer,Illustration,Motion Graphics,Adobe Certified Professional,High
+2367,Lawyer / Advocate,Drafting,Case Management,Kenya School of Law (KSL) Certification,High
+2368,Sports Coach,Team Management,Sports Science Analytics,Kenya National Sports Council Certification,High
+2369,Pharmacist,Pharmacology,Clinical Pharmacy,Pharmacy and Poisons Board Licensing,High
+2370,Software Engineer,Web Development,DevOps,Google Cloud Associate,Low
+2371,Accountant,Financial Reporting,Taxation,ACCA,Low
+2372,Teacher,Classroom Management,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+2373,Community Development Officer,Project Coordination,Monitoring and Evaluation,M&E Certification,Low
+2374,Architect,Design Drafting,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,Low
+2375,Actuarial Analyst,Risk Analysis,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+2376,Civil Engineer,Structural Design,Project Management,PMP,Low
+2377,Airport Operations Officer,Safety Compliance,Airport Security Management,ICAO Certification,High
+2378,Agricultural Officer,Crop Management,Precision Farming,GIS Certification,Low
+2379,Tourism Officer,Customer Relations,Digital Marketing for Tourism,Tourism Regulatory Authority Certification,High
+2380,Social Worker,Counselling,Community Mobilization,Kenya National Association of Social Workers Certification,High
+2381,Graphic Designer,Adobe Photoshop,Motion Graphics,Adobe Certified Professional,Low
+2382,Agricultural Officer,Crop Management,Precision Farming,GIS Certification,Low
+2383,Sports Coach,Coaching Techniques,Sports Science Analytics,Kenya National Sports Council Certification,High
+2384,Tourism Officer,Customer Relations,Digital Marketing for Tourism,Tourism Regulatory Authority Certification,High
+2385,Airport Operations Officer,Ground Handling,Airport Security Management,ICAO Certification,High
+2386,Mechanical Engineer,AutoCAD,PLC Programming,Siemens PLC Certification,High
+2387,Environmental Officer,Impact Assessment,Climate Policy,GIS Certification,Low
+2388,Airport Operations Officer,Ground Handling,Airport Security Management,ICAO Certification,High
+2389,Pharmacist,Pharmacology,Clinical Pharmacy,Pharmacy and Poisons Board Licensing,High
+2390,Travel Consultant,Itinerary Planning,Amadeus / GDS Systems,IATA Certification,High
+2391,Environmental Officer,Environmental Monitoring,Climate Policy,GIS Certification,Low
+2392,Lawyer / Advocate,Legal Research,Case Management,Kenya School of Law (KSL) Certification,Low
+2393,Sports Coach,Coaching Techniques,Sports Science Analytics,Kenya National Sports Council Certification,Low
+2394,Architect,AutoCAD,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,High
+2395,Graphic Designer,Illustration,Motion Graphics,Adobe Certified Professional,High
+2396,Architect,Design Drafting,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,Low
+2397,Illustrator,Drawing,Character Design,Adobe Certified Professional,High
+2398,Lawyer / Advocate,Drafting,Case Management,Kenya School of Law (KSL) Certification,High
+2399,Teacher,Lesson Planning,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+2400,Sports Coach,Team Management,Sports Science Analytics,Kenya National Sports Council Certification,High
+2401,Hotel Manager,Front Office Operations,Revenue Management,AHLEI Certification,Low
+2402,Physical Education Teacher,Coaching,Sports Psychology,TSC Registration,High
+2403,Financial Analyst,Excel,Investment Analysis,CPA,High
+2404,Mobile App Developer,Kotlin,Flutter,Google Associate Android Developer,Low
+2405,Lawyer / Advocate,Drafting,Case Management,Kenya School of Law (KSL) Certification,High
+2406,Graphic Designer,Adobe Photoshop,Motion Graphics,Adobe Certified Professional,Low
+2407,Bank Officer,Credit Analysis,Risk Management,CPA,Low
+2408,Registered Nurse,Patient Care,Emergency Care,Basic Life Support (BLS),Low
+2409,Business Administrator,Communication,Project Management,PMP,High
+2410,Public Relations Officer,Media Relations,Crisis Management,PRSK Certification,Low
+2411,Physical Education Teacher,Fitness Training,Sports Psychology,TSC Registration,Low
+2412,Film Producer,Project Coordination,Budgeting for Film,Film Production Certificate,High
+2413,Mechanical Engineer,AutoCAD,PLC Programming,Siemens PLC Certification,High
+2414,Systems Analyst,Business Analysis,Cloud,ITIL Foundation,Low
+2415,Airport Operations Officer,Safety Compliance,Airport Security Management,ICAO Certification,High
+2416,Accountant,Financial Reporting,Financial Modelling,ACCA,Low
+2417,Tourism Officer,Tour Planning,Digital Marketing for Tourism,Tourism Regulatory Authority Certification,High
+2418,Airline Operations Officer,Flight Scheduling,Aviation Safety Management,IATA Certification,Low
+2419,Environmental Officer,Impact Assessment,Climate Policy,GIS Certification,Low
+2420,Public Relations Officer,Communication,Crisis Management,PRSK Certification,High
+2421,Horticulturist,Crop Care,Greenhouse Management,Horticultural Crops Directorate Certification,Low
+2422,Tourism Officer,Tour Planning,Digital Marketing for Tourism,Tourism Regulatory Authority Certification,High
+2423,Network Administrator,Server Management,Cloud Networking,CompTIA Security+,Low
+2424,Software Engineer,Web Development,System Design,AWS Certified Developer,Low
+2425,Airline Operations Officer,Flight Scheduling,Aviation Safety Management,IATA Certification,Low
+2426,Airline Operations Officer,Flight Scheduling,Aviation Safety Management,IATA Certification,Low
+2427,Illustrator,Drawing,Character Design,Adobe Certified Professional,High
+2428,Pharmacist,Dispensing,Clinical Pharmacy,Pharmacy and Poisons Board Licensing,High
+2429,Architect,Design Drafting,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,Low
+2430,Mechanical Engineer,AutoCAD,CAD/CAM,EBK Licensing,Low
+2431,Community Development Officer,Community Engagement,Monitoring and Evaluation,M&E Certification,Low
+2432,Business Analyst,Excel,Power BI,CBAP,High
+2433,Data Analyst,SQL,Power BI,Power BI Certification,High
+2434,Environmental Officer,Environmental Monitoring,GIS,NEMA Certification,Low
+2435,Lawyer / Advocate,Legal Research,Case Management,Kenya School of Law (KSL) Certification,Low
+2436,Architect,AutoCAD,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,High
+2437,Social Worker,Counselling,Community Mobilization,Kenya National Association of Social Workers Certification,High
+2438,Accountant,Financial Reporting,Financial Modelling,ACCA,Low
+2439,Airline Operations Officer,Flight Scheduling,Aviation Safety Management,IATA Certification,Low
+2440,Mobile App Developer,Kotlin,Flutter,Google Associate Android Developer,High
+2441,Lawyer / Advocate,Drafting,Litigation Skills,Kenya School of Law (KSL) Certification,High
+2442,Airport Operations Officer,Ground Handling,Airport Security Management,ICAO Certification,High
+2443,Airport Operations Officer,Ground Handling,Airport Security Management,ICAO Certification,High
+2444,Agribusiness Manager,Marketing,Financial Planning,Agribusiness Management Certification,High
+2445,Medical Doctor,Patient Management,Specialization,ACLS,Low
+2446,Medical Doctor,Patient Management,Surgery Skills,KMPDC Licensing,Low
+2447,Data Analyst,Excel,Machine Learning,Power BI Certification,High
+2448,Social Worker,Case Management,Community Mobilization,Kenya National Association of Social Workers Certification,Low
+2449,Graphic Designer,Adobe Photoshop,Motion Graphics,Adobe Certified Professional,Low
+2450,Actuarial Analyst,Statistics,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+2451,Airline Operations Officer,Flight Scheduling,Aviation Safety Management,IATA Certification,Low
+2452,Accountant,Financial Reporting,Financial Modelling,ACCA,Low
+2453,Teacher,Lesson Planning,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+2454,Tourism Officer,Customer Relations,Digital Marketing for Tourism,Tourism Regulatory Authority Certification,High
+2455,Lawyer / Advocate,Legal Research,Case Management,Kenya School of Law (KSL) Certification,Low
+2456,Sports Coach,Coaching Techniques,Sports Science Analytics,Kenya National Sports Council Certification,High
+2457,Illustrator,Digital Art,Character Design,Adobe Certified Professional,Low
+2458,Teacher,Classroom Management,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+2459,Marketing Executive,Digital Marketing,Data-Driven Marketing,HubSpot Certification,Low
+2460,Airline Operations Officer,Flight Scheduling,Aviation Safety Management,IATA Certification,Low
+2461,Airline Operations Officer,Flight Scheduling,Aviation Safety Management,IATA Certification,Low
+2462,Procurement Officer,Negotiation,Contract Management,CIPS Certification,High
+2463,Physical Education Teacher,Fitness Training,Sports Psychology,TSC Registration,Low
+2464,Sports Coach,Coaching Techniques,Sports Science Analytics,Kenya National Sports Council Certification,High
+2465,Public Relations Officer,Media Relations,Crisis Management,PRSK Certification,Low
+2466,Financial Analyst,Excel,Investment Analysis,CPA,High
+2467,Travel Consultant,Itinerary Planning,Amadeus / GDS Systems,IATA Certification,High
+2468,Sports Coach,Coaching Techniques,Sports Science Analytics,Kenya National Sports Council Certification,High
+2469,Supply Chain Analyst,Excel,Data Analytics,CIPS Certification,High
+2470,Community Development Officer,Community Engagement,Monitoring and Evaluation,M&E Certification,Low
+2471,Teacher,Classroom Management,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+2472,Social Worker,Case Management,Community Mobilization,Kenya National Association of Social Workers Certification,Low
+2473,Social Worker,Case Management,Community Mobilization,Kenya National Association of Social Workers Certification,Low
+2474,Lawyer / Advocate,Drafting,Litigation Skills,Kenya School of Law (KSL) Certification,High
+2475,Clinical Officer,Clinical Assessment,Specialized Diagnostics,Clinical Officers Council Licensing,Low
+2476,Civil Engineer,AutoCAD,BIM,PMP,Low
+2477,Teacher,Lesson Planning,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+2478,Agribusiness Manager,Farm Management,Financial Planning,Agribusiness Management Certification,Low
+2479,Financial Analyst,Financial Modelling,Investment Analysis,CPA,Low
+2480,Agribusiness Manager,Farm Management,Financial Planning,Agribusiness Management Certification,Low
+2481,Tourism Officer,Customer Relations,Digital Marketing for Tourism,Tourism Regulatory Authority Certification,High
+2482,Environmental Officer,Environmental Monitoring,Climate Policy,GIS Certification,Low
+2483,Lawyer / Advocate,Legal Research,Case Management,Kenya School of Law (KSL) Certification,Low
+2484,Business Administrator,Communication,Project Management,PMP,High
+2485,Environmental Officer,Environmental Monitoring,Climate Policy,NEMA Certification,Low
+2486,Conservation Officer,Wildlife Management,GIS Mapping,KWS Certification,Low
+2487,Electrical Engineer,AutoCAD,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,High
+2488,Pharmacist,Dispensing,Clinical Pharmacy,Pharmacy and Poisons Board Licensing,High
+2489,Physical Education Teacher,Coaching,Sports Psychology,TSC Registration,High
+2490,Environmental Officer,Impact Assessment,GIS,NEMA Certification,Low
+2491,Accountant,Bookkeeping,Financial Modelling,CPA,High
+2492,Lawyer / Advocate,Drafting,Case Management,Kenya School of Law (KSL) Certification,High
+2493,Lawyer / Advocate,Drafting,Litigation Skills,Kenya School of Law (KSL) Certification,High
+2494,Travel Consultant,Itinerary Planning,Amadeus / GDS Systems,IATA Certification,High
+2495,Airport Operations Officer,Ground Handling,Airport Security Management,ICAO Certification,High
+2496,Social Worker,Counselling,Community Mobilization,Kenya National Association of Social Workers Certification,High
+2497,Sports Coach,Coaching Techniques,Sports Science Analytics,Kenya National Sports Council Certification,High
+2498,Financial Analyst,Financial Modelling,Investment Analysis,CFA Level 1,Low
+2499,Community Development Officer,Community Engagement,Monitoring and Evaluation,M&E Certification,Low
+2500,Tourism Officer,Tour Planning,Digital Marketing for Tourism,Tourism Regulatory Authority Certification,High
+2501,Conservation Officer,Fieldwork,GIS Mapping,KWS Certification,High
+2502,Airline Operations Officer,Flight Scheduling,Aviation Safety Management,IATA Certification,Low
+2503,Pharmacist,Dispensing,Clinical Pharmacy,Pharmacy and Poisons Board Licensing,High
+2504,Video Editor,Video Editing,Motion Graphics,Adobe Certified Professional,Low
+2505,Mechanical Engineer,AutoCAD,PLC Programming,EBK Licensing,High
+2506,Operations Manager,Process Management,Supply Chain Optimization,Six Sigma Green Belt,Low
+2507,Airport Operations Officer,Ground Handling,Airport Security Management,ICAO Certification,High
+2508,Registered Nurse,Clinical Skills,Emergency Care,Basic Life Support (BLS),Low
+2509,Agribusiness Manager,Farm Management,Financial Planning,Agribusiness Management Certification,Low
+2510,Environmental Officer,Environmental Monitoring,Climate Policy,GIS Certification,Low
+2511,Civil Engineer,AutoCAD,Project Management,PMP,High
+2512,Lawyer / Advocate,Legal Research,Litigation Skills,Kenya School of Law (KSL) Certification,Low
+2513,Journalist,Research,Video Editing,Adobe Certified Professional,High
+2514,Environmental Officer,Environmental Monitoring,GIS,GIS Certification,Low
+2515,Airport Operations Officer,Safety Compliance,Airport Security Management,ICAO Certification,High
+2516,Lawyer / Advocate,Legal Research,Case Management,Kenya School of Law (KSL) Certification,Low
+2517,Sports Coach,Coaching Techniques,Sports Science Analytics,Kenya National Sports Council Certification,High
+2518,Data Analyst,Excel,Power BI,Power BI Certification,High
+2519,Medical Doctor,Patient Management,Surgery Skills,ACLS,High
+2520,Mechanical Engineer,Machine Design,CAD/CAM,Siemens PLC Certification,Low
+2521,Horticulturist,Plant Propagation,Greenhouse Management,Horticultural Crops Directorate Certification,Low
+2522,Business Analyst,Excel,Power BI,CBAP,High
+2523,Accountant,Bookkeeping,Financial Modelling,CPA,High
+2524,Pharmacist,Dispensing,Clinical Pharmacy,Pharmacy and Poisons Board Licensing,High
+2525,Lawyer / Advocate,Drafting,Litigation Skills,Kenya School of Law (KSL) Certification,High
+2526,Lawyer / Advocate,Legal Research,Litigation Skills,Kenya School of Law (KSL) Certification,Low
+2527,Architect,Design Drafting,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,Low
+2528,Public Relations Officer,Media Relations,Crisis Management,PRSK Certification,Low
+2529,Financial Analyst,Excel,Investment Analysis,CPA,High
+2530,Social Worker,Case Management,Community Mobilization,Kenya National Association of Social Workers Certification,Low
+2531,Agricultural Officer,Crop Management,GIS,GIS Certification,Low
+2532,Travel Consultant,Ticketing,Amadeus / GDS Systems,IATA Certification,High
+2533,Agricultural Officer,Extension Services,GIS,GIS Certification,Low
+2534,Software Engineer,Python,Cloud Computing,Google Cloud Associate,High
+2535,Data Analyst,Excel,Power BI,Power BI Certification,High
+2536,Teacher,Classroom Management,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+2537,Environmental Officer,Impact Assessment,GIS,GIS Certification,Low
+2538,Journalist,Research,Video Editing,Adobe Certified Professional,High
+2539,Environmental Officer,Environmental Monitoring,GIS,GIS Certification,Low
+2540,Electrical Engineer,AutoCAD,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,High
+2541,Accountant,Bookkeeping,Financial Modelling,ACCA,High
+2542,Electrical Engineer,AutoCAD,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,High
+2543,Procurement Officer,Sourcing,Contract Management,CIPS Certification,High
+2544,Software Engineer,Java,System Design,Microsoft Azure Fundamentals,High
+2545,Teacher,Lesson Planning,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+2546,Physical Education Teacher,Fitness Training,Sports Psychology,TSC Registration,Low
+2547,Actuarial Analyst,Risk Analysis,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+2548,Tourism Officer,Customer Relations,Digital Marketing for Tourism,Tourism Regulatory Authority Certification,High
+2549,Social Worker,Case Management,Community Mobilization,Kenya National Association of Social Workers Certification,Low
+2550,Architect,Design Drafting,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,Low
+2551,Architect,AutoCAD,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,High
+2552,Illustrator,Digital Art,Character Design,Adobe Certified Professional,Low
+2553,Civil Engineer,Structural Design,Project Management,PMP,Low
+2554,Illustrator,Digital Art,Character Design,Adobe Certified Professional,Low
+2555,Architect,AutoCAD,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,High
+2556,Conservation Officer,Wildlife Management,GIS Mapping,KWS Certification,Low
+2557,Civil Engineer,AutoCAD,BIM,PMP,Low
+2558,Teacher,Lesson Planning,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+2559,Physical Education Teacher,Coaching,Sports Psychology,TSC Registration,High
+2560,Data Analyst,SQL,Power BI,Power BI Certification,High
+2561,Film Producer,Scriptwriting,Budgeting for Film,Film Production Certificate,High
+2562,Travel Consultant,Ticketing,Amadeus / GDS Systems,IATA Certification,High
+2563,Mobile App Developer,Java,UI/UX Design,Google Associate Android Developer,High
+2564,Social Worker,Counselling,Community Mobilization,Kenya National Association of Social Workers Certification,High
+2565,Lawyer / Advocate,Drafting,Case Management,Kenya School of Law (KSL) Certification,High
+2566,Agribusiness Manager,Marketing,Financial Planning,Agribusiness Management Certification,High
+2567,Actuarial Analyst,Risk Analysis,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+2568,Supply Chain Analyst,Excel,Data Analytics,CIPS Certification,High
+2569,Architect,Design Drafting,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,Low
+2570,Lawyer / Advocate,Drafting,Case Management,Kenya School of Law (KSL) Certification,High
+2571,Teacher,Classroom Management,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+2572,Agricultural Officer,Extension Services,GIS,GIS Certification,Low
+2573,Graphic Designer,Adobe Photoshop,Motion Graphics,Adobe Certified Professional,Low
+2574,Travel Consultant,Itinerary Planning,Amadeus / GDS Systems,IATA Certification,High
+2575,Environmental Officer,Environmental Monitoring,GIS,NEMA Certification,Low
+2576,Agricultural Officer,Extension Services,Precision Farming,GIS Certification,Low
+2577,Agricultural Officer,Crop Management,Precision Farming,GIS Certification,Low
+2578,Environmental Officer,Impact Assessment,GIS,NEMA Certification,Low
+2579,Airline Operations Officer,Flight Scheduling,Aviation Safety Management,IATA Certification,Low
+2580,Lawyer / Advocate,Legal Research,Case Management,Kenya School of Law (KSL) Certification,Low
+2581,Airport Operations Officer,Safety Compliance,Airport Security Management,ICAO Certification,Low
+2582,Electrical Engineer,Circuit Design,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,Low
+2583,Environmental Officer,Environmental Monitoring,GIS,GIS Certification,Low
+2584,Actuarial Analyst,Risk Analysis,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+2585,Agribusiness Manager,Marketing,Financial Planning,Agribusiness Management Certification,High
+2586,Travel Consultant,Ticketing,Amadeus / GDS Systems,IATA Certification,High
+2587,Social Worker,Counselling,Community Mobilization,Kenya National Association of Social Workers Certification,High
+2588,Clinical Officer,Clinical Assessment,Specialized Diagnostics,Clinical Officers Council Licensing,Low
+2589,Illustrator,Digital Art,Character Design,Adobe Certified Professional,Low
+2590,Lawyer / Advocate,Legal Research,Case Management,Kenya School of Law (KSL) Certification,Low
+2591,Actuarial Analyst,Statistics,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+2592,Journalist,Writing,Digital Journalism,Adobe Certified Professional,High
+2593,Pharmacist,Pharmacology,Clinical Pharmacy,Pharmacy and Poisons Board Licensing,High
+2594,Lawyer / Advocate,Legal Research,Case Management,Kenya School of Law (KSL) Certification,Low
+2595,Mobile App Developer,Java,UI/UX Design,Google Associate Android Developer,High
+2596,Social Worker,Counselling,Community Mobilization,Kenya National Association of Social Workers Certification,High
+2597,Conservation Officer,Fieldwork,GIS Mapping,KWS Certification,High
+2598,Architect,AutoCAD,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,High
+2599,Clinical Officer,Clinical Assessment,Specialized Diagnostics,Clinical Officers Council Licensing,Low
+2600,Procurement Officer,Negotiation,Contract Management,CIPS Certification,High
+2601,Agribusiness Manager,Marketing,Financial Planning,Agribusiness Management Certification,High
+2602,Conservation Officer,Fieldwork,GIS Mapping,KWS Certification,High
+2603,Hotel Manager,Customer Service,Revenue Management,AHLEI Certification,Low
+2604,Agribusiness Manager,Farm Management,Financial Planning,Agribusiness Management Certification,Low
+2605,Travel Consultant,Ticketing,Amadeus / GDS Systems,IATA Certification,High
+2606,Horticulturist,Plant Propagation,Greenhouse Management,Horticultural Crops Directorate Certification,Low
+2607,Hotel Manager,Front Office Operations,Revenue Management,AHLEI Certification,Low
+2608,Airline Operations Officer,Flight Scheduling,Aviation Safety Management,IATA Certification,Low
+2609,Hotel Manager,Front Office Operations,Revenue Management,AHLEI Certification,Low
+2610,Conservation Officer,Fieldwork,GIS Mapping,KWS Certification,High
+2611,Actuarial Analyst,Statistics,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+2612,Actuarial Analyst,Risk Analysis,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+2613,Social Worker,Counselling,Community Mobilization,Kenya National Association of Social Workers Certification,High
+2614,Pharmacist,Dispensing,Clinical Pharmacy,Pharmacy and Poisons Board Licensing,High
+2615,Lawyer / Advocate,Drafting,Litigation Skills,Kenya School of Law (KSL) Certification,High
+2616,Sports Coach,Coaching Techniques,Sports Science Analytics,Kenya National Sports Council Certification,High
+2617,Physical Education Teacher,Coaching,Sports Psychology,TSC Registration,High
+2618,Business Analyst,Requirements Gathering,Data Analytics,CBAP,Low
+2619,Electrical Engineer,Circuit Design,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,Low
+2620,Data Analyst,Excel,Power BI,Google Data Analytics,High
+2621,Electrical Engineer,AutoCAD,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,High
+2622,Public Relations Officer,Media Relations,Crisis Management,PRSK Certification,Low
+2623,Procurement Officer,Sourcing,Contract Management,CIPS Certification,High
+2624,Data Scientist,Python,MLOps,TensorFlow Developer Certificate,Low
+2625,Journalist,Research,Video Editing,Adobe Certified Professional,High
+2626,Environmental Officer,Impact Assessment,Climate Policy,GIS Certification,Low
+2627,Tourism Officer,Customer Relations,Digital Marketing for Tourism,Tourism Regulatory Authority Certification,High
+2628,Clinical Officer,Clinical Assessment,Specialized Diagnostics,Clinical Officers Council Licensing,Low
+2629,Sports Coach,Coaching Techniques,Sports Science Analytics,Kenya National Sports Council Certification,High
+2630,Mechanical Engineer,Machine Design,CAD/CAM,EBK Licensing,Low
+2631,Conservation Officer,Fieldwork,GIS Mapping,KWS Certification,High
+2632,Lawyer / Advocate,Legal Research,Litigation Skills,Kenya School of Law (KSL) Certification,Low
+2633,Lawyer / Advocate,Drafting,Litigation Skills,Kenya School of Law (KSL) Certification,High
+2634,Social Worker,Case Management,Community Mobilization,Kenya National Association of Social Workers Certification,Low
+2635,Public Relations Officer,Media Relations,Crisis Management,PRSK Certification,Low
+2636,Data Analyst,SQL,Power BI,Google Data Analytics,High
+2637,Data Analyst,Excel,Machine Learning,Google Data Analytics,High
+2638,Financial Analyst,Financial Modelling,Investment Analysis,CPA,Low
+2639,Travel Consultant,Itinerary Planning,Amadeus / GDS Systems,IATA Certification,High
+2640,Horticulturist,Crop Care,Greenhouse Management,Horticultural Crops Directorate Certification,Low
+2641,Illustrator,Digital Art,Character Design,Adobe Certified Professional,Low
+2642,Registered Nurse,Patient Care,Emergency Care,Basic Life Support (BLS),Low
+2643,Public Relations Officer,Media Relations,Crisis Management,PRSK Certification,Low
+2644,Conservation Officer,Wildlife Management,GIS Mapping,KWS Certification,Low
+2645,Public Relations Officer,Communication,Crisis Management,PRSK Certification,High
+2646,Teacher,Lesson Planning,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+2647,Teacher,Classroom Management,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+2648,Tourism Officer,Customer Relations,Digital Marketing for Tourism,Tourism Regulatory Authority Certification,High
+2649,Software Engineer,Java,System Design,Microsoft Azure Fundamentals,High
+2650,Agribusiness Manager,Farm Management,Financial Planning,Agribusiness Management Certification,High
+2651,Physical Education Teacher,Coaching,Sports Psychology,TSC Registration,High
+2652,Financial Analyst,Excel,Investment Analysis,CPA,High
+2653,Agribusiness Manager,Farm Management,Financial Planning,Agribusiness Management Certification,Low
+2654,Bank Officer,Customer Service,Risk Management,Certified Credit Professional,Low
+2655,Physical Education Teacher,Coaching,Sports Psychology,TSC Registration,High
+2656,Public Relations Officer,Communication,Crisis Management,PRSK Certification,High
+2657,Film Producer,Scriptwriting,Budgeting for Film,Film Production Certificate,High
+2658,Graphic Designer,Adobe Photoshop,UI/UX Design,Adobe Certified Professional,Low
+2659,Airline Operations Officer,Flight Scheduling,Aviation Safety Management,IATA Certification,Low
+2660,Architect,Design Drafting,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,Low
+2661,Data Analyst,Excel,Machine Learning,Google Data Analytics,High
+2662,Social Worker,Counselling,Community Mobilization,Kenya National Association of Social Workers Certification,High
+2663,Actuarial Analyst,Statistics,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+2664,Sports Coach,Coaching Techniques,Sports Science Analytics,Kenya National Sports Council Certification,High
+2665,Airline Operations Officer,Customer Service,Aviation Safety Management,IATA Certification,Low
+2666,Bank Officer,Customer Service,Risk Management,Certified Credit Professional,Low
+2667,Public Relations Officer,Media Relations,Crisis Management,PRSK Certification,Low
+2668,Business Analyst,Excel,Data Analytics,Power BI Certification,High
+2669,Conservation Officer,Fieldwork,GIS Mapping,KWS Certification,High
+2670,IT Support Specialist,Troubleshooting,Cybersecurity,CompTIA A+,Low
+2671,Public Relations Officer,Media Relations,Crisis Management,PRSK Certification,Low
+2672,Supply Chain Analyst,Inventory Management,Data Analytics,CIPS Certification,Low
+2673,Airline Operations Officer,Customer Service,Aviation Safety Management,IATA Certification,Low
+2674,Civil Engineer,AutoCAD,BIM,PMP,Low
+2675,Physical Education Teacher,Coaching,Sports Psychology,TSC Registration,High
+2676,Civil Engineer,Structural Design,Project Management,PMP,Low
+2677,Electrical Engineer,Circuit Design,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,Low
+2678,Social Worker,Counselling,Community Mobilization,Kenya National Association of Social Workers Certification,High
+2679,Travel Consultant,Itinerary Planning,Amadeus / GDS Systems,IATA Certification,High
+2680,Teacher,Lesson Planning,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+2681,Civil Engineer,AutoCAD,BIM,Engineers Board of Kenya (EBK) Licensing,Low
+2682,Electrical Engineer,AutoCAD,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,High
+2683,Financial Analyst,Excel,Investment Analysis,CFA Level 1,High
+2684,Public Relations Officer,Media Relations,Crisis Management,PRSK Certification,Low
+2685,Sports Coach,Team Management,Sports Science Analytics,Kenya National Sports Council Certification,High
+2686,Conservation Officer,Wildlife Management,GIS Mapping,KWS Certification,Low
+2687,Horticulturist,Plant Propagation,Greenhouse Management,Horticultural Crops Directorate Certification,Low
+2688,IT Support Specialist,Troubleshooting,Cloud Support,CompTIA Network+,High
+2689,Data Analyst,SQL,Machine Learning,Google Data Analytics,High
+2690,Actuarial Analyst,Risk Analysis,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+2691,Electrical Engineer,AutoCAD,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,High
+2692,Teacher,Classroom Management,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+2693,Community Development Officer,Project Coordination,Monitoring and Evaluation,M&E Certification,Low
+2694,Medical Doctor,Clinical Diagnosis,Specialization,ACLS,Low
+2695,Lawyer / Advocate,Drafting,Litigation Skills,Kenya School of Law (KSL) Certification,High
+2696,Airline Operations Officer,Customer Service,Aviation Safety Management,IATA Certification,Low
+2697,Airline Operations Officer,Customer Service,Aviation Safety Management,IATA Certification,Low
+2698,Agricultural Officer,Extension Services,Precision Farming,GIS Certification,Low
+2699,Conservation Officer,Fieldwork,GIS Mapping,KWS Certification,Low
+2700,Sports Coach,Team Management,Sports Science Analytics,Kenya National Sports Council Certification,High
+2701,Graphic Designer,Adobe Photoshop,Motion Graphics,Adobe Certified Professional,Low
+2702,Airline Operations Officer,Customer Service,Aviation Safety Management,IATA Certification,Low
+2703,Film Producer,Project Coordination,Budgeting for Film,Film Production Certificate,High
+2704,Public Relations Officer,Communication,Crisis Management,PRSK Certification,High
+2705,Mechanical Engineer,AutoCAD,CAD/CAM,EBK Licensing,Low
+2706,Physical Education Teacher,Fitness Training,Sports Psychology,TSC Registration,Low
+2707,Horticulturist,Plant Propagation,Greenhouse Management,Horticultural Crops Directorate Certification,Low
+2708,Travel Consultant,Ticketing,Amadeus / GDS Systems,IATA Certification,High
+2709,Business Administrator,Communication,Project Management,CPA,High
+2710,Conservation Officer,Fieldwork,GIS Mapping,KWS Certification,High
+2711,Data Scientist,Statistics,MLOps,TensorFlow Developer Certificate,Low
+2712,Financial Analyst,Excel,Investment Analysis,CFA Level 1,High
+2713,Sports Coach,Coaching Techniques,Sports Science Analytics,Kenya National Sports Council Certification,High
+2714,Airline Operations Officer,Flight Scheduling,Aviation Safety Management,IATA Certification,High
+2715,Journalist,Research,Digital Journalism,Adobe Certified Professional,Low
+2716,Teacher,Lesson Planning,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+2717,Data Analyst,SQL,Power BI,Power BI Certification,High
+2718,Procurement Officer,Negotiation,Contract Management,CIPS Certification,High
+2719,Public Relations Officer,Communication,Crisis Management,PRSK Certification,High
+2720,Environmental Officer,Environmental Monitoring,Climate Policy,GIS Certification,Low
+2721,Sports Coach,Team Management,Sports Science Analytics,Kenya National Sports Council Certification,High
+2722,Airline Operations Officer,Flight Scheduling,Aviation Safety Management,IATA Certification,Low
+2723,Data Scientist,Statistics,Deep Learning,TensorFlow Developer Certificate,High
+2724,Agribusiness Manager,Farm Management,Financial Planning,Agribusiness Management Certification,Low
+2725,News Anchor,Writing,Broadcast Presentation,Broadcast Journalism Certificate,Low
+2726,Social Worker,Case Management,Community Mobilization,Kenya National Association of Social Workers Certification,High
+2727,Public Relations Officer,Communication,Crisis Management,PRSK Certification,High
+2728,Systems Analyst,Business Analysis,Cloud,ITIL Foundation,Low
+2729,Airline Operations Officer,Flight Scheduling,Aviation Safety Management,IATA Certification,Low
+2730,Software Engineer,Web Development,System Design,AWS Certified Developer,Low
+2731,Tourism Officer,Customer Relations,Digital Marketing for Tourism,Tourism Regulatory Authority Certification,High
+2732,Teacher,Classroom Management,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+2733,Actuarial Analyst,Statistics,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+2734,Sports Coach,Team Management,Sports Science Analytics,Kenya National Sports Council Certification,High
+2735,Journalist,Writing,Digital Journalism,Adobe Certified Professional,High
+2736,Lawyer / Advocate,Drafting,Litigation Skills,Kenya School of Law (KSL) Certification,High
+2737,Social Worker,Case Management,Community Mobilization,Kenya National Association of Social Workers Certification,Low
+2738,Hotel Manager,Front Office Operations,Revenue Management,AHLEI Certification,Low
+2739,Travel Consultant,Itinerary Planning,Amadeus / GDS Systems,IATA Certification,High
+2740,Registered Nurse,Patient Care,Critical Care Nursing,Basic Life Support (BLS),Low
+2741,Civil Engineer,Structural Design,BIM,PMP,Low
+2742,Medical Doctor,Clinical Diagnosis,Specialization,ACLS,Low
+2743,Physical Education Teacher,Coaching,Sports Psychology,TSC Registration,High
+2744,Graphic Designer,Adobe Photoshop,Motion Graphics,Adobe Certified Professional,Low
+2745,Sports Coach,Team Management,Sports Science Analytics,Kenya National Sports Council Certification,High
+2746,Airport Operations Officer,Safety Compliance,Airport Security Management,ICAO Certification,High
+2747,Conservation Officer,Wildlife Management,GIS Mapping,KWS Certification,Low
+2748,Financial Analyst,Excel,Investment Analysis,CPA,High
+2749,Teacher,Classroom Management,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+2750,Financial Analyst,Excel,Investment Analysis,CPA,High
+2751,Social Worker,Counselling,Community Mobilization,Kenya National Association of Social Workers Certification,High
+2752,Data Analyst,Excel,Power BI,Google Data Analytics,High
+2753,Marketing Executive,Content Creation,Data-Driven Marketing,HubSpot Certification,High
+2754,Airline Operations Officer,Customer Service,Aviation Safety Management,IATA Certification,Low
+2755,Business Administrator,Office Management,Project Management,PMP,Low
+2756,Physical Education Teacher,Fitness Training,Sports Psychology,TSC Registration,Low
+2757,Public Relations Officer,Media Relations,Crisis Management,PRSK Certification,Low
+2758,Agribusiness Manager,Farm Management,Financial Planning,Agribusiness Management Certification,Low
+2759,Supply Chain Analyst,Excel,Data Analytics,CIPS Certification,High
+2760,Actuarial Analyst,Statistics,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+2761,Architect,AutoCAD,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,High
+2762,Architect,Design Drafting,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,Low
+2763,Airport Operations Officer,Ground Handling,Airport Security Management,ICAO Certification,High
+2764,Financial Analyst,Excel,Investment Analysis,CPA,High
+2765,Physical Education Teacher,Coaching,Sports Psychology,TSC Registration,High
+2766,Horticulturist,Crop Care,Greenhouse Management,Horticultural Crops Directorate Certification,Low
+2767,Financial Analyst,Excel,Investment Analysis,CPA,High
+2768,Conservation Officer,Wildlife Management,GIS Mapping,KWS Certification,Low
+2769,Financial Analyst,Excel,Investment Analysis,CPA,High
+2770,Data Analyst,Excel,Machine Learning,Google Data Analytics,High
+2771,Social Worker,Counselling,Community Mobilization,Kenya National Association of Social Workers Certification,High
+2772,Film Producer,Project Coordination,Budgeting for Film,Film Production Certificate,High
+2773,Actuarial Analyst,Risk Analysis,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+2774,Journalist,Research,Digital Journalism,Adobe Certified Professional,High
+2775,Physical Education Teacher,Fitness Training,Sports Psychology,TSC Registration,Low
+2776,Lawyer / Advocate,Legal Research,Case Management,Kenya School of Law (KSL) Certification,Low
+2777,Public Relations Officer,Media Relations,Crisis Management,PRSK Certification,Low
+2778,Social Worker,Counselling,Community Mobilization,Kenya National Association of Social Workers Certification,High
+2779,Lawyer / Advocate,Drafting,Case Management,Kenya School of Law (KSL) Certification,High
+2780,Airline Operations Officer,Flight Scheduling,Aviation Safety Management,IATA Certification,Low
+2781,Teacher,Classroom Management,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+2782,Systems Analyst,Business Analysis,Data Modelling,CBAP,Low
+2783,Electrical Engineer,AutoCAD,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,High
+2784,Airport Operations Officer,Safety Compliance,Airport Security Management,ICAO Certification,High
+2785,Horticulturist,Crop Care,Greenhouse Management,Horticultural Crops Directorate Certification,Low
+2786,Lawyer / Advocate,Drafting,Litigation Skills,Kenya School of Law (KSL) Certification,High
+2787,Pharmacist,Pharmacology,Clinical Pharmacy,Pharmacy and Poisons Board Licensing,High
+2788,Teacher,Classroom Management,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+2789,Airline Operations Officer,Customer Service,Aviation Safety Management,IATA Certification,Low
+2790,Bank Officer,Credit Analysis,Risk Management,CPA,Low
+2791,Sports Coach,Team Management,Sports Science Analytics,Kenya National Sports Council Certification,High
+2792,Community Development Officer,Community Engagement,Monitoring and Evaluation,M&E Certification,Low
+2793,Lawyer / Advocate,Drafting,Litigation Skills,Kenya School of Law (KSL) Certification,High
+2794,Agribusiness Manager,Marketing,Financial Planning,Agribusiness Management Certification,High
+2795,Pharmacist,Dispensing,Clinical Pharmacy,Pharmacy and Poisons Board Licensing,High
+2796,Registered Nurse,Clinical Skills,Emergency Care,KRCHN Licensing,Low
+2797,Lawyer / Advocate,Legal Research,Litigation Skills,Kenya School of Law (KSL) Certification,Low
+2798,Systems Analyst,Business Analysis,Data Modelling,CBAP,Low
+2799,Data Scientist,Statistics,MLOps,TensorFlow Developer Certificate,Low
+2800,Graphic Designer,Adobe Photoshop,Motion Graphics,Adobe Certified Professional,Low
+2801,Accountant,Bookkeeping,Financial Modelling,CPA,High
+2802,Bank Officer,Credit Analysis,Risk Management,Certified Credit Professional,Low
+2803,Environmental Officer,Environmental Monitoring,GIS,GIS Certification,Low
+2804,Graphic Designer,Illustration,UI/UX Design,Adobe Certified Professional,High
+2805,Teacher,Lesson Planning,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+2806,Public Relations Officer,Media Relations,Crisis Management,PRSK Certification,Low
+2807,Conservation Officer,Wildlife Management,GIS Mapping,KWS Certification,Low
+2808,Bank Officer,Credit Analysis,Risk Management,CPA,Low
+2809,Airport Operations Officer,Ground Handling,Airport Security Management,ICAO Certification,High
+2810,Registered Nurse,Patient Care,Critical Care Nursing,KRCHN Licensing,Low
+2811,Registered Nurse,Patient Care,Critical Care Nursing,Basic Life Support (BLS),Low
+2812,Sports Coach,Team Management,Sports Science Analytics,Kenya National Sports Council Certification,High
+2813,Airport Operations Officer,Safety Compliance,Airport Security Management,ICAO Certification,High
+2814,Graphic Designer,Illustration,Motion Graphics,Adobe Certified Professional,High
+2815,Lawyer / Advocate,Drafting,Litigation Skills,Kenya School of Law (KSL) Certification,High
+2816,Environmental Officer,Environmental Monitoring,Climate Policy,GIS Certification,Low
+2817,Agricultural Officer,Crop Management,Precision Farming,GIS Certification,Low
+2818,Agribusiness Manager,Marketing,Financial Planning,Agribusiness Management Certification,High
+2819,Travel Consultant,Ticketing,Amadeus / GDS Systems,IATA Certification,High
+2820,Airline Operations Officer,Customer Service,Aviation Safety Management,IATA Certification,Low
+2821,Software Engineer,Web Development,System Design,Google Cloud Associate,Low
+2822,Airline Operations Officer,Flight Scheduling,Aviation Safety Management,IATA Certification,Low
+2823,Agribusiness Manager,Marketing,Financial Planning,Agribusiness Management Certification,High
+2824,Teacher,Lesson Planning,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+2825,Airport Operations Officer,Ground Handling,Airport Security Management,ICAO Certification,High
+2826,Architect,Design Drafting,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,Low
+2827,Agribusiness Manager,Farm Management,Financial Planning,Agribusiness Management Certification,Low
+2828,Conservation Officer,Fieldwork,GIS Mapping,KWS Certification,High
+2829,Graphic Designer,Adobe Photoshop,Motion Graphics,Adobe Certified Professional,Low
+2830,Operations Manager,Team Leadership,Supply Chain Optimization,Six Sigma Green Belt,Low
+2831,Airline Operations Officer,Customer Service,Aviation Safety Management,IATA Certification,Low
+2832,Teacher,Classroom Management,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+2833,Teacher,Classroom Management,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+2834,Social Worker,Counselling,Community Mobilization,Kenya National Association of Social Workers Certification,High
+2835,Actuarial Analyst,Risk Analysis,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+2836,Social Worker,Counselling,Community Mobilization,Kenya National Association of Social Workers Certification,High
+2837,Medical Doctor,Clinical Diagnosis,Surgery Skills,ACLS,Low
+2838,Bank Officer,Customer Service,Risk Management,CPA,Low
+2839,Illustrator,Digital Art,Character Design,Adobe Certified Professional,Low
+2840,Community Development Officer,Project Coordination,Monitoring and Evaluation,M&E Certification,Low
+2841,Public Relations Officer,Media Relations,Crisis Management,PRSK Certification,Low
+2842,Conservation Officer,Fieldwork,GIS Mapping,KWS Certification,High
+2843,Architect,AutoCAD,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,High
+2844,Horticulturist,Plant Propagation,Greenhouse Management,Horticultural Crops Directorate Certification,Low
+2845,Community Development Officer,Community Engagement,Monitoring and Evaluation,M&E Certification,Low
+2846,Tourism Officer,Customer Relations,Digital Marketing for Tourism,Tourism Regulatory Authority Certification,High
+2847,Lawyer / Advocate,Drafting,Case Management,Kenya School of Law (KSL) Certification,High
+2848,Lawyer / Advocate,Legal Research,Litigation Skills,Kenya School of Law (KSL) Certification,Low
+2849,Teacher,Classroom Management,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+2850,Lawyer / Advocate,Legal Research,Litigation Skills,Kenya School of Law (KSL) Certification,Low
+2851,Illustrator,Digital Art,Character Design,Adobe Certified Professional,Low
+2852,Business Administrator,Communication,Project Management,PMP,High
+2853,Airport Operations Officer,Ground Handling,Airport Security Management,ICAO Certification,High
+2854,Teacher,Classroom Management,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+2855,Data Analyst,SQL,Machine Learning,Power BI Certification,High
+2856,Operations Manager,Team Leadership,Supply Chain Optimization,Six Sigma Green Belt,Low
+2857,Social Worker,Case Management,Community Mobilization,Kenya National Association of Social Workers Certification,Low
+2858,Business Administrator,Communication,Project Management,CPA,High
+2859,Registered Nurse,Clinical Skills,Critical Care Nursing,KRCHN Licensing,Low
+2860,Environmental Officer,Impact Assessment,Climate Policy,NEMA Certification,Low
+2861,Social Worker,Case Management,Community Mobilization,Kenya National Association of Social Workers Certification,Low
+2862,Lawyer / Advocate,Legal Research,Litigation Skills,Kenya School of Law (KSL) Certification,Low
+2863,Airport Operations Officer,Safety Compliance,Airport Security Management,ICAO Certification,High
+2864,Hotel Manager,Front Office Operations,Revenue Management,AHLEI Certification,Low
+2865,Medical Doctor,Patient Management,Specialization,ACLS,Low
+2866,Architect,AutoCAD,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,High
+2867,Medical Doctor,Clinical Diagnosis,Specialization,KMPDC Licensing,Low
+2868,Architect,Design Drafting,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,Low
+2869,Environmental Officer,Impact Assessment,Climate Policy,GIS Certification,Low
+2870,Environmental Officer,Impact Assessment,GIS,GIS Certification,Low
+2871,Sports Coach,Team Management,Sports Science Analytics,Kenya National Sports Council Certification,High
+2872,Airport Operations Officer,Ground Handling,Airport Security Management,ICAO Certification,High
+2873,Operations Manager,Process Management,Supply Chain Optimization,Six Sigma Green Belt,Low
+2874,Airline Operations Officer,Customer Service,Aviation Safety Management,IATA Certification,Low
+2875,Horticulturist,Plant Propagation,Greenhouse Management,Horticultural Crops Directorate Certification,Low
+2876,Lawyer / Advocate,Drafting,Case Management,Kenya School of Law (KSL) Certification,High
+2877,Sports Coach,Team Management,Sports Science Analytics,Kenya National Sports Council Certification,High
+2878,Clinical Officer,Clinical Assessment,Specialized Diagnostics,Clinical Officers Council Licensing,Low
+2879,Airport Operations Officer,Ground Handling,Airport Security Management,ICAO Certification,High
+2880,Actuarial Analyst,Statistics,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+2881,Software Engineer,Java,Cloud Computing,AWS Certified Developer,High
+2882,Tourism Officer,Customer Relations,Digital Marketing for Tourism,Tourism Regulatory Authority Certification,High
+2883,Pharmacist,Dispensing,Clinical Pharmacy,Pharmacy and Poisons Board Licensing,High
+2884,Airport Operations Officer,Safety Compliance,Airport Security Management,ICAO Certification,High
+2885,Clinical Officer,Clinical Assessment,Specialized Diagnostics,Clinical Officers Council Licensing,Low
+2886,Pharmacist,Pharmacology,Clinical Pharmacy,Pharmacy and Poisons Board Licensing,High
+2887,Actuarial Analyst,Statistics,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+2888,Community Development Officer,Project Coordination,Monitoring and Evaluation,M&E Certification,Low
+2889,Social Worker,Counselling,Community Mobilization,Kenya National Association of Social Workers Certification,High
+2890,Film Producer,Scriptwriting,Budgeting for Film,Film Production Certificate,High
+2891,Travel Consultant,Ticketing,Amadeus / GDS Systems,IATA Certification,High
+2892,Actuarial Analyst,Statistics,Actuarial Modelling,Institute and Faculty of Actuaries (IFoA) Exams,High
+2893,Teacher,Lesson Planning,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+2894,Physical Education Teacher,Coaching,Sports Psychology,TSC Registration,High
+2895,Medical Doctor,Clinical Diagnosis,Surgery Skills,KMPDC Licensing,Low
+2896,Data Analyst,SQL,Power BI,Google Data Analytics,High
+2897,Sports Coach,Coaching Techniques,Sports Science Analytics,Kenya National Sports Council Certification,High
+2898,News Anchor,Public Speaking,Broadcast Presentation,Broadcast Journalism Certificate,Low
+2899,Travel Consultant,Itinerary Planning,Amadeus / GDS Systems,IATA Certification,High
+2900,Conservation Officer,Wildlife Management,GIS Mapping,KWS Certification,Low
+2901,Airline Operations Officer,Customer Service,Aviation Safety Management,IATA Certification,Low
+2902,Teacher,Classroom Management,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+2903,Lawyer / Advocate,Drafting,Case Management,Kenya School of Law (KSL) Certification,High
+2904,Operations Manager,Process Management,Supply Chain Optimization,Six Sigma Green Belt,Low
+2905,Community Development Officer,Project Coordination,Monitoring and Evaluation,M&E Certification,High
+2906,Tourism Officer,Customer Relations,Digital Marketing for Tourism,Tourism Regulatory Authority Certification,High
+2907,Conservation Officer,Wildlife Management,GIS Mapping,KWS Certification,Low
+2908,Registered Nurse,Clinical Skills,Emergency Care,KRCHN Licensing,Low
+2909,Public Relations Officer,Media Relations,Crisis Management,PRSK Certification,Low
+2910,Procurement Officer,Sourcing,Contract Management,CIPS Certification,High
+2911,Environmental Officer,Impact Assessment,Climate Policy,NEMA Certification,Low
+2912,Community Development Officer,Project Coordination,Monitoring and Evaluation,M&E Certification,Low
+2913,Airport Operations Officer,Ground Handling,Airport Security Management,ICAO Certification,High
+2914,Travel Consultant,Itinerary Planning,Amadeus / GDS Systems,IATA Certification,High
+2915,Graphic Designer,Adobe Photoshop,Motion Graphics,Adobe Certified Professional,Low
+2916,Pharmacist,Dispensing,Clinical Pharmacy,Pharmacy and Poisons Board Licensing,High
+2917,Procurement Officer,Negotiation,Contract Management,CIPS Certification,High
+2918,Financial Analyst,Excel,Investment Analysis,CFA Level 1,High
+2919,Civil Engineer,Structural Design,Project Management,PMP,Low
+2920,Electrical Engineer,Circuit Design,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,Low
+2921,Social Worker,Case Management,Community Mobilization,Kenya National Association of Social Workers Certification,Low
+2922,Pharmacist,Dispensing,Clinical Pharmacy,Pharmacy and Poisons Board Licensing,High
+2923,Teacher,Classroom Management,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+2924,Illustrator,Digital Art,Character Design,Adobe Certified Professional,Low
+2925,Civil Engineer,AutoCAD,BIM,Engineers Board of Kenya (EBK) Licensing,Low
+2926,Procurement Officer,Negotiation,Contract Management,CIPS Certification,High
+2927,Mechanical Engineer,Machine Design,CAD/CAM,EBK Licensing,Low
+2928,Bank Officer,Credit Analysis,Risk Management,CPA,Low
+2929,Lawyer / Advocate,Drafting,Case Management,Kenya School of Law (KSL) Certification,High
+2930,Physical Education Teacher,Fitness Training,Sports Psychology,TSC Registration,Low
+2931,Clinical Officer,Clinical Assessment,Specialized Diagnostics,Clinical Officers Council Licensing,Low
+2932,Agribusiness Manager,Marketing,Financial Planning,Agribusiness Management Certification,High
+2933,Lawyer / Advocate,Drafting,Litigation Skills,Kenya School of Law (KSL) Certification,High
+2934,Electrical Engineer,Circuit Design,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,Low
+2935,Agribusiness Manager,Marketing,Financial Planning,Agribusiness Management Certification,High
+2936,Registered Nurse,Patient Care,Critical Care Nursing,KRCHN Licensing,Low
+2937,Airline Operations Officer,Customer Service,Aviation Safety Management,IATA Certification,Low
+2938,Business Analyst,Excel,Data Analytics,CBAP,High
+2939,Physical Education Teacher,Fitness Training,Sports Psychology,TSC Registration,Low
+2940,Tourism Officer,Tour Planning,Digital Marketing for Tourism,Tourism Regulatory Authority Certification,High
+2941,Architect,AutoCAD,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,High
+2942,Public Relations Officer,Communication,Crisis Management,PRSK Certification,High
+2943,Procurement Officer,Negotiation,Contract Management,CIPS Certification,High
+2944,Conservation Officer,Fieldwork,GIS Mapping,KWS Certification,High
+2945,Sports Coach,Team Management,Sports Science Analytics,Kenya National Sports Council Certification,High
+2946,Business Analyst,Excel,Power BI,CBAP,High
+2947,Medical Doctor,Patient Management,Surgery Skills,KMPDC Licensing,Low
+2948,Architect,Design Drafting,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,Low
+2949,Medical Doctor,Clinical Diagnosis,Specialization,KMPDC Licensing,Low
+2950,Environmental Officer,Environmental Monitoring,Climate Policy,GIS Certification,Low
+2951,Electrical Engineer,Circuit Design,Renewable Energy Systems,Engineers Board of Kenya (EBK) Licensing,Low
+2952,Lawyer / Advocate,Drafting,Case Management,Kenya School of Law (KSL) Certification,High
+2953,Operations Manager,Team Leadership,Supply Chain Optimization,Six Sigma Green Belt,Low
+2954,Lawyer / Advocate,Legal Research,Litigation Skills,Kenya School of Law (KSL) Certification,Low
+2955,Public Relations Officer,Communication,Crisis Management,PRSK Certification,High
+2956,Business Administrator,Office Management,Project Management,PMP,Low
+2957,Lawyer / Advocate,Legal Research,Litigation Skills,Kenya School of Law (KSL) Certification,Low
+2958,IT Support Specialist,Troubleshooting,Cloud Support,CompTIA A+,High
+2959,Data Scientist,Python,Deep Learning,TensorFlow Developer Certificate,High
+2960,Lawyer / Advocate,Legal Research,Case Management,Kenya School of Law (KSL) Certification,Low
+2961,Accountant,Financial Reporting,Financial Modelling,ACCA,Low
+2962,Journalist,Writing,Video Editing,Adobe Certified Professional,High
+2963,Graphic Designer,Adobe Photoshop,Motion Graphics,Adobe Certified Professional,Low
+2964,Airport Operations Officer,Safety Compliance,Airport Security Management,ICAO Certification,High
+2965,Financial Analyst,Financial Modelling,Investment Analysis,CPA,Low
+2966,Physical Education Teacher,Coaching,Sports Psychology,TSC Registration,High
+2967,Mechanical Engineer,Machine Design,PLC Programming,Siemens PLC Certification,Low
+2968,Illustrator,Drawing,Character Design,Adobe Certified Professional,High
+2969,Airline Operations Officer,Customer Service,Aviation Safety Management,IATA Certification,Low
+2970,Teacher,Classroom Management,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+2971,Agribusiness Manager,Farm Management,Financial Planning,Agribusiness Management Certification,Low
+2972,Conservation Officer,Fieldwork,GIS Mapping,KWS Certification,High
+2973,Network Administrator,Server Management,Cloud Networking,CCNA,Low
+2974,Mechanical Engineer,AutoCAD,CAD/CAM,Siemens PLC Certification,Low
+2975,Supply Chain Analyst,Excel,Data Analytics,CIPS Certification,High
+2976,Graphic Designer,Illustration,UI/UX Design,Adobe Certified Professional,High
+2977,Teacher,Classroom Management,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+2978,Community Development Officer,Community Engagement,Monitoring and Evaluation,M&E Certification,Low
+2979,Social Worker,Counselling,Community Mobilization,Kenya National Association of Social Workers Certification,High
+2980,Horticulturist,Plant Propagation,Greenhouse Management,Horticultural Crops Directorate Certification,Low
+2981,Teacher,Lesson Planning,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+2982,Travel Consultant,Ticketing,Amadeus / GDS Systems,IATA Certification,High
+2983,Airline Operations Officer,Flight Scheduling,Aviation Safety Management,IATA Certification,High
+2984,Registered Nurse,Patient Care,Critical Care Nursing,Basic Life Support (BLS),Low
+2985,Bank Officer,Credit Analysis,Risk Management,Certified Credit Professional,Low
+2986,Agribusiness Manager,Farm Management,Financial Planning,Agribusiness Management Certification,Low
+2987,Airport Operations Officer,Ground Handling,Airport Security Management,ICAO Certification,High
+2988,Architect,AutoCAD,3D Modelling (Revit),Board of Registration of Architects and Quantity Surveyors (BORAQS) Licensing,High
+2989,Mechanical Engineer,AutoCAD,PLC Programming,Siemens PLC Certification,High
+2990,Illustrator,Drawing,Character Design,Adobe Certified Professional,High
+2991,Tourism Officer,Tour Planning,Digital Marketing for Tourism,Tourism Regulatory Authority Certification,High
+2992,Teacher,Lesson Planning,Public Speaking,Teachers Service Commission (TSC) Registration,Low
+2993,Conservation Officer,Wildlife Management,GIS Mapping,KWS Certification,High
+2994,Environmental Officer,Environmental Monitoring,Climate Policy,GIS Certification,Low
+2995,Procurement Officer,Negotiation,Contract Management,CIPS Certification,High
+2996,Hotel Manager,Customer Service,Revenue Management,AHLEI Certification,Low
+2997,Teacher,Classroom Management,ICT Integration,Teachers Service Commission (TSC) Registration,Low
+2998,Agribusiness Manager,Marketing,Financial Planning,Agribusiness Management Certification,High
+2999,Physical Education Teacher,Coaching,Sports Psychology,TSC Registration,High
+3000,Data Analyst,SQL,Machine Learning,Power BI Certification,High

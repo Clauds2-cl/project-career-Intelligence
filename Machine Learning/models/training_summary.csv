@@ -1,0 +1,5 @@
+dataset,target,accuracy,macro_f1,weighted_f1,majority_baseline
+Dataset1_Course_Recommendation,Recommended_Course,0.8542713567839196,0.7606598548317421,0.8406924082207825,0.032663316582914576
+Dataset2_Career_Prediction,Recommended_Career,0.8725,0.7667443181210388,0.8707755871579401,0.065
+Dataset3_Skill_Gap_Analysis,Skill_Gap_Level,0.98,0.9798178561517696,0.98,0.5475
+Dataset4_Career_Readiness,Readiness_Status,0.8525,0.742641687286438,0.848522799575822,0.7575

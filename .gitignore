@@ -1,0 +1,14 @@
+node_modules/
+.expo/
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+
+
+
+
+
+/models/
+Machine Learning/models/*.joblib

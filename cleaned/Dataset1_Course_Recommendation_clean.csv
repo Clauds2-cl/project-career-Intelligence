@@ -1,0 +1,2001 @@
+Student_ID,Education_Level,KCSE_Grade,Qualification_Level,Interest_Area,Personality,Math,English,Science,Communication,Problem_Solving,Recommended_Course
+1,KCSE,C,Diploma,Environmental Science,Innovative,45,54,54,4,4,Diploma in Environmental Studies
+2,KCSE,C+,Degree,Law,Patient,61,56,62,9,5,Bachelor of Laws (LLB)
+3,KCSE,B-,Degree,Engineering,Detail-Oriented,58,59,54,7,4,Bachelor of Civil Engineering
+4,CBC,A-,Degree,Arts & Design,Ambitious,83,81,71,5,4,BA Fine Art
+5,CBC,D+,Certificate,Education,Adaptable,40,37,48,8,8,Certificate in Early Childhood Development Education
+6,KCSE,C,Diploma,Business,Adaptable,59,53,58,9,5,Diploma in Business Management
+7,CBC,D+,Certificate,Education,Empathetic,48,41,41,10,7,Certificate in Early Childhood Development Education
+8,CBC,B+,Degree,Environmental Science,Resourceful,73,79,70,9,9,BSc Natural Resource Management
+9,CBC,C,Diploma,Hospitality,Empathetic,53,48,59,8,4,Diploma in Hospitality and Tourism Management
+10,CBC,C-,Diploma,Healthcare,Friendly,46,55,46,5,10,Diploma in Nursing (Community Health)
+11,KCSE,D+,Certificate,Business,Confident,44,44,37,4,10,Certificate in Business Management
+12,KCSE,B,Degree,Sports Science,Resourceful,62,60,72,4,7,Bachelor of Physical Education
+13,CBC,B-,Degree,Engineering,Observant,66,61,61,10,7,Bachelor of Mechanical Engineering
+14,CBC,B,Degree,Technology,Resourceful,69,68,58,4,6,BSc Information Technology
+15,CBC,B-,Degree,Engineering,Observant,67,62,68,5,4,Bachelor of Civil Engineering
+16,CBC,B-,Degree,Finance,Reflective,63,56,68,4,5,BSc Actuarial Science
+17,CBC,C+,Degree,Business,Innovative,63,60,52,8,7,Bachelor of Procurement and Logistics
+18,KCSE,D-,Certificate,Business,Independent,27,25,39,5,9,Certificate in Business Management
+19,CBC,B-,Degree,Business,Patient,69,63,56,7,7,Bachelor of Commerce
+20,KCSE,B+,Degree,Arts & Design,Practical,63,72,75,7,4,BA Fine Art
+21,CBC,C+,Degree,Sports Science,Innovative,59,54,54,6,9,Bachelor of Physical Education
+22,KCSE,A,Degree,Healthcare,Observant,80,100,95,6,10,BSc Nursing
+23,KCSE,C,Diploma,Aviation,Observant,54,48,44,7,5,Diploma in Aviation Ground Operations
+24,KCSE,C-,Diploma,Aviation,Ambitious,48,53,47,9,4,Diploma in Aviation Ground Operations
+25,CBC,C-,Diploma,Business,Reflective,50,41,52,4,4,Diploma in Business Management
+26,KCSE,C,Diploma,Media,Curious,48,61,48,8,8,Diploma in Mass Communication
+27,CBC,C-,Diploma,Hospitality,Reflective,52,56,54,4,9,Diploma in Hospitality and Tourism Management
+28,CBC,C-,Diploma,Social Sciences,Disciplined,53,51,51,9,5,Diploma in Social Work and Community Development
+29,KCSE,B-,Degree,Engineering,Analytical,61,54,61,7,8,Bachelor of Civil Engineering
+30,KCSE,B-,Degree,Healthcare,Innovative,68,55,65,6,8,BSc Nursing
+31,KCSE,C+,Degree,Education,Creative,50,59,62,8,6,Bachelor of Education (Arts)
+32,CBC,D,Certificate,Hospitality,Detail-Oriented,32,39,35,8,7,Certificate in Hospitality and Tourism Management
+33,CBC,C+,Degree,Aviation,Reflective,60,57,52,6,7,BSc Aviation Management
+34,CBC,C+,Degree,Aviation,Patient,62,63,54,8,8,Bachelor of Air Transport Operations
+35,KCSE,D+,Certificate,Aviation,Friendly,36,36,47,4,6,Certificate in Aviation Ground Operations
+36,CBC,C-,Diploma,Finance,Responsible,48,49,42,6,5,Diploma in Accounting
+37,KCSE,C+,Degree,Law,Persuasive,53,55,58,6,9,Bachelor of Laws (LLB)
+38,CBC,C,Diploma,Arts & Design,Observant,46,53,58,5,9,Diploma in Fine Art and Design
+39,CBC,C,Diploma,Finance,Empathetic,49,58,45,6,4,Diploma in Accounting
+40,CBC,A-,Degree,Agriculture,Observant,70,77,85,4,10,BSc Agriculture
+41,KCSE,C+,Degree,Agriculture,Friendly,64,58,59,8,5,BSc Horticulture
+42,CBC,B-,Degree,Technology,Responsible,64,56,56,8,4,BSc Information Technology
+43,KCSE,C,Diploma,Healthcare,Ambitious,58,47,51,6,10,Diploma in Nursing (Community Health)
+44,CBC,C-,Diploma,Education,Empathetic,51,52,39,10,4,Diploma in Early Childhood Development Education
+45,KCSE,D,Certificate,Arts & Design,Analytical,33,31,38,5,6,Certificate in Fine Art and Design
+46,KCSE,C,Diploma,Social Sciences,Practical,48,47,60,6,8,Diploma in Social Work and Community Development
+47,KCSE,C,Diploma,Healthcare,Sociable,59,46,58,6,6,Diploma in Nursing (Community Health)
+48,CBC,A-,Degree,Technology,Independent,72,81,82,6,9,BSc Computer Science
+49,CBC,C,Diploma,Finance,Independent,55,47,50,7,9,Diploma in Accounting
+50,CBC,C,Diploma,Agriculture,Analytical,49,50,48,8,10,Diploma in Agriculture
+51,KCSE,A,Degree,Healthcare,Persuasive,93,97,92,10,6,BSc Nursing
+52,KCSE,C+,Degree,Education,Disciplined,57,56,55,8,5,Bachelor of Education (Arts)
+53,KCSE,B,Degree,Agriculture,Organized,75,63,64,8,9,BSc Agriculture
+54,KCSE,B-,Degree,Arts & Design,Patient,59,65,53,4,5,BA Fine Art
+55,CBC,C,Diploma,Healthcare,Analytical,52,47,57,7,9,Diploma in Nursing (Community Health)
+56,KCSE,C+,Degree,Business,Curious,65,51,56,8,8,Bachelor of Commerce
+57,CBC,C+,Degree,Education,Resourceful,56,59,65,5,5,Bachelor of Education (Science)
+58,KCSE,B+,Degree,Business,Observant,62,73,67,8,8,Bachelor of Commerce
+59,KCSE,A-,Degree,Sports Science,Innovative,80,85,77,8,10,Bachelor of Physical Education
+60,KCSE,A-,Degree,Social Sciences,Friendly,83,78,74,6,5,BA Sociology
+61,KCSE,C+,Degree,Hospitality,Creative,62,50,59,9,8,BSc Hospitality and Tourism Management
+62,CBC,E,Retake/Artisan,Hospitality,Creative,20,21,27,7,10,KCSE Retake Recommended
+63,CBC,C+,Degree,Agriculture,Detail-Oriented,63,59,63,9,7,BSc Horticulture
+64,CBC,B+,Degree,Agriculture,Organized,72,80,73,6,5,BSc Agriculture
+65,CBC,C,Diploma,Aviation,Adaptable,48,59,55,4,10,Diploma in Aviation Ground Operations
+66,CBC,C-,Diploma,Law,Analytical,41,56,41,9,7,Diploma in Legal Studies
+67,CBC,C+,Degree,Media,Team-Oriented,55,55,59,10,9,BA Film and Media Studies
+68,CBC,C-,Diploma,Agriculture,Logical,38,53,50,9,7,Diploma in Agriculture
+69,CBC,B-,Degree,Finance,Detail-Oriented,71,59,62,6,7,BSc Actuarial Science
+70,KCSE,C+,Degree,Finance,Creative,63,50,52,10,4,BSc Actuarial Science
+71,KCSE,C+,Degree,Healthcare,Team-Oriented,54,56,53,8,7,BSc Nursing
+72,CBC,C,Diploma,Arts & Design,Observant,43,59,58,6,4,Diploma in Fine Art and Design
+73,KCSE,C-,Diploma,Finance,Practical,54,50,44,4,7,Diploma in Accounting
+74,KCSE,C-,Diploma,Business,Practical,51,43,43,7,5,Diploma in Business Management
+75,CBC,C,Diploma,Sports Science,Friendly,47,49,55,6,5,Diploma in Sports Science
+76,CBC,B,Degree,Arts & Design,Team-Oriented,64,63,60,9,6,BA Fine Art
+77,KCSE,C,Diploma,Sports Science,Hardworking,58,58,56,5,5,Diploma in Sports Science
+78,KCSE,C,Diploma,Aviation,Organized,56,50,56,4,5,Diploma in Aviation Ground Operations
+79,KCSE,B,Degree,Social Sciences,Observant,66,63,72,10,10,BA Sociology
+80,CBC,C-,Diploma,Social Sciences,Organized,40,44,50,6,9,Diploma in Social Work and Community Development
+81,CBC,B-,Degree,Technology,Innovative,61,65,67,10,4,BSc Information Technology
+82,CBC,C+,Degree,Sports Science,Hardworking,49,65,55,4,10,Bachelor of Physical Education
+83,KCSE,E,Retake/Artisan,Healthcare,Persuasive,22,24,33,7,10,Artisan/Basic Skills Training in Community Health Assistance
+84,KCSE,D+,Certificate,Arts & Design,Team-Oriented,49,44,40,5,6,Certificate in Fine Art and Design
+85,CBC,B-,Degree,Technology,Responsible,69,69,56,8,10,BSc Information Technology
+86,KCSE,C-,Diploma,Business,Resourceful,51,49,44,9,9,Diploma in Business Management
+87,KCSE,A,Degree,Business,Observant,80,85,85,7,7,Bachelor of Commerce
+88,KCSE,B-,Degree,Environmental Science,Independent,66,66,56,7,10,BSc Environmental Science
+89,CBC,C-,Diploma,Finance,Ambitious,42,45,48,10,4,Diploma in Accounting
+90,KCSE,B-,Degree,Healthcare,Curious,63,59,64,7,8,BSc Nursing
+91,KCSE,C-,Diploma,Arts & Design,Ambitious,52,43,42,6,7,Diploma in Fine Art and Design
+92,CBC,C-,Diploma,Media,Detail-Oriented,46,52,51,4,4,Diploma in Mass Communication
+93,KCSE,B-,Degree,Law,Creative,63,55,64,9,9,Bachelor of Laws (LLB)
+94,CBC,D-,Certificate,Agriculture,Organized,28,28,36,6,9,Certificate in Agriculture
+95,CBC,B,Degree,Arts & Design,Observant,74,70,72,9,5,BA Fine Art
+96,CBC,B-,Degree,Sports Science,Detail-Oriented,56,63,64,10,4,Bachelor of Physical Education
+97,CBC,B-,Degree,Agriculture,Practical,65,64,53,5,8,BSc Agriculture
+98,CBC,B+,Degree,Aviation,Independent,71,75,69,5,8,Bachelor of Air Transport Operations
+99,CBC,C+,Degree,Technology,Persuasive,58,52,50,5,6,BSc Information Technology
+100,CBC,C+,Degree,Business,Curious,60,62,51,9,4,Bachelor of Procurement and Logistics
+101,KCSE,C+,Degree,Arts & Design,Detail-Oriented,58,57,48,6,9,BA Fine Art
+102,CBC,C+,Degree,Healthcare,Independent,54,58,54,6,6,BSc Nursing
+103,KCSE,A-,Degree,Law,Logical,80,84,72,4,5,Bachelor of Laws (LLB)
+104,KCSE,C,Diploma,Business,Ambitious,56,52,55,8,8,Diploma in Business Management
+105,CBC,B-,Degree,Healthcare,Team-Oriented,59,54,59,7,4,BSc Nursing
+106,KCSE,A-,Degree,Hospitality,Hardworking,76,82,78,9,8,BSc Hospitality and Tourism Management
+107,KCSE,C,Diploma,Technology,Adaptable,57,55,47,5,6,Diploma in Information Communication Technology
+108,KCSE,C+,Degree,Agriculture,Confident,57,61,57,6,6,BSc Horticulture
+109,CBC,C,Diploma,Education,Reflective,61,47,53,10,6,Diploma in Early Childhood Development Education
+110,CBC,C-,Diploma,Business,Hardworking,41,50,40,8,10,Diploma in Business Management
+111,KCSE,D,Certificate,Aviation,Disciplined,34,31,43,7,5,Certificate in Aviation Ground Operations
+112,CBC,B+,Degree,Arts & Design,Organized,73,73,79,8,8,BA Fine Art
+113,KCSE,B,Degree,Environmental Science,Adaptable,63,75,71,9,5,BSc Environmental Science
+114,CBC,B-,Degree,Sports Science,Patient,69,63,59,7,10,Bachelor of Physical Education
+115,KCSE,D+,Certificate,Arts & Design,Innovative,40,48,43,4,4,Certificate in Fine Art and Design
+116,KCSE,B-,Degree,Arts & Design,Independent,67,69,62,6,6,Bachelor of Design
+117,CBC,E,Retake/Artisan,Engineering,Analytical,13,22,10,10,8,Artisan/Basic Skills Training in Electrical Installation
+118,CBC,C-,Diploma,Finance,Hardworking,38,51,51,7,4,Diploma in Accounting
+119,KCSE,B,Degree,Technology,Persuasive,71,61,70,4,7,BSc Computer Science
+120,CBC,C-,Diploma,Media,Analytical,43,49,53,4,7,Diploma in Mass Communication
+121,KCSE,C-,Diploma,Media,Team-Oriented,43,50,40,5,8,Diploma in Mass Communication
+122,CBC,C-,Diploma,Business,Creative,44,53,55,7,5,Diploma in Business Management
+123,CBC,A-,Degree,Technology,Friendly,80,76,75,9,7,BSc Information Technology
+124,KCSE,C-,Diploma,Education,Confident,41,44,47,6,6,Diploma in Early Childhood Development Education
+125,KCSE,B-,Degree,Finance,Sociable,69,67,56,8,9,BSc Actuarial Science
+126,KCSE,B-,Degree,Healthcare,Detail-Oriented,60,61,60,4,9,BSc Nursing
+127,CBC,C,Diploma,Education,Ambitious,61,53,56,8,10,Diploma in Early Childhood Development Education
+128,CBC,D+,Certificate,Technology,Curious,45,40,44,8,10,Certificate in Information Communication Technology
+129,KCSE,C+,Degree,Hospitality,Curious,55,54,59,7,6,BSc Hospitality and Tourism Management
+130,CBC,B-,Degree,Environmental Science,Adaptable,63,71,55,4,5,BSc Environmental Science
+131,CBC,E,Retake/Artisan,Aviation,Confident,26,16,21,9,6,Artisan/Basic Skills Training in Airport Ground Handling
+132,KCSE,C+,Degree,Engineering,Curious,56,58,65,4,10,Bachelor of Civil Engineering
+133,CBC,B-,Degree,Law,Independent,68,68,62,8,6,Bachelor of Laws (LLB)
+134,KCSE,C-,Diploma,Media,Logical,42,40,43,8,6,Diploma in Mass Communication
+135,KCSE,D+,Certificate,Education,Patient,43,37,42,5,10,Certificate in Early Childhood Development Education
+136,CBC,B,Degree,Arts & Design,Resourceful,71,73,64,5,7,BA Fine Art
+137,CBC,C,Diploma,Sports Science,Ambitious,54,47,52,7,8,Diploma in Sports Science
+138,CBC,C+,Degree,Finance,Patient,51,56,56,6,9,Bachelor of Commerce (Finance)
+139,CBC,C,Diploma,Engineering,Adaptable,50,43,60,6,10,Diploma in Engineering (Electrical/Mechanical)
+140,CBC,D+,Certificate,Engineering,Practical,42,39,47,7,10,Certificate in Engineering (Electrical/Mechanical)
+141,KCSE,C,Diploma,Technology,Friendly,58,52,58,6,10,Diploma in Information Communication Technology
+142,CBC,C-,Diploma,Technology,Responsible,46,43,46,7,9,Diploma in Information Communication Technology
+143,KCSE,B+,Degree,Media,Confident,71,78,71,7,4,BA Journalism and Mass Communication
+144,CBC,C-,Diploma,Law,Adaptable,52,52,45,8,9,Diploma in Legal Studies
+145,CBC,C+,Degree,Environmental Science,Resourceful,61,59,60,9,8,BSc Environmental Science
+146,CBC,C,Diploma,Aviation,Resourceful,56,47,54,9,4,Diploma in Aviation Ground Operations
+147,KCSE,A-,Degree,Engineering,Analytical,75,72,79,7,9,Bachelor of Mechanical Engineering
+148,KCSE,A-,Degree,Law,Patient,85,75,78,7,7,Bachelor of Laws (LLB)
+149,KCSE,C,Diploma,Engineering,Innovative,48,51,46,8,6,Diploma in Engineering (Electrical/Mechanical)
+150,CBC,C,Diploma,Education,Organized,53,52,56,4,4,Diploma in Early Childhood Development Education
+151,CBC,A-,Degree,Aviation,Innovative,73,75,74,4,9,Bachelor of Air Transport Operations
+152,KCSE,B,Degree,Aviation,Persuasive,64,61,60,7,10,BSc Aviation Management
+153,CBC,C,Diploma,Finance,Ambitious,58,54,47,7,7,Diploma in Accounting
+154,KCSE,D+,Certificate,Sports Science,Practical,47,36,48,5,9,Certificate in Sports Science
+155,KCSE,D+,Certificate,Education,Resourceful,49,41,43,10,4,Certificate in Early Childhood Development Education
+156,KCSE,C+,Degree,Social Sciences,Organized,60,61,52,5,8,BA Sociology
+157,CBC,B,Degree,Arts & Design,Independent,60,63,63,5,5,BA Fine Art
+158,CBC,C+,Degree,Agriculture,Friendly,58,54,59,7,5,BSc Agriculture
+159,CBC,C+,Degree,Environmental Science,Organized,65,52,58,7,10,BSc Environmental Science
+160,CBC,C+,Degree,Social Sciences,Observant,63,61,62,7,7,BA Sociology
+161,KCSE,A-,Degree,Technology,Observant,74,72,77,8,8,BSc Information Technology
+162,CBC,B+,Degree,Social Sciences,Creative,72,65,77,8,6,BA Sociology
+163,KCSE,C-,Diploma,Technology,Independent,39,56,52,4,6,Diploma in Information Communication Technology
+164,CBC,C-,Diploma,Agriculture,Responsible,53,40,55,4,9,Diploma in Agriculture
+165,CBC,B,Degree,Law,Curious,63,57,69,7,7,Bachelor of Laws (LLB)
+166,CBC,B,Degree,Business,Innovative,72,61,69,10,10,Bachelor of Procurement and Logistics
+167,KCSE,B,Degree,Hospitality,Creative,70,64,64,7,9,BSc Hospitality and Tourism Management
+168,CBC,B+,Degree,Engineering,Reflective,74,78,77,10,7,Bachelor of Civil Engineering
+169,KCSE,B-,Degree,Law,Resourceful,70,61,70,10,8,Bachelor of Laws (LLB)
+170,CBC,C-,Diploma,Business,Friendly,51,52,50,9,10,Diploma in Business Management
+171,CBC,C+,Degree,Law,Logical,51,58,64,4,8,Bachelor of Laws (LLB)
+172,CBC,A-,Degree,Aviation,Hardworking,83,80,79,7,9,Bachelor of Air Transport Operations
+173,KCSE,B-,Degree,Engineering,Patient,58,64,63,5,10,Bachelor of Civil Engineering
+174,CBC,B-,Degree,Media,Adaptable,60,61,56,10,7,BA Journalism and Mass Communication
+175,CBC,D,Certificate,Agriculture,Independent,41,30,39,8,5,Certificate in Agriculture
+176,CBC,B-,Degree,Hospitality,Persuasive,64,59,71,8,7,BSc Hospitality and Tourism Management
+177,CBC,C-,Diploma,Business,Curious,48,49,41,4,9,Diploma in Business Management
+178,KCSE,A-,Degree,Media,Curious,74,70,75,8,8,BA Journalism and Mass Communication
+179,CBC,D,Certificate,Technology,Analytical,36,39,34,7,8,Certificate in Information Communication Technology
+180,KCSE,D+,Certificate,Healthcare,Organized,38,39,46,4,10,Certificate in Nursing (Community Health)
+181,KCSE,C,Diploma,Education,Disciplined,47,56,49,6,7,Diploma in Early Childhood Development Education
+182,KCSE,A,Degree,Healthcare,Team-Oriented,98,94,100,10,7,BSc Nursing
+183,KCSE,B-,Degree,Aviation,Innovative,65,67,69,8,9,Bachelor of Air Transport Operations
+184,CBC,D,Certificate,Business,Resourceful,41,43,40,4,10,Certificate in Business Management
+185,CBC,A-,Degree,Technology,Organized,82,81,77,9,4,BSc Information Technology
+186,CBC,C-,Diploma,Finance,Persuasive,53,50,41,8,9,Diploma in Accounting
+187,CBC,A-,Degree,Business,Responsible,80,75,68,6,6,Bachelor of Procurement and Logistics
+188,KCSE,B+,Degree,Business,Independent,73,64,65,8,6,Bachelor of Commerce
+189,CBC,A,Degree,Media,Empathetic,95,95,93,6,7,BA Journalism and Mass Communication
+190,KCSE,C+,Degree,Business,Independent,53,56,62,7,8,Bachelor of Commerce
+191,CBC,B+,Degree,Technology,Responsible,73,70,76,9,10,BSc Information Technology
+192,KCSE,B-,Degree,Finance,Detail-Oriented,59,65,70,9,6,BSc Actuarial Science
+193,CBC,D+,Certificate,Agriculture,Organized,39,39,36,8,10,Certificate in Agriculture
+194,CBC,C+,Degree,Arts & Design,Sociable,61,61,52,5,4,BA Fine Art
+195,KCSE,C-,Diploma,Finance,Hardworking,45,54,48,9,6,Diploma in Accounting
+196,KCSE,C,Diploma,Healthcare,Persuasive,50,45,57,6,9,Diploma in Nursing (Community Health)
+197,KCSE,B+,Degree,Education,Persuasive,72,74,70,9,8,Bachelor of Education (Arts)
+198,KCSE,B+,Degree,Finance,Organized,78,76,70,6,9,BSc Actuarial Science
+199,CBC,C+,Degree,Healthcare,Adaptable,57,48,50,6,4,BSc Nursing
+200,KCSE,D,Certificate,Law,Practical,35,36,40,5,8,Certificate in Legal Studies
+201,KCSE,A,Degree,Finance,Resourceful,80,81,98,9,10,BSc Actuarial Science
+202,CBC,B,Degree,Engineering,Adaptable,68,74,64,6,4,Bachelor of Civil Engineering
+203,KCSE,D+,Certificate,Arts & Design,Disciplined,40,36,34,6,5,Certificate in Fine Art and Design
+204,CBC,B+,Degree,Media,Hardworking,69,73,75,10,7,BA Journalism and Mass Communication
+205,KCSE,B-,Degree,Agriculture,Adaptable,68,64,59,7,8,BSc Horticulture
+206,CBC,C-,Diploma,Environmental Science,Adaptable,40,49,43,7,5,Diploma in Environmental Studies
+207,CBC,C,Diploma,Law,Logical,44,58,57,4,8,Diploma in Legal Studies
+208,KCSE,D-,Certificate,Environmental Science,Ambitious,30,33,36,6,10,Certificate in Environmental Studies
+209,CBC,B,Degree,Arts & Design,Sociable,66,72,73,7,7,BA Fine Art
+210,CBC,C,Diploma,Environmental Science,Friendly,47,61,46,10,9,Diploma in Environmental Studies
+211,KCSE,E,Retake/Artisan,Environmental Science,Curious,22,31,24,8,6,Artisan/Basic Skills Training in Environmental Care
+212,KCSE,B-,Degree,Aviation,Empathetic,66,69,62,7,9,Bachelor of Air Transport Operations
+213,CBC,C-,Diploma,Aviation,Disciplined,53,47,54,7,6,Diploma in Aviation Ground Operations
+214,KCSE,B-,Degree,Hospitality,Team-Oriented,69,56,68,4,10,BSc Hospitality and Tourism Management
+215,KCSE,C+,Degree,Media,Patient,66,55,65,4,6,BA Journalism and Mass Communication
+216,KCSE,B-,Degree,Technology,Responsible,66,62,54,5,4,BSc Information Technology
+217,CBC,C+,Degree,Technology,Analytical,63,58,49,6,9,BSc Information Technology
+218,CBC,B+,Degree,Sports Science,Friendly,75,67,68,7,3,Bachelor of Physical Education
+219,KCSE,C+,Degree,Aviation,Reflective,54,64,49,9,8,Bachelor of Air Transport Operations
+220,CBC,B-,Degree,Agriculture,Curious,63,63,59,10,4,BSc Agriculture
+221,KCSE,D+,Certificate,Law,Hardworking,46,34,51,7,4,Certificate in Legal Studies
+222,KCSE,C,Diploma,Law,Analytical,61,56,50,8,9,Diploma in Legal Studies
+223,KCSE,A,Degree,Technology,Innovative,91,96,89,10,8,BSc Information Technology
+224,KCSE,B+,Degree,Education,Empathetic,71,76,70,8,9,Bachelor of Education (Science)
+225,CBC,C,Diploma,Environmental Science,Independent,58,44,51,8,6,Diploma in Environmental Studies
+226,KCSE,B+,Degree,Environmental Science,Analytical,78,77,68,4,9,BSc Environmental Science
+227,KCSE,C-,Diploma,Social Sciences,Analytical,45,43,51,7,7,Diploma in Social Work and Community Development
+228,KCSE,C+,Degree,Agriculture,Practical,50,61,56,4,9,BSc Agriculture
+229,CBC,A-,Degree,Media,Curious,83,80,80,5,5,BA Film and Media Studies
+230,KCSE,B-,Degree,Hospitality,Confident,63,56,55,6,10,BSc Hospitality and Tourism Management
+231,CBC,C-,Diploma,Agriculture,Empathetic,39,47,48,7,8,Diploma in Agriculture
+232,KCSE,E,Retake/Artisan,Environmental Science,Observant,22,14,16,10,10,Artisan/Basic Skills Training in Environmental Care
+233,CBC,A,Degree,Arts & Design,Reflective,87,86,82,10,10,BA Fine Art
+234,KCSE,A-,Degree,Sports Science,Logical,83,81,77,8,6,Bachelor of Physical Education
+235,KCSE,C+,Degree,Engineering,Friendly,53,61,55,5,4,Bachelor of Mechanical Engineering
+236,KCSE,B+,Degree,Business,Organized,70,72,69,6,5,Bachelor of Commerce
+237,CBC,B+,Degree,Arts & Design,Sociable,65,71,66,6,7,BA Fine Art
+238,KCSE,B-,Degree,Technology,Responsible,64,56,65,4,4,BSc Information Technology
+239,CBC,B+,Degree,Agriculture,Disciplined,75,68,66,4,10,BSc Agriculture
+240,KCSE,D+,Certificate,Sports Science,Detail-Oriented,48,47,45,7,6,Certificate in Sports Science
+241,KCSE,B,Degree,Sports Science,Practical,65,67,70,7,10,Bachelor of Physical Education
+242,CBC,A-,Degree,Media,Curious,79,74,80,4,6,BA Journalism and Mass Communication
+243,CBC,B-,Degree,Agriculture,Resourceful,60,58,67,9,4,BSc Horticulture
+244,KCSE,C+,Degree,Business,Organized,52,62,62,10,7,Bachelor of Commerce
+245,KCSE,B-,Degree,Business,Persuasive,67,69,63,10,7,Bachelor of Commerce
+246,CBC,D,Certificate,Law,Friendly,28,37,35,6,8,Certificate in Legal Studies
+247,KCSE,B-,Degree,Sports Science,Detail-Oriented,55,57,61,6,4,Bachelor of Physical Education
+248,CBC,C,Diploma,Education,Detail-Oriented,45,58,56,5,10,Diploma in Early Childhood Development Education
+249,CBC,D+,Certificate,Engineering,Disciplined,37,44,44,10,10,Certificate in Engineering (Electrical/Mechanical)
+250,KCSE,D+,Certificate,Business,Hardworking,46,45,40,6,4,Certificate in Business Management
+251,KCSE,D-,Certificate,Aviation,Empathetic,36,30,25,8,6,Certificate in Aviation Ground Operations
+252,KCSE,C-,Diploma,Media,Adaptable,55,48,47,4,7,Diploma in Mass Communication
+253,KCSE,C,Diploma,Business,Adaptable,56,48,47,5,6,Diploma in Business Management
+254,KCSE,A-,Degree,Agriculture,Hardworking,85,77,79,6,4,BSc Agriculture
+255,KCSE,B,Degree,Media,Sociable,74,70,60,6,7,BA Journalism and Mass Communication
+256,CBC,B+,Degree,Technology,Independent,76,72,66,8,10,BSc Computer Science
+257,CBC,D+,Certificate,Social Sciences,Responsible,48,43,39,6,5,Certificate in Social Work and Community Development
+258,CBC,B-,Degree,Education,Persuasive,64,64,63,9,6,Bachelor of Education (Arts)
+259,KCSE,B,Degree,Arts & Design,Responsible,67,73,73,7,4,BA Fine Art
+260,KCSE,A-,Degree,Healthcare,Adaptable,83,84,74,10,6,BSc Nursing
+261,CBC,D+,Certificate,Agriculture,Reflective,37,40,38,7,10,Certificate in Agriculture
+262,CBC,C,Diploma,Healthcare,Independent,52,60,44,9,9,Diploma in Nursing (Community Health)
+263,CBC,D+,Certificate,Media,Ambitious,44,37,42,8,4,Certificate in Mass Communication
+264,KCSE,C-,Diploma,Environmental Science,Team-Oriented,55,50,43,7,8,Diploma in Environmental Studies
+265,KCSE,D-,Certificate,Business,Friendly,33,30,34,5,5,Certificate in Business Management
+266,CBC,C-,Diploma,Arts & Design,Creative,42,46,51,10,4,Diploma in Fine Art and Design
+267,KCSE,D+,Certificate,Arts & Design,Creative,40,47,46,7,8,Certificate in Fine Art and Design
+268,KCSE,C-,Diploma,Agriculture,Team-Oriented,42,50,41,10,9,Diploma in Agriculture
+269,KCSE,B+,Degree,Media,Creative,72,80,75,5,6,BA Journalism and Mass Communication
+270,KCSE,D+,Certificate,Finance,Curious,44,36,40,10,8,Certificate in Accounting
+271,CBC,D+,Certificate,Finance,Innovative,38,44,34,10,10,Certificate in Accounting
+272,CBC,C,Diploma,Education,Disciplined,43,56,50,8,10,Diploma in Early Childhood Development Education
+273,KCSE,B,Degree,Sports Science,Creative,73,70,71,8,10,Bachelor of Physical Education
+274,CBC,D,Certificate,Media,Reflective,38,32,33,7,9,Certificate in Mass Communication
+275,CBC,B-,Degree,Arts & Design,Practical,69,54,57,9,9,BA Fine Art
+276,CBC,D,Certificate,Aviation,Empathetic,31,37,36,7,7,Certificate in Aviation Ground Operations
+277,KCSE,C+,Degree,Finance,Patient,63,53,61,4,5,Bachelor of Commerce (Finance)
+278,CBC,D-,Certificate,Business,Detail-Oriented,28,28,31,4,7,Certificate in Business Management
+279,KCSE,C-,Diploma,Hospitality,Practical,51,47,46,10,6,Diploma in Hospitality and Tourism Management
+280,CBC,C,Diploma,Technology,Detail-Oriented,54,42,49,10,6,Diploma in Information Communication Technology
+281,CBC,C+,Degree,Business,Empathetic,55,60,55,10,10,Bachelor of Commerce
+282,CBC,E,Retake/Artisan,Agriculture,Patient,24,19,26,6,5,KCSE Retake Recommended
+283,CBC,B,Degree,Environmental Science,Ambitious,66,72,69,4,4,BSc Natural Resource Management
+284,KCSE,A-,Degree,Media,Adaptable,77,71,80,6,8,BA Journalism and Mass Communication
+285,KCSE,C+,Degree,Media,Organized,59,61,59,9,9,BA Journalism and Mass Communication
+286,CBC,B-,Degree,Education,Practical,60,68,53,8,10,Bachelor of Education (Arts)
+287,KCSE,C,Diploma,Healthcare,Logical,54,56,59,5,4,Diploma in Nursing (Community Health)
+288,CBC,D+,Certificate,Agriculture,Disciplined,45,45,46,8,5,Certificate in Agriculture
+289,CBC,D+,Certificate,Sports Science,Reflective,45,39,40,6,9,Certificate in Sports Science
+290,KCSE,C,Diploma,Healthcare,Curious,46,48,53,9,8,Diploma in Nursing (Community Health)
+291,CBC,C,Diploma,Hospitality,Analytical,60,59,52,10,6,Diploma in Hospitality and Tourism Management
+292,CBC,B-,Degree,Technology,Sociable,64,67,68,10,7,BSc Computer Science
+293,KCSE,C+,Degree,Finance,Confident,60,61,60,3,10,BSc Actuarial Science
+294,CBC,D+,Certificate,Arts & Design,Practical,40,48,36,8,6,Certificate in Fine Art and Design
+295,CBC,A-,Degree,Social Sciences,Resourceful,82,71,79,4,6,Bachelor of Social Work
+296,KCSE,C,Diploma,Social Sciences,Hardworking,56,55,52,6,9,Diploma in Social Work and Community Development
+297,CBC,D+,Certificate,Law,Hardworking,46,41,43,3,6,Certificate in Legal Studies
+298,CBC,C,Diploma,Environmental Science,Organized,45,54,47,8,5,Diploma in Environmental Studies
+299,KCSE,B,Degree,Environmental Science,Detail-Oriented,64,74,72,7,8,BSc Environmental Science
+300,KCSE,D-,Certificate,Law,Reflective,37,33,39,5,7,Certificate in Legal Studies
+301,CBC,B+,Degree,Law,Responsible,73,69,69,5,9,Bachelor of Laws (LLB)
+302,CBC,C+,Degree,Arts & Design,Sociable,54,59,51,8,8,Bachelor of Design
+303,KCSE,B+,Degree,Law,Observant,70,68,73,8,6,Bachelor of Laws (LLB)
+304,CBC,D+,Certificate,Social Sciences,Analytical,34,43,45,5,5,Certificate in Social Work and Community Development
+305,KCSE,B+,Degree,Environmental Science,Friendly,71,71,75,7,5,BSc Natural Resource Management
+306,CBC,B,Degree,Environmental Science,Disciplined,63,71,75,4,9,BSc Environmental Science
+307,CBC,C,Diploma,Arts & Design,Persuasive,57,57,54,9,10,Diploma in Fine Art and Design
+308,KCSE,C+,Degree,Business,Practical,52,52,51,9,3,Bachelor of Commerce
+309,KCSE,C-,Diploma,Technology,Curious,50,50,45,9,7,Diploma in Information Communication Technology
+310,CBC,C-,Diploma,Law,Persuasive,49,43,46,6,10,Diploma in Legal Studies
+311,CBC,B-,Degree,Engineering,Hardworking,70,71,63,7,10,Bachelor of Mechanical Engineering
+312,KCSE,D,Certificate,Technology,Disciplined,37,32,40,4,7,Certificate in Information Communication Technology
+313,CBC,C+,Degree,Finance,Creative,59,50,63,9,7,BSc Actuarial Science
+314,KCSE,A-,Degree,Arts & Design,Disciplined,70,80,83,8,10,BA Fine Art
+315,KCSE,C-,Diploma,Finance,Sociable,40,50,48,5,5,Diploma in Accounting
+316,CBC,C+,Degree,Media,Detail-Oriented,58,59,62,7,8,BA Journalism and Mass Communication
+317,KCSE,B-,Degree,Education,Disciplined,55,62,64,7,7,Bachelor of Education (Arts)
+318,CBC,C-,Diploma,Aviation,Curious,52,55,55,3,10,Diploma in Aviation Ground Operations
+319,KCSE,B+,Degree,Hospitality,Hardworking,72,66,77,5,10,BSc Travel and Tourism Management
+320,KCSE,B,Degree,Hospitality,Innovative,61,74,75,10,7,BSc Hospitality and Tourism Management
+321,KCSE,B-,Degree,Education,Organized,62,62,58,5,4,Bachelor of Education (Science)
+322,CBC,B-,Degree,Agriculture,Hardworking,66,62,71,5,6,BSc Agriculture
+323,CBC,C-,Diploma,Education,Confident,49,48,43,7,5,Diploma in Early Childhood Development Education
+324,CBC,B+,Degree,Arts & Design,Curious,69,75,79,9,8,BA Fine Art
+325,KCSE,C,Diploma,Sports Science,Creative,53,54,51,5,9,Diploma in Sports Science
+326,KCSE,B+,Degree,Media,Confident,75,78,67,7,7,BA Journalism and Mass Communication
+327,KCSE,C,Diploma,Environmental Science,Reflective,50,51,48,4,5,Diploma in Environmental Studies
+328,CBC,C+,Degree,Sports Science,Creative,58,63,54,9,7,BSc Sports Science
+329,CBC,B-,Degree,Agriculture,Resourceful,68,60,64,6,9,BSc Horticulture
+330,KCSE,C-,Diploma,Law,Curious,42,44,40,8,9,Diploma in Legal Studies
+331,CBC,C+,Degree,Environmental Science,Organized,57,50,51,4,7,BSc Environmental Science
+332,KCSE,B+,Degree,Sports Science,Resourceful,65,74,79,8,10,Bachelor of Physical Education
+333,KCSE,D,Certificate,Finance,Hardworking,45,41,42,9,5,Certificate in Accounting
+334,KCSE,C+,Degree,Environmental Science,Disciplined,56,53,50,5,9,BSc Environmental Science
+335,KCSE,D+,Certificate,Business,Team-Oriented,45,44,37,8,10,Certificate in Business Management
+336,CBC,D+,Certificate,Law,Independent,34,38,48,6,8,Certificate in Legal Studies
+337,CBC,C+,Degree,Finance,Persuasive,52,58,48,9,3,BSc Actuarial Science
+338,KCSE,B+,Degree,Media,Ambitious,76,65,73,5,7,BA Journalism and Mass Communication
+339,CBC,B-,Degree,Aviation,Responsible,62,63,62,5,6,Bachelor of Air Transport Operations
+340,CBC,C-,Diploma,Environmental Science,Curious,51,47,42,5,6,Diploma in Environmental Studies
+341,KCSE,D+,Certificate,Business,Responsible,36,35,43,4,5,Certificate in Business Management
+342,CBC,C,Diploma,Sports Science,Responsible,53,54,59,8,6,Diploma in Sports Science
+343,CBC,D+,Certificate,Engineering,Creative,43,45,40,8,10,Certificate in Engineering (Electrical/Mechanical)
+344,CBC,E,Retake/Artisan,Agriculture,Disciplined,22,26,9,6,10,KCSE Retake Recommended
+345,CBC,B-,Degree,Engineering,Hardworking,63,54,61,7,7,Bachelor of Civil Engineering
+346,CBC,D,Certificate,Sports Science,Observant,39,45,42,9,10,Certificate in Sports Science
+347,KCSE,C-,Diploma,Finance,Organized,44,44,53,6,6,Diploma in Accounting
+348,CBC,A,Degree,Engineering,Friendly,85,89,97,7,10,Bachelor of Mechanical Engineering
+349,KCSE,B,Degree,Finance,Reflective,70,64,62,8,4,BSc Actuarial Science
+350,KCSE,B+,Degree,Aviation,Disciplined,64,81,71,6,10,Bachelor of Air Transport Operations
+351,CBC,C+,Degree,Media,Persuasive,52,56,51,6,9,BA Journalism and Mass Communication
+352,KCSE,C+,Degree,Environmental Science,Logical,60,50,55,8,5,BSc Environmental Science
+353,CBC,B,Degree,Hospitality,Detail-Oriented,66,69,72,5,5,BSc Hospitality and Tourism Management
+354,KCSE,D-,Certificate,Arts & Design,Organized,38,38,36,9,7,Certificate in Fine Art and Design
+355,CBC,B,Degree,Business,Ambitious,71,65,68,6,8,Bachelor of Commerce
+356,CBC,B,Degree,Finance,Ambitious,69,64,72,6,6,BSc Actuarial Science
+357,KCSE,D+,Certificate,Hospitality,Resourceful,43,40,41,9,7,Certificate in Hospitality and Tourism Management
+358,CBC,C+,Degree,Finance,Ambitious,65,64,58,6,10,BSc Actuarial Science
+359,KCSE,B,Degree,Agriculture,Detail-Oriented,71,66,73,10,9,BSc Agriculture
+360,CBC,D-,Certificate,Business,Practical,27,27,37,5,6,Certificate in Business Management
+361,CBC,A-,Degree,Law,Creative,73,71,71,8,10,Bachelor of Laws (LLB)
+362,CBC,B,Degree,Finance,Ambitious,66,58,73,9,7,BSc Actuarial Science
+363,CBC,D,Certificate,Business,Sociable,39,41,37,8,7,Certificate in Business Management
+364,KCSE,C+,Degree,Social Sciences,Empathetic,55,53,60,9,6,BA Sociology
+365,CBC,C,Diploma,Social Sciences,Team-Oriented,55,55,54,5,10,Diploma in Social Work and Community Development
+366,KCSE,C+,Degree,Environmental Science,Reflective,63,49,58,9,8,BSc Environmental Science
+367,CBC,B-,Degree,Media,Patient,58,63,59,8,5,BA Journalism and Mass Communication
+368,KCSE,B+,Degree,Business,Organized,65,64,63,5,6,Bachelor of Commerce
+369,CBC,E,Retake/Artisan,Environmental Science,Creative,25,21,19,8,6,Artisan/Basic Skills Training in Environmental Care
+370,KCSE,D+,Certificate,Healthcare,Sociable,45,46,40,9,7,Certificate in Nursing (Community Health)
+371,CBC,C+,Degree,Sports Science,Detail-Oriented,59,59,55,5,6,BSc Sports Science
+372,KCSE,D+,Certificate,Healthcare,Persuasive,40,37,45,3,4,Certificate in Nursing (Community Health)
+373,KCSE,C-,Diploma,Agriculture,Empathetic,46,45,53,4,6,Diploma in Agriculture
+374,KCSE,C-,Diploma,Business,Team-Oriented,54,52,47,5,8,Diploma in Business Management
+375,CBC,C-,Diploma,Sports Science,Creative,46,49,41,6,9,Diploma in Sports Science
+376,KCSE,D+,Certificate,Healthcare,Logical,37,39,42,6,5,Certificate in Nursing (Community Health)
+377,CBC,C,Diploma,Social Sciences,Hardworking,54,53,52,7,7,Diploma in Social Work and Community Development
+378,CBC,B-,Degree,Aviation,Detail-Oriented,61,66,66,5,7,Bachelor of Air Transport Operations
+379,CBC,A-,Degree,Aviation,Team-Oriented,80,74,71,10,5,BSc Aviation Management
+380,KCSE,D,Certificate,Finance,Ambitious,36,37,40,9,5,Certificate in Accounting
+381,CBC,C-,Diploma,Healthcare,Patient,42,48,46,5,8,Diploma in Nursing (Community Health)
+382,CBC,C,Diploma,Environmental Science,Organized,54,56,45,9,7,Diploma in Environmental Studies
+383,CBC,C,Diploma,Sports Science,Confident,54,60,54,9,6,Diploma in Sports Science
+384,KCSE,C,Diploma,Media,Observant,50,53,55,10,8,Diploma in Mass Communication
+385,CBC,B+,Degree,Technology,Friendly,69,76,79,10,7,BSc Information Technology
+386,CBC,B+,Degree,Agriculture,Curious,68,68,67,6,10,BSc Agriculture
+387,CBC,A-,Degree,Social Sciences,Team-Oriented,81,79,80,6,9,BA Sociology
+388,KCSE,C+,Degree,Sports Science,Detail-Oriented,61,63,54,8,8,Bachelor of Physical Education
+389,CBC,C,Diploma,Technology,Friendly,49,49,47,8,10,Diploma in Information Communication Technology
+390,KCSE,C-,Diploma,Engineering,Independent,44,39,40,6,4,Diploma in Engineering (Electrical/Mechanical)
+391,KCSE,C+,Degree,Social Sciences,Curious,52,58,65,7,5,BA Sociology
+392,CBC,C-,Diploma,Aviation,Resourceful,48,44,48,4,6,Diploma in Aviation Ground Operations
+393,CBC,C,Diploma,Hospitality,Curious,59,54,54,4,9,Diploma in Hospitality and Tourism Management
+394,KCSE,D,Certificate,Arts & Design,Friendly,38,35,30,7,5,Certificate in Fine Art and Design
+395,CBC,C-,Diploma,Hospitality,Reflective,52,46,49,5,4,Diploma in Hospitality and Tourism Management
+396,CBC,C-,Diploma,Technology,Adaptable,40,43,51,9,4,Diploma in Information Communication Technology
+397,CBC,B,Degree,Law,Sociable,62,69,66,7,10,Bachelor of Laws (LLB)
+398,CBC,A-,Degree,Agriculture,Team-Oriented,71,74,73,10,7,BSc Agriculture
+399,CBC,C,Diploma,Sports Science,Analytical,61,48,46,9,7,Diploma in Sports Science
+400,KCSE,C+,Degree,Media,Friendly,56,52,56,9,9,BA Film and Media Studies
+401,KCSE,C-,Diploma,Media,Curious,49,39,51,5,9,Diploma in Mass Communication
+402,CBC,C-,Diploma,Sports Science,Independent,46,53,51,4,5,Diploma in Sports Science
+403,CBC,B,Degree,Hospitality,Resourceful,69,58,70,4,9,BSc Hospitality and Tourism Management
+404,CBC,C-,Diploma,Business,Responsible,41,38,40,5,6,Diploma in Business Management
+405,KCSE,C,Diploma,Social Sciences,Patient,57,60,49,7,5,Diploma in Social Work and Community Development
+406,CBC,C-,Diploma,Environmental Science,Detail-Oriented,54,48,51,4,4,Diploma in Environmental Studies
+407,KCSE,D+,Certificate,Sports Science,Persuasive,40,44,44,4,5,Certificate in Sports Science
+408,CBC,D+,Certificate,Finance,Practical,43,40,46,7,8,Certificate in Accounting
+409,KCSE,B,Degree,Media,Independent,59,73,75,4,6,BA Journalism and Mass Communication
+410,KCSE,D,Certificate,Environmental Science,Reflective,29,35,35,9,7,Certificate in Environmental Studies
+411,CBC,B-,Degree,Technology,Practical,65,57,58,8,6,BSc Information Technology
+412,CBC,C-,Diploma,Education,Ambitious,52,41,40,7,7,Diploma in Early Childhood Development Education
+413,CBC,C,Diploma,Engineering,Patient,52,45,48,7,8,Diploma in Engineering (Electrical/Mechanical)
+414,KCSE,D+,Certificate,Technology,Practical,43,46,48,5,10,Certificate in Information Communication Technology
+415,KCSE,B+,Degree,Business,Disciplined,74,74,80,9,6,Bachelor of Commerce
+416,CBC,B+,Degree,Agriculture,Confident,79,79,70,4,9,BSc Agriculture
+417,KCSE,C+,Degree,Environmental Science,Patient,51,60,59,8,10,BSc Environmental Science
+418,CBC,C+,Degree,Education,Logical,59,61,61,7,9,Bachelor of Education (Arts)
+419,CBC,B,Degree,Engineering,Analytical,65,72,68,6,4,Bachelor of Civil Engineering
+420,KCSE,C,Diploma,Technology,Ambitious,47,50,49,3,8,Diploma in Information Communication Technology
+421,KCSE,C+,Degree,Arts & Design,Practical,61,58,49,4,4,BA Fine Art
+422,CBC,D+,Certificate,Finance,Independent,37,43,44,4,7,Certificate in Accounting
+423,CBC,C-,Diploma,Healthcare,Curious,39,51,50,6,8,Diploma in Nursing (Community Health)
+424,CBC,C-,Diploma,Environmental Science,Creative,39,46,45,7,5,Diploma in Environmental Studies
+425,KCSE,C-,Diploma,Sports Science,Empathetic,39,47,53,9,7,Diploma in Sports Science
+426,KCSE,B+,Degree,Arts & Design,Logical,67,72,73,3,10,Bachelor of Design
+427,KCSE,D+,Certificate,Agriculture,Adaptable,37,47,44,8,5,Certificate in Agriculture
+428,CBC,B,Degree,Law,Detail-Oriented,71,61,73,7,4,Bachelor of Laws (LLB)
+429,CBC,C,Diploma,Business,Sociable,54,48,54,4,4,Diploma in Business Management
+430,CBC,A-,Degree,Technology,Empathetic,72,79,82,8,6,BSc Information Technology
+431,KCSE,C-,Diploma,Sports Science,Adaptable,41,51,42,8,9,Diploma in Sports Science
+432,KCSE,B,Degree,Business,Hardworking,64,72,72,6,7,Bachelor of Commerce
+433,CBC,C+,Degree,Finance,Adaptable,55,58,56,8,4,BSc Actuarial Science
+434,CBC,C,Diploma,Law,Adaptable,50,53,52,6,9,Diploma in Legal Studies
+435,CBC,C-,Diploma,Hospitality,Detail-Oriented,43,41,50,7,8,Diploma in Hospitality and Tourism Management
+436,KCSE,B-,Degree,Arts & Design,Adaptable,68,54,68,6,7,Bachelor of Design
+437,KCSE,A-,Degree,Arts & Design,Curious,85,70,70,7,6,BA Fine Art
+438,KCSE,C+,Degree,Aviation,Detail-Oriented,61,64,62,10,10,Bachelor of Air Transport Operations
+439,CBC,C,Diploma,Arts & Design,Curious,46,61,51,10,4,Diploma in Fine Art and Design
+440,KCSE,D+,Certificate,Media,Sociable,44,41,37,5,4,Certificate in Mass Communication
+441,CBC,C+,Degree,Arts & Design,Independent,64,52,48,8,7,BA Fine Art
+442,KCSE,D-,Certificate,Healthcare,Curious,31,36,31,5,7,Certificate in Nursing (Community Health)
+443,KCSE,C+,Degree,Business,Independent,59,54,56,7,6,Bachelor of Procurement and Logistics
+444,CBC,C,Diploma,Healthcare,Resourceful,55,54,62,9,7,Diploma in Nursing (Community Health)
+445,KCSE,C+,Degree,Engineering,Team-Oriented,60,61,58,8,10,Bachelor of Civil Engineering
+446,CBC,C-,Diploma,Finance,Logical,50,44,46,5,8,Diploma in Accounting
+447,CBC,C-,Diploma,Technology,Ambitious,42,53,50,5,4,Diploma in Information Communication Technology
+448,CBC,D+,Certificate,Education,Curious,39,45,49,9,8,Certificate in Early Childhood Development Education
+449,CBC,D+,Certificate,Social Sciences,Sociable,36,35,51,8,9,Certificate in Social Work and Community Development
+450,CBC,C-,Diploma,Social Sciences,Responsible,45,43,45,8,9,Diploma in Social Work and Community Development
+451,CBC,A-,Degree,Media,Team-Oriented,80,79,80,7,4,BA Journalism and Mass Communication
+452,CBC,A,Degree,Media,Disciplined,86,92,88,10,9,BA Journalism and Mass Communication
+453,CBC,D+,Certificate,Education,Innovative,39,42,39,8,9,Certificate in Early Childhood Development Education
+454,KCSE,B-,Degree,Agriculture,Observant,52,59,65,6,8,BSc Horticulture
+455,KCSE,B,Degree,Hospitality,Empathetic,67,64,61,10,4,BSc Hospitality and Tourism Management
+456,KCSE,B-,Degree,Sports Science,Organized,59,69,69,5,6,Bachelor of Physical Education
+457,KCSE,B,Degree,Education,Creative,64,73,65,7,10,Bachelor of Education (Arts)
+458,CBC,C+,Degree,Healthcare,Curious,56,51,53,4,4,Bachelor of Medicine and Surgery (MBChB)
+459,KCSE,C-,Diploma,Sports Science,Team-Oriented,48,51,49,10,7,Diploma in Sports Science
+460,CBC,C+,Degree,Arts & Design,Reflective,63,49,64,7,7,BA Fine Art
+461,CBC,B-,Degree,Media,Creative,70,61,57,7,9,BA Journalism and Mass Communication
+462,KCSE,B,Degree,Media,Disciplined,69,71,60,8,9,BA Journalism and Mass Communication
+463,KCSE,A-,Degree,Environmental Science,Resourceful,74,80,84,9,10,BSc Environmental Science
+464,KCSE,A-,Degree,Agriculture,Reflective,69,81,80,10,4,BSc Agriculture
+465,KCSE,B,Degree,Technology,Reflective,68,74,68,4,5,BSc Information Technology
+466,KCSE,D,Certificate,Finance,Hardworking,37,32,42,5,9,Certificate in Accounting
+467,CBC,B-,Degree,Agriculture,Organized,65,66,67,8,6,BSc Agriculture
+468,CBC,B-,Degree,Business,Sociable,56,62,65,8,6,Bachelor of Commerce
+469,CBC,A,Degree,Healthcare,Analytical,87,95,88,10,8,BSc Nursing
+470,CBC,B,Degree,Law,Adaptable,74,60,66,10,8,Bachelor of Laws (LLB)
+471,KCSE,B-,Degree,Law,Persuasive,69,66,71,7,7,Bachelor of Laws (LLB)
+472,KCSE,B-,Degree,Healthcare,Curious,70,57,55,8,5,Bachelor of Medicine and Surgery (MBChB)
+473,CBC,B,Degree,Technology,Organized,75,70,61,10,8,BSc Information Technology
+474,CBC,C+,Degree,Engineering,Organized,50,64,52,7,7,Bachelor of Civil Engineering
+475,CBC,B+,Degree,Business,Responsible,71,69,68,4,7,Bachelor of Commerce
+476,CBC,B+,Degree,Finance,Independent,68,75,75,8,5,Bachelor of Commerce (Finance)
+477,KCSE,D+,Certificate,Media,Logical,50,48,45,9,5,Certificate in Mass Communication
+478,KCSE,C+,Degree,Sports Science,Resourceful,65,57,63,9,7,BSc Sports Science
+479,CBC,C,Diploma,Social Sciences,Sociable,53,52,54,10,4,Diploma in Social Work and Community Development
+480,KCSE,B,Degree,Technology,Team-Oriented,62,68,75,7,4,BSc Information Technology
+481,CBC,B,Degree,Aviation,Adaptable,60,66,68,5,9,Bachelor of Air Transport Operations
+482,KCSE,C-,Diploma,Hospitality,Detail-Oriented,41,52,42,6,8,Diploma in Hospitality and Tourism Management
+483,KCSE,B-,Degree,Law,Sociable,57,62,66,9,9,Bachelor of Laws (LLB)
+484,KCSE,C-,Diploma,Agriculture,Confident,49,40,46,7,9,Diploma in Agriculture
+485,CBC,C-,Diploma,Finance,Hardworking,49,55,44,10,4,Diploma in Accounting
+486,CBC,D+,Certificate,Healthcare,Organized,34,35,48,4,6,Certificate in Nursing (Community Health)
+487,CBC,C+,Degree,Finance,Reflective,54,61,63,8,6,Bachelor of Commerce (Finance)
+488,CBC,C,Diploma,Finance,Resourceful,53,52,59,6,9,Diploma in Accounting
+489,CBC,C+,Degree,Social Sciences,Creative,52,61,56,5,5,Bachelor of Social Work
+490,KCSE,C-,Diploma,Business,Persuasive,53,46,42,8,8,Diploma in Business Management
+491,CBC,B+,Degree,Law,Practical,66,77,80,10,4,Bachelor of Laws (LLB)
+492,CBC,C,Diploma,Finance,Friendly,58,57,57,10,6,Diploma in Accounting
+493,KCSE,C-,Diploma,Business,Disciplined,44,52,40,4,8,Diploma in Business Management
+494,CBC,C+,Degree,Engineering,Analytical,61,65,57,7,8,Bachelor of Civil Engineering
+495,CBC,D,Certificate,Media,Curious,37,29,33,7,7,Certificate in Mass Communication
+496,CBC,C-,Diploma,Environmental Science,Independent,45,56,53,4,8,Diploma in Environmental Studies
+497,CBC,B+,Degree,Finance,Logical,67,78,69,10,6,BSc Actuarial Science
+498,KCSE,C+,Degree,Engineering,Practical,55,62,58,7,9,Bachelor of Mechanical Engineering
+499,KCSE,A,Degree,Business,Innovative,88,86,89,6,10,Bachelor of Procurement and Logistics
+500,KCSE,B,Degree,Social Sciences,Innovative,75,65,66,5,8,BA Sociology
+501,CBC,D+,Certificate,Law,Reflective,48,34,47,4,5,Certificate in Legal Studies
+502,CBC,B-,Degree,Technology,Friendly,63,55,67,8,5,BSc Computer Science
+503,CBC,D+,Certificate,Education,Disciplined,41,40,35,5,9,Certificate in Early Childhood Development Education
+504,KCSE,B-,Degree,Healthcare,Patient,56,67,68,7,7,BSc Nursing
+505,KCSE,C+,Degree,Healthcare,Curious,58,54,65,8,9,BSc Nursing
+506,CBC,B,Degree,Technology,Reflective,64,63,60,4,4,BSc Information Technology
+507,CBC,A-,Degree,Social Sciences,Independent,69,78,69,5,4,BA Sociology
+508,KCSE,A,Degree,Social Sciences,Organized,93,92,80,10,10,BA Sociology
+509,KCSE,B-,Degree,Arts & Design,Logical,65,55,67,7,8,BA Fine Art
+510,KCSE,B,Degree,Environmental Science,Organized,75,68,63,8,4,BSc Environmental Science
+511,CBC,D-,Certificate,Engineering,Logical,25,28,25,9,8,Certificate in Engineering (Electrical/Mechanical)
+512,KCSE,C-,Diploma,Agriculture,Team-Oriented,42,44,48,7,5,Diploma in Agriculture
+513,KCSE,B,Degree,Sports Science,Team-Oriented,67,68,66,7,8,Bachelor of Physical Education
+514,CBC,B+,Degree,Environmental Science,Resourceful,78,68,67,5,9,BSc Natural Resource Management
+515,CBC,B+,Degree,Environmental Science,Team-Oriented,75,69,75,6,7,BSc Environmental Science
+516,CBC,D-,Certificate,Business,Adaptable,26,34,24,4,4,Certificate in Business Management
+517,KCSE,A,Degree,Media,Hardworking,87,85,85,10,10,BA Journalism and Mass Communication
+518,CBC,B-,Degree,Finance,Logical,59,64,56,6,10,BSc Actuarial Science
+519,CBC,C+,Degree,Finance,Adaptable,50,62,53,6,6,BSc Actuarial Science
+520,KCSE,C+,Degree,Hospitality,Disciplined,58,57,52,4,5,BSc Hospitality and Tourism Management
+521,CBC,C,Diploma,Social Sciences,Friendly,44,56,55,4,10,Diploma in Social Work and Community Development
+522,CBC,C+,Degree,Agriculture,Confident,50,52,50,8,9,BSc Horticulture
+523,KCSE,B-,Degree,Law,Detail-Oriented,63,62,54,7,4,Bachelor of Laws (LLB)
+524,CBC,B-,Degree,Agriculture,Resourceful,60,58,67,8,5,BSc Horticulture
+525,CBC,B-,Degree,Engineering,Team-Oriented,70,66,57,5,7,Bachelor of Civil Engineering
+526,KCSE,C,Diploma,Environmental Science,Resourceful,48,55,47,9,8,Diploma in Environmental Studies
+527,CBC,C+,Degree,Media,Disciplined,52,59,61,5,4,BA Journalism and Mass Communication
+528,KCSE,C+,Degree,Hospitality,Team-Oriented,63,57,59,8,9,BSc Hospitality and Tourism Management
+529,KCSE,D,Certificate,Law,Patient,31,39,35,6,9,Certificate in Legal Studies
+530,CBC,C,Diploma,Education,Friendly,49,51,46,5,9,Diploma in Early Childhood Development Education
+531,CBC,C+,Degree,Media,Ambitious,54,49,55,7,8,BA Journalism and Mass Communication
+532,CBC,D-,Certificate,Social Sciences,Analytical,37,28,38,10,8,Certificate in Social Work and Community Development
+533,KCSE,C+,Degree,Engineering,Organized,57,58,62,7,7,Bachelor of Civil Engineering
+534,KCSE,B,Degree,Social Sciences,Detail-Oriented,68,71,65,4,5,Bachelor of Social Work
+535,CBC,C+,Degree,Arts & Design,Resourceful,56,52,57,5,5,BA Fine Art
+536,CBC,B-,Degree,Arts & Design,Friendly,68,68,70,8,9,BA Fine Art
+537,CBC,B,Degree,Education,Ambitious,67,62,74,6,10,Bachelor of Education (Arts)
+538,CBC,D,Certificate,Education,Empathetic,43,42,35,6,9,Certificate in Early Childhood Development Education
+539,KCSE,C+,Degree,Education,Empathetic,65,55,62,10,9,Bachelor of Education (Science)
+540,KCSE,C-,Diploma,Agriculture,Independent,52,47,38,8,8,Diploma in Agriculture
+541,CBC,B+,Degree,Engineering,Ambitious,72,66,77,8,4,Bachelor of Civil Engineering
+542,CBC,C-,Diploma,Finance,Team-Oriented,43,47,43,4,6,Diploma in Accounting
+543,KCSE,D+,Certificate,Technology,Analytical,46,49,39,8,5,Certificate in Information Communication Technology
+544,CBC,C,Diploma,Business,Empathetic,49,44,56,10,9,Diploma in Business Management
+545,KCSE,B+,Degree,Engineering,Innovative,71,76,80,5,8,Bachelor of Civil Engineering
+546,KCSE,B,Degree,Technology,Friendly,65,63,70,4,7,BSc Information Technology
+547,CBC,D-,Certificate,Aviation,Patient,36,29,23,6,5,Certificate in Aviation Ground Operations
+548,KCSE,E,Retake/Artisan,Technology,Innovative,20,31,23,5,6,KCSE Retake Recommended
+549,CBC,C+,Degree,Sports Science,Adaptable,53,51,48,4,10,BSc Sports Science
+550,CBC,C-,Diploma,Education,Innovative,52,43,46,10,9,Diploma in Early Childhood Development Education
+551,CBC,C,Diploma,Technology,Patient,46,46,52,10,10,Diploma in Information Communication Technology
+552,CBC,C+,Degree,Finance,Team-Oriented,59,53,52,9,9,BSc Actuarial Science
+553,KCSE,C,Diploma,Hospitality,Analytical,53,45,56,10,4,Diploma in Hospitality and Tourism Management
+554,KCSE,C+,Degree,Arts & Design,Detail-Oriented,49,61,64,8,3,Bachelor of Design
+555,CBC,C,Diploma,Agriculture,Reflective,61,47,58,5,9,Diploma in Agriculture
+556,CBC,A-,Degree,Healthcare,Responsible,72,76,70,6,6,BSc Nursing
+557,CBC,B+,Degree,Social Sciences,Independent,80,75,65,6,5,BA Sociology
+558,CBC,D+,Certificate,Education,Resourceful,36,40,43,4,7,Certificate in Early Childhood Development Education
+559,KCSE,C,Diploma,Sports Science,Team-Oriented,54,50,55,6,10,Diploma in Sports Science
+560,CBC,D+,Certificate,Education,Resourceful,33,34,35,8,7,Certificate in Early Childhood Development Education
+561,KCSE,B-,Degree,Social Sciences,Logical,64,66,56,6,8,Bachelor of Social Work
+562,CBC,C,Diploma,Social Sciences,Disciplined,57,58,49,4,10,Diploma in Social Work and Community Development
+563,KCSE,D+,Certificate,Media,Observant,38,43,40,8,9,Certificate in Mass Communication
+564,CBC,C+,Degree,Environmental Science,Disciplined,62,52,51,9,8,BSc Environmental Science
+565,KCSE,D+,Certificate,Finance,Ambitious,36,49,36,9,4,Certificate in Accounting
+566,KCSE,A,Degree,Sports Science,Curious,93,82,84,7,10,Bachelor of Physical Education
+567,KCSE,A-,Degree,Healthcare,Ambitious,77,77,81,10,4,BSc Nursing
+568,CBC,C+,Degree,Engineering,Sociable,48,58,58,10,4,Bachelor of Civil Engineering
+569,CBC,D,Certificate,Finance,Sociable,31,37,37,8,8,Certificate in Accounting
+570,CBC,D+,Certificate,Business,Friendly,41,49,40,7,10,Certificate in Business Management
+571,CBC,C,Diploma,Environmental Science,Reflective,50,45,57,10,7,Diploma in Environmental Studies
+572,KCSE,B,Degree,Technology,Confident,66,71,61,4,6,BSc Information Technology
+573,KCSE,B+,Degree,Finance,Innovative,79,77,79,9,10,BSc Actuarial Science
+574,KCSE,C,Diploma,Sports Science,Adaptable,61,61,55,9,4,Diploma in Sports Science
+575,KCSE,C+,Degree,Aviation,Organized,65,52,57,9,4,BSc Aviation Management
+576,KCSE,B-,Degree,Healthcare,Patient,60,59,61,7,4,BSc Nursing
+577,CBC,C-,Diploma,Agriculture,Ambitious,42,47,51,6,6,Diploma in Agriculture
+578,CBC,D,Certificate,Technology,Adaptable,28,45,32,10,5,Certificate in Information Communication Technology
+579,KCSE,C+,Degree,Aviation,Ambitious,57,67,64,10,6,Bachelor of Air Transport Operations
+580,CBC,C-,Diploma,Sports Science,Confident,42,54,47,5,7,Diploma in Sports Science
+581,CBC,C-,Diploma,Social Sciences,Patient,42,45,54,7,7,Diploma in Social Work and Community Development
+582,CBC,B+,Degree,Law,Detail-Oriented,68,75,68,9,8,Bachelor of Laws (LLB)
+583,CBC,C-,Diploma,Education,Ambitious,41,55,48,3,6,Diploma in Early Childhood Development Education
+584,KCSE,D+,Certificate,Agriculture,Friendly,46,46,43,5,6,Certificate in Agriculture
+585,CBC,B,Degree,Finance,Organized,64,60,61,5,4,BSc Actuarial Science
+586,CBC,C+,Degree,Arts & Design,Innovative,60,62,62,6,5,BA Fine Art
+587,CBC,B+,Degree,Business,Sociable,73,72,65,7,10,Bachelor of Commerce
+588,CBC,C,Diploma,Healthcare,Organized,48,46,49,5,4,Diploma in Nursing (Community Health)
+589,CBC,B+,Degree,Technology,Friendly,69,73,68,9,6,BSc Information Technology
+590,CBC,C,Diploma,Social Sciences,Responsible,55,57,51,7,7,Diploma in Social Work and Community Development
+591,CBC,B-,Degree,Media,Persuasive,61,63,58,4,5,BA Journalism and Mass Communication
+592,CBC,C,Diploma,Law,Ambitious,51,53,45,7,5,Diploma in Legal Studies
+593,KCSE,C+,Degree,Healthcare,Disciplined,54,60,59,10,7,BSc Nursing
+594,KCSE,C+,Degree,Finance,Analytical,51,56,50,10,7,BSc Actuarial Science
+595,CBC,B+,Degree,Social Sciences,Empathetic,78,66,69,8,5,BA Sociology
+596,CBC,B-,Degree,Sports Science,Detail-Oriented,68,56,63,5,7,Bachelor of Physical Education
+597,CBC,D,Certificate,Technology,Detail-Oriented,35,35,42,5,10,Certificate in Information Communication Technology
+598,KCSE,B,Degree,Education,Resourceful,60,63,67,10,9,Bachelor of Education (Arts)
+599,CBC,D,Certificate,Technology,Analytical,46,40,29,10,5,Certificate in Information Communication Technology
+600,CBC,D+,Certificate,Agriculture,Ambitious,46,36,35,4,8,Certificate in Agriculture
+601,CBC,C-,Diploma,Sports Science,Independent,46,54,51,10,8,Diploma in Sports Science
+602,CBC,B,Degree,Agriculture,Patient,68,68,60,7,10,BSc Agriculture
+603,CBC,B,Degree,Social Sciences,Responsible,72,61,70,8,8,BA Sociology
+604,CBC,D-,Certificate,Arts & Design,Hardworking,26,36,29,10,7,Certificate in Fine Art and Design
+605,CBC,C-,Diploma,Aviation,Sociable,40,44,44,7,6,Diploma in Aviation Ground Operations
+606,KCSE,C+,Degree,Technology,Patient,61,52,52,5,9,BSc Information Technology
+607,KCSE,A-,Degree,Environmental Science,Empathetic,82,85,74,9,4,BSc Environmental Science
+608,CBC,C-,Diploma,Technology,Independent,55,52,55,5,8,Diploma in Information Communication Technology
+609,KCSE,C+,Degree,Sports Science,Reflective,52,56,50,4,7,Bachelor of Physical Education
+610,KCSE,E,Retake/Artisan,Environmental Science,Independent,35,15,18,5,7,Artisan/Basic Skills Training in Environmental Care
+611,CBC,C,Diploma,Arts & Design,Innovative,51,59,54,5,4,Diploma in Fine Art and Design
+612,KCSE,C,Diploma,Aviation,Adaptable,46,43,57,4,4,Diploma in Aviation Ground Operations
+613,CBC,A-,Degree,Healthcare,Organized,79,74,79,5,8,BSc Nursing
+614,CBC,C+,Degree,Social Sciences,Independent,60,63,57,6,5,BA Sociology
+615,KCSE,A,Degree,Hospitality,Patient,91,87,91,6,6,BSc Hospitality and Tourism Management
+616,CBC,A-,Degree,Hospitality,Independent,79,78,71,7,8,BSc Travel and Tourism Management
+617,KCSE,B-,Degree,Law,Resourceful,57,66,55,6,10,Bachelor of Laws (LLB)
+618,CBC,C-,Diploma,Engineering,Disciplined,50,50,49,6,5,Diploma in Engineering (Electrical/Mechanical)
+619,CBC,B,Degree,Sports Science,Creative,74,71,62,7,9,BSc Sports Science
+620,CBC,D+,Certificate,Engineering,Responsible,49,35,34,5,5,Certificate in Engineering (Electrical/Mechanical)
+621,CBC,D,Certificate,Technology,Analytical,32,32,41,5,5,Certificate in Information Communication Technology
+622,KCSE,D+,Certificate,Technology,Disciplined,43,41,40,6,6,Certificate in Information Communication Technology
+623,CBC,D,Certificate,Sports Science,Sociable,30,43,34,6,8,Certificate in Sports Science
+624,KCSE,D,Certificate,Arts & Design,Observant,31,38,30,7,7,Certificate in Fine Art and Design
+625,KCSE,B,Degree,Social Sciences,Team-Oriented,70,64,73,6,7,BA Sociology
+626,CBC,B-,Degree,Law,Sociable,69,63,67,8,5,Bachelor of Laws (LLB)
+627,KCSE,C+,Degree,Media,Patient,62,64,57,4,4,BA Journalism and Mass Communication
+628,KCSE,C+,Degree,Hospitality,Creative,59,56,62,6,6,BSc Hospitality and Tourism Management
+629,CBC,C+,Degree,Aviation,Empathetic,50,59,62,10,4,Bachelor of Air Transport Operations
+630,KCSE,B-,Degree,Agriculture,Patient,59,67,58,8,4,BSc Agriculture
+631,CBC,C-,Diploma,Technology,Friendly,44,56,52,3,8,Diploma in Information Communication Technology
+632,KCSE,D+,Certificate,Engineering,Reflective,43,47,47,7,9,Certificate in Engineering (Electrical/Mechanical)
+633,CBC,D+,Certificate,Social Sciences,Sociable,41,36,47,6,9,Certificate in Social Work and Community Development
+634,CBC,D+,Certificate,Agriculture,Persuasive,45,46,39,4,9,Certificate in Agriculture
+635,CBC,B+,Degree,Hospitality,Ambitious,80,71,79,4,6,BSc Hospitality and Tourism Management
+636,CBC,B+,Degree,Aviation,Friendly,64,65,73,5,4,Bachelor of Air Transport Operations
+637,KCSE,B-,Degree,Education,Disciplined,61,54,68,6,10,Bachelor of Education (Science)
+638,CBC,C,Diploma,Environmental Science,Empathetic,58,57,56,8,5,Diploma in Environmental Studies
+639,CBC,C,Diploma,Education,Patient,44,49,54,10,10,Diploma in Early Childhood Development Education
+640,KCSE,C+,Degree,Environmental Science,Empathetic,62,60,55,8,9,BSc Environmental Science
+641,KCSE,C+,Degree,Sports Science,Hardworking,57,54,56,10,5,BSc Sports Science
+642,CBC,B-,Degree,Aviation,Empathetic,66,61,65,10,4,Bachelor of Air Transport Operations
+643,CBC,C+,Degree,Media,Adaptable,51,48,60,7,6,BA Journalism and Mass Communication
+644,CBC,D+,Certificate,Technology,Analytical,44,43,41,4,8,Certificate in Information Communication Technology
+645,CBC,B+,Degree,Arts & Design,Practical,63,67,70,4,9,BA Fine Art
+646,CBC,B-,Degree,Agriculture,Practical,53,58,68,9,8,BSc Agriculture
+647,KCSE,C,Diploma,Media,Sociable,44,54,60,6,5,Diploma in Mass Communication
+648,KCSE,A,Degree,Technology,Detail-Oriented,98,89,87,10,10,BSc Information Technology
+649,KCSE,C+,Degree,Arts & Design,Detail-Oriented,58,64,55,5,4,BA Fine Art
+650,CBC,B,Degree,Aviation,Detail-Oriented,60,68,68,4,10,Bachelor of Air Transport Operations
+651,CBC,B-,Degree,Healthcare,Sociable,70,58,65,10,8,BSc Nursing
+652,CBC,B-,Degree,Arts & Design,Disciplined,59,64,64,5,8,BA Fine Art
+653,KCSE,B,Degree,Education,Persuasive,72,60,63,4,5,Bachelor of Education (Arts)
+654,CBC,B,Degree,Environmental Science,Detail-Oriented,63,61,67,9,9,BSc Environmental Science
+655,CBC,D+,Certificate,Agriculture,Persuasive,34,51,46,5,10,Certificate in Agriculture
+656,CBC,B-,Degree,Aviation,Analytical,60,57,71,4,5,Bachelor of Air Transport Operations
+657,KCSE,B,Degree,Media,Reflective,61,65,64,7,10,BA Journalism and Mass Communication
+658,CBC,B-,Degree,Healthcare,Confident,56,62,67,9,9,Bachelor of Medicine and Surgery (MBChB)
+659,CBC,C-,Diploma,Arts & Design,Empathetic,55,42,44,7,7,Diploma in Fine Art and Design
+660,CBC,C,Diploma,Healthcare,Detail-Oriented,50,46,50,8,7,Diploma in Nursing (Community Health)
+661,CBC,D,Certificate,Media,Team-Oriented,44,41,33,10,5,Certificate in Mass Communication
+662,CBC,D,Certificate,Law,Sociable,40,40,42,5,4,Certificate in Legal Studies
+663,KCSE,C,Diploma,Environmental Science,Disciplined,49,55,53,10,9,Diploma in Environmental Studies
+664,KCSE,B+,Degree,Aviation,Sociable,72,79,67,6,9,Bachelor of Air Transport Operations
+665,CBC,C-,Diploma,Hospitality,Friendly,52,55,47,9,9,Diploma in Hospitality and Tourism Management
+666,CBC,C-,Diploma,Environmental Science,Friendly,40,41,47,6,5,Diploma in Environmental Studies
+667,CBC,B,Degree,Business,Sociable,65,61,63,5,9,Bachelor of Commerce
+668,CBC,B,Degree,Finance,Ambitious,62,61,59,4,4,BSc Actuarial Science
+669,KCSE,C+,Degree,Technology,Creative,63,62,51,9,6,BSc Information Technology
+670,CBC,D,Certificate,Social Sciences,Detail-Oriented,35,35,32,6,6,Certificate in Social Work and Community Development
+671,CBC,A-,Degree,Arts & Design,Detail-Oriented,70,77,85,4,4,BA Fine Art
+672,KCSE,B-,Degree,Agriculture,Adaptable,65,61,69,10,9,BSc Agriculture
+673,KCSE,C,Diploma,Social Sciences,Reflective,50,51,46,6,10,Diploma in Social Work and Community Development
+674,KCSE,D-,Certificate,Environmental Science,Responsible,26,31,38,7,4,Certificate in Environmental Studies
+675,CBC,B-,Degree,Business,Adaptable,64,58,68,8,4,Bachelor of Commerce
+676,CBC,A,Degree,Sports Science,Responsible,90,85,91,6,9,Bachelor of Physical Education
+677,CBC,B+,Degree,Arts & Design,Persuasive,78,75,75,9,6,Bachelor of Design
+678,CBC,C-,Diploma,Social Sciences,Persuasive,40,39,55,9,4,Diploma in Social Work and Community Development
+679,CBC,B+,Degree,Media,Resourceful,70,67,70,9,9,BA Journalism and Mass Communication
+680,KCSE,C+,Degree,Healthcare,Responsible,61,61,52,8,4,BSc Nursing
+681,KCSE,B+,Degree,Hospitality,Detail-Oriented,79,78,72,9,7,BSc Travel and Tourism Management
+682,CBC,A-,Degree,Business,Sociable,80,81,81,5,7,Bachelor of Commerce
+683,KCSE,B-,Degree,Technology,Observant,60,59,55,8,5,BSc Information Technology
+684,CBC,C-,Diploma,Healthcare,Curious,51,41,46,8,7,Diploma in Nursing (Community Health)
+685,CBC,C-,Diploma,Sports Science,Curious,51,48,52,4,9,Diploma in Sports Science
+686,CBC,B-,Degree,Aviation,Practical,57,59,68,8,8,Bachelor of Air Transport Operations
+687,CBC,C,Diploma,Engineering,Creative,49,53,55,9,10,Diploma in Engineering (Electrical/Mechanical)
+688,CBC,C,Diploma,Arts & Design,Ambitious,54,44,44,8,10,Diploma in Fine Art and Design
+689,CBC,A,Degree,Education,Sociable,99,83,91,9,6,Bachelor of Education (Science)
+690,KCSE,C-,Diploma,Media,Sociable,46,52,47,7,8,Diploma in Mass Communication
+691,KCSE,B+,Degree,Aviation,Organized,72,72,67,4,5,Bachelor of Air Transport Operations
+692,CBC,B+,Degree,Arts & Design,Creative,64,79,78,8,5,Bachelor of Design
+693,CBC,D,Certificate,Aviation,Observant,38,38,37,7,5,Certificate in Aviation Ground Operations
+694,KCSE,C,Diploma,Engineering,Creative,48,61,48,6,4,Diploma in Engineering (Electrical/Mechanical)
+695,CBC,C+,Degree,Education,Responsible,52,64,65,4,5,Bachelor of Education (Arts)
+696,KCSE,C-,Diploma,Environmental Science,Confident,50,42,45,9,6,Diploma in Environmental Studies
+697,KCSE,A-,Degree,Law,Organized,76,70,83,4,9,Bachelor of Laws (LLB)
+698,CBC,A,Degree,Engineering,Responsible,100,83,98,10,6,Bachelor of Civil Engineering
+699,CBC,C-,Diploma,Law,Innovative,54,53,44,9,10,Diploma in Legal Studies
+700,KCSE,C+,Degree,Education,Analytical,61,52,54,10,8,Bachelor of Education (Arts)
+701,KCSE,C-,Diploma,Aviation,Hardworking,46,44,43,10,7,Diploma in Aviation Ground Operations
+702,KCSE,B-,Degree,Education,Independent,69,56,54,7,4,Bachelor of Education (Arts)
+703,CBC,C,Diploma,Social Sciences,Analytical,53,56,52,10,10,Diploma in Social Work and Community Development
+704,KCSE,B+,Degree,Hospitality,Patient,78,76,69,9,10,BSc Hospitality and Tourism Management
+705,KCSE,C,Diploma,Aviation,Logical,48,46,44,7,5,Diploma in Aviation Ground Operations
+706,KCSE,B-,Degree,Arts & Design,Observant,69,61,53,8,6,BA Fine Art
+707,KCSE,D,Certificate,Sports Science,Adaptable,44,27,34,4,6,Certificate in Sports Science
+708,KCSE,C+,Degree,Healthcare,Independent,50,52,55,4,8,BSc Nursing
+709,CBC,C+,Degree,Education,Confident,52,52,62,5,6,Bachelor of Education (Arts)
+710,KCSE,A,Degree,Healthcare,Patient,80,85,83,10,10,Bachelor of Medicine and Surgery (MBChB)
+711,CBC,B+,Degree,Law,Team-Oriented,77,76,74,10,9,Bachelor of Laws (LLB)
+712,KCSE,B+,Degree,Social Sciences,Analytical,68,73,75,6,8,BA Sociology
+713,CBC,C+,Degree,Education,Team-Oriented,54,61,52,4,5,Bachelor of Education (Science)
+714,CBC,B,Degree,Engineering,Team-Oriented,73,68,74,8,8,Bachelor of Civil Engineering
+715,CBC,B+,Degree,Technology,Innovative,81,74,63,6,6,BSc Information Technology
+716,CBC,B,Degree,Finance,Creative,69,63,64,6,6,BSc Actuarial Science
+717,KCSE,B,Degree,Technology,Disciplined,63,73,60,10,6,BSc Information Technology
+718,KCSE,B+,Degree,Aviation,Observant,67,76,74,8,5,Bachelor of Air Transport Operations
+719,CBC,B,Degree,Healthcare,Organized,69,67,71,5,8,BSc Nursing
+720,CBC,A-,Degree,Education,Reflective,81,72,74,8,10,Bachelor of Education (Arts)
+721,CBC,D-,Certificate,Finance,Ambitious,39,29,34,4,8,Certificate in Accounting
+722,CBC,D-,Certificate,Technology,Resourceful,38,36,32,7,4,Certificate in Information Communication Technology
+723,CBC,C-,Diploma,Law,Responsible,43,40,49,10,9,Diploma in Legal Studies
+724,CBC,C+,Degree,Education,Persuasive,52,51,54,8,10,Bachelor of Education (Arts)
+725,CBC,D,Certificate,Arts & Design,Creative,34,39,33,8,6,Certificate in Fine Art and Design
+726,CBC,D,Certificate,Environmental Science,Curious,38,29,43,5,10,Certificate in Environmental Studies
+727,KCSE,B,Degree,Law,Disciplined,73,62,66,8,9,Bachelor of Laws (LLB)
+728,KCSE,D+,Certificate,Agriculture,Innovative,43,42,45,6,4,Certificate in Agriculture
+729,KCSE,B+,Degree,Finance,Practical,68,79,67,6,10,BSc Actuarial Science
+730,KCSE,C-,Diploma,Healthcare,Curious,41,56,46,8,9,Diploma in Nursing (Community Health)
+731,KCSE,B-,Degree,Healthcare,Analytical,65,56,55,8,3,BSc Nursing
+732,KCSE,D,Certificate,Law,Reflective,44,30,44,9,6,Certificate in Legal Studies
+733,KCSE,B+,Degree,Law,Sociable,72,63,66,10,6,Bachelor of Laws (LLB)
+734,KCSE,D,Certificate,Engineering,Independent,34,43,41,8,10,Certificate in Engineering (Electrical/Mechanical)
+735,KCSE,B,Degree,Engineering,Organized,65,63,73,4,4,Bachelor of Mechanical Engineering
+736,CBC,B,Degree,Hospitality,Practical,62,64,66,4,10,BSc Travel and Tourism Management
+737,KCSE,D,Certificate,Social Sciences,Analytical,46,32,35,9,10,Certificate in Social Work and Community Development
+738,CBC,B+,Degree,Environmental Science,Innovative,68,75,71,7,10,BSc Environmental Science
+739,KCSE,B+,Degree,Media,Independent,73,73,64,8,7,BA Film and Media Studies
+740,KCSE,D+,Certificate,Environmental Science,Empathetic,33,36,50,10,4,Certificate in Environmental Studies
+741,KCSE,B-,Degree,Education,Adaptable,66,70,66,4,4,Bachelor of Education (Arts)
+742,CBC,C-,Diploma,Environmental Science,Analytical,47,39,47,8,5,Diploma in Environmental Studies
+743,KCSE,B-,Degree,Engineering,Empathetic,65,66,56,7,10,Bachelor of Civil Engineering
+744,CBC,C+,Degree,Finance,Ambitious,54,62,59,7,3,BSc Actuarial Science
+745,CBC,C,Diploma,Law,Sociable,60,55,46,10,7,Diploma in Legal Studies
+746,CBC,C-,Diploma,Hospitality,Creative,41,49,53,7,6,Diploma in Hospitality and Tourism Management
+747,KCSE,D+,Certificate,Technology,Confident,38,34,48,4,5,Certificate in Information Communication Technology
+748,KCSE,A-,Degree,Social Sciences,Friendly,71,75,76,4,10,BA Sociology
+749,CBC,A-,Degree,Healthcare,Friendly,73,74,80,8,10,Bachelor of Medicine and Surgery (MBChB)
+750,KCSE,B-,Degree,Law,Curious,65,68,55,8,4,Bachelor of Laws (LLB)
+751,KCSE,D,Certificate,Sports Science,Patient,41,33,39,9,8,Certificate in Sports Science
+752,KCSE,C+,Degree,Agriculture,Friendly,62,63,56,5,8,BSc Agriculture
+753,CBC,D,Certificate,Healthcare,Analytical,41,45,32,4,6,Certificate in Nursing (Community Health)
+754,CBC,B,Degree,Hospitality,Confident,60,67,77,9,6,BSc Hospitality and Tourism Management
+755,CBC,D,Certificate,Technology,Confident,37,45,33,9,10,Certificate in Information Communication Technology
+756,CBC,B+,Degree,Law,Adaptable,77,75,76,5,9,Bachelor of Laws (LLB)
+757,KCSE,B+,Degree,Education,Responsible,69,69,65,7,8,Bachelor of Education (Arts)
+758,KCSE,B+,Degree,Environmental Science,Organized,80,68,68,10,7,BSc Environmental Science
+759,CBC,B+,Degree,Technology,Observant,70,70,72,6,10,BSc Information Technology
+760,CBC,C-,Diploma,Engineering,Creative,38,47,41,4,5,Diploma in Engineering (Electrical/Mechanical)
+761,CBC,B-,Degree,Arts & Design,Independent,65,66,67,6,9,BA Fine Art
+762,CBC,B,Degree,Finance,Team-Oriented,72,68,70,9,7,Bachelor of Commerce (Finance)
+763,KCSE,B,Degree,Agriculture,Disciplined,76,72,61,7,4,BSc Agriculture
+764,CBC,B+,Degree,Education,Logical,81,79,75,7,4,Bachelor of Education (Arts)
+765,CBC,D-,Certificate,Environmental Science,Observant,35,26,34,10,6,Certificate in Environmental Studies
+766,CBC,A,Degree,Law,Organized,96,87,87,9,10,Bachelor of Laws (LLB)
+767,CBC,D,Certificate,Media,Confident,37,35,41,6,5,Certificate in Mass Communication
+768,KCSE,D,Certificate,Healthcare,Organized,28,32,40,7,8,Certificate in Nursing (Community Health)
+769,CBC,C,Diploma,Engineering,Persuasive,54,56,51,9,7,Diploma in Engineering (Electrical/Mechanical)
+770,CBC,C-,Diploma,Technology,Confident,48,49,53,10,8,Diploma in Information Communication Technology
+771,CBC,D,Certificate,Technology,Analytical,40,39,35,5,7,Certificate in Information Communication Technology
+772,CBC,B,Degree,Engineering,Hardworking,73,69,68,10,5,Bachelor of Civil Engineering
+773,CBC,C+,Degree,Engineering,Organized,52,57,61,10,9,Bachelor of Mechanical Engineering
+774,KCSE,D,Certificate,Healthcare,Empathetic,27,33,38,10,7,Certificate in Nursing (Community Health)
+775,KCSE,C-,Diploma,Finance,Ambitious,45,52,47,5,9,Diploma in Accounting
+776,KCSE,C-,Diploma,Education,Empathetic,51,49,45,8,4,Diploma in Early Childhood Development Education
+777,KCSE,B-,Degree,Healthcare,Empathetic,60,62,54,4,10,BSc Nursing
+778,CBC,B,Degree,Media,Detail-Oriented,67,62,71,8,9,BA Journalism and Mass Communication
+779,CBC,D-,Certificate,Finance,Hardworking,24,28,32,7,7,Certificate in Accounting
+780,CBC,B,Degree,Healthcare,Patient,59,68,62,5,4,BSc Nursing
+781,CBC,C+,Degree,Media,Logical,66,51,62,10,4,BA Journalism and Mass Communication
+782,KCSE,B-,Degree,Environmental Science,Team-Oriented,61,59,55,6,5,BSc Environmental Science
+783,KCSE,B-,Degree,Finance,Practical,71,60,68,10,7,BSc Actuarial Science
+784,KCSE,A,Degree,Social Sciences,Detail-Oriented,83,80,81,7,5,BA Sociology
+785,CBC,A,Degree,Engineering,Adaptable,88,77,81,6,9,Bachelor of Mechanical Engineering
+786,KCSE,C,Diploma,Hospitality,Ambitious,56,48,56,7,10,Diploma in Hospitality and Tourism Management
+787,CBC,B+,Degree,Business,Hardworking,69,69,78,10,10,Bachelor of Commerce
+788,CBC,B+,Degree,Technology,Observant,66,66,75,8,5,BSc Information Technology
+789,CBC,C+,Degree,Finance,Hardworking,52,59,64,9,10,BSc Actuarial Science
+790,KCSE,A,Degree,Arts & Design,Analytical,91,100,78,10,10,BA Fine Art
+791,KCSE,D-,Certificate,Education,Creative,38,28,37,5,5,Certificate in Early Childhood Development Education
+792,KCSE,C,Diploma,Business,Detail-Oriented,57,61,51,4,7,Diploma in Business Management
+793,CBC,C+,Degree,Education,Detail-Oriented,58,60,55,9,5,Bachelor of Education (Arts)
+794,KCSE,C-,Diploma,Environmental Science,Empathetic,45,49,45,7,6,Diploma in Environmental Studies
+795,CBC,C-,Diploma,Environmental Science,Adaptable,53,40,47,7,8,Diploma in Environmental Studies
+796,KCSE,C-,Diploma,Healthcare,Innovative,50,50,45,4,4,Diploma in Nursing (Community Health)
+797,KCSE,D+,Certificate,Education,Analytical,42,35,40,5,6,Certificate in Early Childhood Development Education
+798,KCSE,C+,Degree,Finance,Innovative,49,63,51,5,5,BSc Actuarial Science
+799,CBC,C+,Degree,Healthcare,Disciplined,51,49,60,5,7,BSc Nursing
+800,CBC,B,Degree,Media,Responsible,69,65,70,6,5,BA Journalism and Mass Communication
+801,KCSE,B-,Degree,Healthcare,Practical,65,59,59,6,4,Bachelor of Medicine and Surgery (MBChB)
+802,CBC,B-,Degree,Business,Analytical,62,68,58,9,3,Bachelor of Commerce
+803,KCSE,D-,Certificate,Finance,Persuasive,25,33,27,7,9,Certificate in Accounting
+804,CBC,B+,Degree,Finance,Team-Oriented,81,71,64,6,8,Bachelor of Commerce (Finance)
+805,CBC,C-,Diploma,Healthcare,Innovative,51,53,51,4,7,Diploma in Nursing (Community Health)
+806,CBC,C,Diploma,Agriculture,Patient,48,56,60,8,10,Diploma in Agriculture
+807,KCSE,D-,Certificate,Education,Disciplined,29,39,26,7,8,Certificate in Early Childhood Development Education
+808,CBC,B+,Degree,Hospitality,Confident,79,75,66,10,8,BSc Hospitality and Tourism Management
+809,CBC,B-,Degree,Healthcare,Friendly,53,63,57,6,8,BSc Nursing
+810,KCSE,A-,Degree,Agriculture,Friendly,78,80,82,4,9,BSc Agriculture
+811,KCSE,C,Diploma,Education,Persuasive,57,54,50,10,10,Diploma in Early Childhood Development Education
+812,KCSE,C,Diploma,Hospitality,Independent,50,55,45,7,6,Diploma in Hospitality and Tourism Management
+813,CBC,B-,Degree,Law,Practical,68,56,59,10,8,Bachelor of Laws (LLB)
+814,CBC,B-,Degree,Media,Independent,68,64,55,10,9,BA Film and Media Studies
+815,KCSE,C+,Degree,Hospitality,Observant,65,61,58,7,9,BSc Hospitality and Tourism Management
+816,KCSE,D+,Certificate,Technology,Innovative,46,35,41,6,4,Certificate in Information Communication Technology
+817,KCSE,C-,Diploma,Law,Reflective,43,51,48,8,10,Diploma in Legal Studies
+818,KCSE,C,Diploma,Healthcare,Empathetic,52,44,50,9,7,Diploma in Nursing (Community Health)
+819,CBC,D,Certificate,Media,Team-Oriented,44,39,41,9,8,Certificate in Mass Communication
+820,KCSE,B+,Degree,Business,Curious,76,75,72,5,8,Bachelor of Commerce
+821,CBC,C+,Degree,Media,Responsible,52,55,54,7,3,BA Journalism and Mass Communication
+822,CBC,A-,Degree,Technology,Confident,78,74,77,9,7,BSc Information Technology
+823,CBC,D,Certificate,Law,Empathetic,30,39,43,4,9,Certificate in Legal Studies
+824,KCSE,D,Certificate,Sports Science,Ambitious,44,32,38,8,5,Certificate in Sports Science
+825,CBC,C,Diploma,Hospitality,Hardworking,46,54,54,7,8,Diploma in Hospitality and Tourism Management
+826,KCSE,C-,Diploma,Healthcare,Practical,46,56,41,4,9,Diploma in Nursing (Community Health)
+827,KCSE,C-,Diploma,Sports Science,Practical,49,54,42,5,6,Diploma in Sports Science
+828,KCSE,B,Degree,Media,Logical,63,69,63,9,10,BA Journalism and Mass Communication
+829,KCSE,C-,Diploma,Agriculture,Practical,55,48,41,9,7,Diploma in Agriculture
+830,KCSE,C,Diploma,Social Sciences,Empathetic,54,55,51,4,7,Diploma in Social Work and Community Development
+831,CBC,C,Diploma,Technology,Persuasive,50,52,57,5,5,Diploma in Information Communication Technology
+832,CBC,D+,Certificate,Media,Hardworking,43,40,40,4,6,Certificate in Mass Communication
+833,KCSE,B,Degree,Business,Patient,71,71,64,4,10,Bachelor of Procurement and Logistics
+834,KCSE,C-,Diploma,Agriculture,Empathetic,50,41,54,5,4,Diploma in Agriculture
+835,KCSE,C+,Degree,Aviation,Confident,54,66,48,9,9,BSc Aviation Management
+836,KCSE,C-,Diploma,Law,Team-Oriented,49,47,41,6,10,Diploma in Legal Studies
+837,CBC,B-,Degree,Media,Creative,54,59,68,7,4,BA Journalism and Mass Communication
+838,KCSE,D+,Certificate,Arts & Design,Creative,34,33,44,5,5,Certificate in Fine Art and Design
+839,KCSE,C+,Degree,Aviation,Empathetic,62,59,65,9,7,Bachelor of Air Transport Operations
+840,CBC,D,Certificate,Arts & Design,Ambitious,42,37,33,6,10,Certificate in Fine Art and Design
+841,KCSE,B-,Degree,Sports Science,Curious,64,62,64,9,4,Bachelor of Physical Education
+842,CBC,C-,Diploma,Healthcare,Analytical,40,44,42,5,8,Diploma in Nursing (Community Health)
+843,CBC,A,Degree,Media,Adaptable,76,82,78,9,7,BA Film and Media Studies
+844,CBC,D,Certificate,Sports Science,Innovative,40,35,37,6,9,Certificate in Sports Science
+845,CBC,D+,Certificate,Environmental Science,Disciplined,49,41,47,5,10,Certificate in Environmental Studies
+846,KCSE,C-,Diploma,Business,Analytical,49,54,45,7,4,Diploma in Business Management
+847,CBC,B-,Degree,Social Sciences,Ambitious,65,62,58,5,7,Bachelor of Social Work
+848,KCSE,A,Degree,Agriculture,Team-Oriented,93,89,88,9,10,BSc Horticulture
+849,CBC,B,Degree,Education,Team-Oriented,68,67,59,4,8,Bachelor of Education (Science)
+850,KCSE,C,Diploma,Law,Sociable,58,62,56,9,7,Diploma in Legal Studies
+851,CBC,C,Diploma,Healthcare,Empathetic,46,46,58,8,4,Diploma in Nursing (Community Health)
+852,KCSE,D+,Certificate,Technology,Detail-Oriented,40,50,49,5,4,Certificate in Information Communication Technology
+853,KCSE,A-,Degree,Sports Science,Resourceful,77,78,78,7,6,Bachelor of Physical Education
+854,KCSE,B-,Degree,Aviation,Reflective,65,70,72,7,10,Bachelor of Air Transport Operations
+855,KCSE,C,Diploma,Arts & Design,Logical,55,53,46,7,10,Diploma in Fine Art and Design
+856,CBC,B,Degree,Engineering,Adaptable,74,67,67,4,7,Bachelor of Civil Engineering
+857,CBC,D,Certificate,Hospitality,Persuasive,35,43,36,9,6,Certificate in Hospitality and Tourism Management
+858,CBC,C,Diploma,Agriculture,Detail-Oriented,49,46,58,5,5,Diploma in Agriculture
+859,KCSE,A,Degree,Media,Innovative,98,83,100,5,6,BA Film and Media Studies
+860,CBC,B+,Degree,Sports Science,Independent,70,76,77,10,8,Bachelor of Physical Education
+861,KCSE,E,Retake/Artisan,Healthcare,Reflective,35,30,24,10,9,KCSE Retake Recommended
+862,KCSE,C-,Diploma,Business,Analytical,45,46,47,8,10,Diploma in Business Management
+863,CBC,B,Degree,Agriculture,Creative,74,73,64,6,5,BSc Agriculture
+864,KCSE,A-,Degree,Media,Logical,82,74,72,7,5,BA Journalism and Mass Communication
+865,CBC,B-,Degree,Hospitality,Organized,66,56,67,4,10,BSc Hospitality and Tourism Management
+866,KCSE,A,Degree,Agriculture,Patient,93,87,82,10,10,BSc Agriculture
+867,CBC,C+,Degree,Finance,Innovative,50,59,64,9,5,Bachelor of Commerce (Finance)
+868,CBC,B-,Degree,Education,Adaptable,63,66,68,6,10,Bachelor of Education (Arts)
+869,KCSE,B-,Degree,Aviation,Ambitious,54,69,59,4,9,Bachelor of Air Transport Operations
+870,KCSE,B-,Degree,Aviation,Empathetic,70,55,61,5,5,Bachelor of Air Transport Operations
+871,CBC,C-,Diploma,Aviation,Resourceful,44,54,54,10,8,Diploma in Aviation Ground Operations
+872,CBC,C-,Diploma,Hospitality,Confident,44,53,53,6,7,Diploma in Hospitality and Tourism Management
+873,KCSE,C,Diploma,Business,Adaptable,56,50,57,9,9,Diploma in Business Management
+874,KCSE,C+,Degree,Technology,Friendly,52,57,54,8,6,BSc Computer Science
+875,CBC,C+,Degree,Sports Science,Creative,60,61,55,7,5,Bachelor of Physical Education
+876,KCSE,C-,Diploma,Hospitality,Hardworking,48,49,42,8,10,Diploma in Hospitality and Tourism Management
+877,KCSE,C,Diploma,Agriculture,Observant,45,58,56,10,6,Diploma in Agriculture
+878,KCSE,C,Diploma,Technology,Creative,57,52,46,5,4,Diploma in Information Communication Technology
+879,KCSE,A-,Degree,Arts & Design,Responsible,72,74,69,8,9,BA Fine Art
+880,KCSE,A,Degree,Healthcare,Reflective,89,100,94,10,7,BSc Nursing
+881,CBC,B,Degree,Aviation,Resourceful,64,73,67,10,7,Bachelor of Air Transport Operations
+882,CBC,C+,Degree,Environmental Science,Responsible,63,57,50,9,7,BSc Environmental Science
+883,CBC,C,Diploma,Agriculture,Curious,61,45,53,5,4,Diploma in Agriculture
+884,KCSE,D+,Certificate,Technology,Team-Oriented,38,36,42,6,3,Certificate in Information Communication Technology
+885,CBC,C-,Diploma,Law,Team-Oriented,49,50,53,10,4,Diploma in Legal Studies
+886,KCSE,C+,Degree,Media,Curious,53,53,64,4,6,BA Journalism and Mass Communication
+887,CBC,C,Diploma,Business,Reflective,52,44,58,10,5,Diploma in Business Management
+888,CBC,C,Diploma,Hospitality,Ambitious,47,58,52,8,7,Diploma in Hospitality and Tourism Management
+889,KCSE,D,Certificate,Business,Logical,37,31,45,3,8,Certificate in Business Management
+890,CBC,C-,Diploma,Agriculture,Organized,45,43,43,8,10,Diploma in Agriculture
+891,CBC,B-,Degree,Hospitality,Reflective,63,58,65,4,4,BSc Hospitality and Tourism Management
+892,CBC,B-,Degree,Hospitality,Organized,61,61,68,8,10,BSc Travel and Tourism Management
+893,KCSE,B,Degree,Social Sciences,Persuasive,62,63,72,6,10,BA Sociology
+894,CBC,B+,Degree,Media,Disciplined,69,69,76,8,6,BA Film and Media Studies
+895,KCSE,B-,Degree,Sports Science,Hardworking,71,69,68,7,7,Bachelor of Physical Education
+896,CBC,C-,Diploma,Aviation,Confident,52,53,45,8,10,Diploma in Aviation Ground Operations
+897,KCSE,C+,Degree,Sports Science,Reflective,54,52,55,10,10,Bachelor of Physical Education
+898,KCSE,C,Diploma,Aviation,Innovative,51,57,44,7,4,Diploma in Aviation Ground Operations
+899,CBC,E,Retake/Artisan,Finance,Practical,28,30,8,10,5,Artisan/Basic Skills Training in Bookkeeping
+900,KCSE,B,Degree,Healthcare,Independent,62,70,72,5,9,BSc Nursing
+901,CBC,B-,Degree,Sports Science,Sociable,68,61,63,6,8,Bachelor of Physical Education
+902,KCSE,A-,Degree,Environmental Science,Innovative,74,71,72,9,9,BSc Environmental Science
+903,CBC,B-,Degree,Healthcare,Detail-Oriented,67,67,67,5,4,Bachelor of Medicine and Surgery (MBChB)
+904,KCSE,C,Diploma,Social Sciences,Practical,49,45,49,9,8,Diploma in Social Work and Community Development
+905,KCSE,C-,Diploma,Education,Creative,43,47,52,5,5,Diploma in Early Childhood Development Education
+906,CBC,B,Degree,Education,Empathetic,68,69,69,9,4,Bachelor of Education (Arts)
+907,KCSE,C+,Degree,Environmental Science,Independent,61,54,58,9,9,BSc Environmental Science
+908,KCSE,C+,Degree,Education,Patient,49,58,50,8,6,Bachelor of Education (Science)
+909,KCSE,C,Diploma,Agriculture,Sociable,48,48,49,10,5,Diploma in Agriculture
+910,CBC,B-,Degree,Law,Practical,62,64,66,7,5,Bachelor of Laws (LLB)
+911,CBC,C,Diploma,Aviation,Responsible,59,58,54,6,9,Diploma in Aviation Ground Operations
+912,KCSE,C,Diploma,Law,Practical,60,61,58,9,4,Diploma in Legal Studies
+913,KCSE,C-,Diploma,Healthcare,Friendly,42,45,49,5,5,Diploma in Nursing (Community Health)
+914,KCSE,B+,Degree,Arts & Design,Patient,75,72,65,5,4,BA Fine Art
+915,KCSE,C-,Diploma,Sports Science,Team-Oriented,53,52,39,9,4,Diploma in Sports Science
+916,CBC,D+,Certificate,Hospitality,Responsible,40,50,46,5,5,Certificate in Hospitality and Tourism Management
+917,KCSE,B-,Degree,Hospitality,Hardworking,70,57,56,6,6,BSc Travel and Tourism Management
+918,CBC,C+,Degree,Education,Responsible,57,63,54,7,4,Bachelor of Education (Arts)
+919,KCSE,B-,Degree,Aviation,Responsible,55,62,61,7,10,Bachelor of Air Transport Operations
+920,KCSE,C+,Degree,Education,Independent,58,62,55,7,6,Bachelor of Education (Arts)
+921,KCSE,D-,Certificate,Social Sciences,Practical,34,34,28,10,8,Certificate in Social Work and Community Development
+922,CBC,C+,Degree,Media,Creative,49,58,57,6,6,BA Journalism and Mass Communication
+923,KCSE,B-,Degree,Law,Innovative,58,57,64,6,4,Bachelor of Laws (LLB)
+924,KCSE,B,Degree,Law,Organized,60,73,66,8,10,Bachelor of Laws (LLB)
+925,CBC,A-,Degree,Agriculture,Creative,83,84,84,4,10,BSc Agriculture
+926,CBC,B-,Degree,Technology,Practical,60,69,62,4,5,BSc Computer Science
+927,KCSE,E,Retake/Artisan,Environmental Science,Creative,20,25,30,6,9,Artisan/Basic Skills Training in Environmental Care
+928,CBC,D,Certificate,Education,Analytical,29,31,38,10,6,Certificate in Early Childhood Development Education
+929,CBC,B,Degree,Engineering,Empathetic,71,67,68,7,7,Bachelor of Civil Engineering
+930,CBC,A,Degree,Agriculture,Confident,90,96,85,8,8,BSc Agriculture
+931,KCSE,D+,Certificate,Aviation,Team-Oriented,40,49,38,6,8,Certificate in Aviation Ground Operations
+932,KCSE,B+,Degree,Hospitality,Confident,71,77,75,10,6,BSc Hospitality and Tourism Management
+933,KCSE,B-,Degree,Healthcare,Responsible,69,57,65,9,6,Bachelor of Medicine and Surgery (MBChB)
+934,KCSE,B-,Degree,Media,Hardworking,65,65,65,8,7,BA Film and Media Studies
+935,CBC,C+,Degree,Finance,Adaptable,63,62,49,9,9,BSc Actuarial Science
+936,KCSE,B,Degree,Media,Resourceful,75,69,62,8,10,BA Journalism and Mass Communication
+937,CBC,C,Diploma,Technology,Detail-Oriented,47,55,46,8,9,Diploma in Information Communication Technology
+938,KCSE,C,Diploma,Arts & Design,Practical,55,51,48,4,4,Diploma in Fine Art and Design
+939,CBC,B,Degree,Finance,Persuasive,67,61,69,9,9,BSc Actuarial Science
+940,KCSE,B,Degree,Technology,Reflective,68,76,62,6,5,BSc Information Technology
+941,KCSE,C-,Diploma,Finance,Team-Oriented,41,53,41,6,10,Diploma in Accounting
+942,CBC,C,Diploma,Social Sciences,Organized,56,54,57,6,8,Diploma in Social Work and Community Development
+943,CBC,D,Certificate,Engineering,Innovative,38,42,33,5,5,Certificate in Engineering (Electrical/Mechanical)
+944,CBC,B-,Degree,Environmental Science,Innovative,64,57,57,6,6,BSc Environmental Science
+945,KCSE,B-,Degree,Hospitality,Ambitious,65,57,57,8,9,BSc Hospitality and Tourism Management
+946,KCSE,C,Diploma,Arts & Design,Patient,47,48,58,7,7,Diploma in Fine Art and Design
+947,KCSE,D-,Certificate,Hospitality,Logical,29,33,31,5,10,Certificate in Hospitality and Tourism Management
+948,KCSE,C,Diploma,Agriculture,Persuasive,47,56,56,6,7,Diploma in Agriculture
+949,KCSE,D,Certificate,Environmental Science,Patient,29,45,33,10,9,Certificate in Environmental Studies
+950,KCSE,D-,Certificate,Finance,Resourceful,28,28,39,5,8,Certificate in Accounting
+951,CBC,A-,Degree,Law,Innovative,70,71,79,4,5,Bachelor of Laws (LLB)
+952,KCSE,C+,Degree,Agriculture,Ambitious,55,56,57,8,5,BSc Horticulture
+953,KCSE,C,Diploma,Environmental Science,Adaptable,48,55,44,9,8,Diploma in Environmental Studies
+954,CBC,C,Diploma,Law,Team-Oriented,59,57,47,7,6,Diploma in Legal Studies
+955,KCSE,B+,Degree,Finance,Analytical,79,66,69,6,10,BSc Actuarial Science
+956,KCSE,B-,Degree,Engineering,Organized,58,59,56,6,8,Bachelor of Civil Engineering
+957,CBC,C,Diploma,Business,Patient,58,55,58,10,8,Diploma in Business Management
+958,CBC,C-,Diploma,Engineering,Innovative,53,41,44,9,7,Diploma in Engineering (Electrical/Mechanical)
+959,CBC,C,Diploma,Technology,Responsible,49,47,48,9,5,Diploma in Information Communication Technology
+960,CBC,B-,Degree,Technology,Detail-Oriented,60,66,65,6,5,BSc Computer Science
+961,CBC,B,Degree,Environmental Science,Team-Oriented,70,76,66,10,8,BSc Environmental Science
+962,CBC,B-,Degree,Technology,Organized,58,61,61,10,4,BSc Computer Science
+963,KCSE,D+,Certificate,Hospitality,Friendly,43,39,45,7,9,Certificate in Hospitality and Tourism Management
+964,KCSE,B+,Degree,Arts & Design,Sociable,70,80,78,5,7,BA Fine Art
+965,KCSE,B-,Degree,Aviation,Sociable,63,58,61,9,9,Bachelor of Air Transport Operations
+966,CBC,D,Certificate,Technology,Resourceful,29,42,38,7,8,Certificate in Information Communication Technology
+967,KCSE,C,Diploma,Law,Practical,59,57,60,9,9,Diploma in Legal Studies
+968,CBC,D+,Certificate,Finance,Reflective,38,42,46,9,10,Certificate in Accounting
+969,CBC,C+,Degree,Technology,Hardworking,51,55,52,8,6,BSc Information Technology
+970,KCSE,C,Diploma,Social Sciences,Resourceful,60,54,45,6,4,Diploma in Social Work and Community Development
+971,KCSE,C,Diploma,Social Sciences,Curious,59,48,46,6,6,Diploma in Social Work and Community Development
+972,KCSE,B,Degree,Social Sciences,Confident,71,63,61,9,9,BA Sociology
+973,CBC,C+,Degree,Finance,Responsible,60,51,59,7,7,BSc Actuarial Science
+974,KCSE,C-,Diploma,Finance,Reflective,51,41,54,6,5,Diploma in Accounting
+975,KCSE,D,Certificate,Technology,Responsible,37,36,44,6,9,Certificate in Information Communication Technology
+976,KCSE,B,Degree,Aviation,Ambitious,74,72,74,4,9,Bachelor of Air Transport Operations
+977,KCSE,C,Diploma,Law,Curious,50,52,55,5,8,Diploma in Legal Studies
+978,KCSE,C+,Degree,Sports Science,Logical,63,53,52,5,7,Bachelor of Physical Education
+979,CBC,C+,Degree,Sports Science,Innovative,50,48,61,4,6,BSc Sports Science
+980,KCSE,C-,Diploma,Business,Organized,51,53,45,10,9,Diploma in Business Management
+981,KCSE,C+,Degree,Education,Team-Oriented,63,58,58,8,7,Bachelor of Education (Arts)
+982,KCSE,D+,Certificate,Business,Persuasive,47,43,46,5,8,Certificate in Business Management
+983,KCSE,B,Degree,Environmental Science,Disciplined,70,68,75,5,10,BSc Environmental Science
+984,KCSE,C+,Degree,Hospitality,Reflective,51,57,50,5,4,BSc Hospitality and Tourism Management
+985,KCSE,D+,Certificate,Business,Responsible,42,39,48,7,7,Certificate in Business Management
+986,CBC,C+,Degree,Law,Adaptable,52,65,63,5,9,Bachelor of Laws (LLB)
+987,CBC,C-,Diploma,Aviation,Organized,45,40,49,10,4,Diploma in Aviation Ground Operations
+988,KCSE,D-,Certificate,Healthcare,Observant,27,31,39,10,10,Certificate in Nursing (Community Health)
+989,KCSE,C+,Degree,Business,Disciplined,48,56,52,9,7,Bachelor of Commerce
+990,KCSE,B-,Degree,Environmental Science,Logical,55,65,59,10,8,BSc Environmental Science
+991,CBC,D+,Certificate,Technology,Responsible,48,50,36,10,3,Certificate in Information Communication Technology
+992,CBC,C-,Diploma,Engineering,Reflective,55,44,51,9,9,Diploma in Engineering (Electrical/Mechanical)
+993,KCSE,C+,Degree,Aviation,Independent,52,51,55,10,4,Bachelor of Air Transport Operations
+994,KCSE,B,Degree,Aviation,Innovative,60,62,67,7,8,Bachelor of Air Transport Operations
+995,CBC,D+,Certificate,Business,Empathetic,48,49,36,9,5,Certificate in Business Management
+996,KCSE,C+,Degree,Sports Science,Sociable,62,54,63,8,8,Bachelor of Physical Education
+997,CBC,B,Degree,Arts & Design,Sociable,68,73,70,5,5,BA Fine Art
+998,CBC,B-,Degree,Agriculture,Empathetic,63,63,60,5,10,BSc Agriculture
+999,CBC,C+,Degree,Hospitality,Logical,61,49,61,4,4,BSc Hospitality and Tourism Management
+1000,CBC,B-,Degree,Arts & Design,Responsible,56,62,68,4,6,BA Fine Art
+1001,CBC,C-,Diploma,Aviation,Analytical,41,45,45,4,7,Diploma in Aviation Ground Operations
+1002,CBC,B-,Degree,Agriculture,Persuasive,66,64,67,5,7,BSc Agriculture
+1003,CBC,C,Diploma,Social Sciences,Confident,48,45,52,9,10,Diploma in Social Work and Community Development
+1004,KCSE,D+,Certificate,Sports Science,Reflective,39,45,38,9,7,Certificate in Sports Science
+1005,CBC,D+,Certificate,Social Sciences,Practical,41,42,47,7,9,Certificate in Social Work and Community Development
+1006,KCSE,B,Degree,Engineering,Empathetic,67,67,70,7,6,Bachelor of Civil Engineering
+1007,CBC,B+,Degree,Hospitality,Resourceful,71,76,65,10,4,BSc Travel and Tourism Management
+1008,KCSE,D+,Certificate,Engineering,Persuasive,47,37,50,7,6,Certificate in Engineering (Electrical/Mechanical)
+1009,KCSE,C,Diploma,Media,Practical,55,59,58,8,10,Diploma in Mass Communication
+1010,CBC,C+,Degree,Sports Science,Persuasive,54,53,66,5,7,Bachelor of Physical Education
+1011,CBC,B+,Degree,Law,Detail-Oriented,76,68,80,9,5,Bachelor of Laws (LLB)
+1012,KCSE,C,Diploma,Finance,Hardworking,53,58,49,8,10,Diploma in Accounting
+1013,KCSE,D+,Certificate,Healthcare,Disciplined,49,37,36,8,6,Certificate in Nursing (Community Health)
+1014,KCSE,D-,Certificate,Aviation,Adaptable,34,27,33,6,9,Certificate in Aviation Ground Operations
+1015,KCSE,D+,Certificate,Environmental Science,Confident,47,33,36,5,10,Certificate in Environmental Studies
+1016,KCSE,D+,Certificate,Aviation,Team-Oriented,40,39,46,9,6,Certificate in Aviation Ground Operations
+1017,CBC,B+,Degree,Business,Organized,66,68,67,5,6,Bachelor of Commerce
+1018,CBC,C,Diploma,Finance,Organized,44,60,48,5,10,Diploma in Accounting
+1019,CBC,A,Degree,Media,Friendly,87,96,93,9,6,BA Journalism and Mass Communication
+1020,KCSE,D-,Certificate,Arts & Design,Disciplined,35,39,39,5,4,Certificate in Fine Art and Design
+1021,KCSE,A-,Degree,Sports Science,Observant,83,82,72,8,8,Bachelor of Physical Education
+1022,CBC,D,Certificate,Engineering,Hardworking,37,36,43,9,10,Certificate in Engineering (Electrical/Mechanical)
+1023,CBC,C,Diploma,Engineering,Confident,58,57,43,10,7,Diploma in Engineering (Electrical/Mechanical)
+1024,KCSE,C-,Diploma,Arts & Design,Logical,48,50,48,9,8,Diploma in Fine Art and Design
+1025,CBC,B-,Degree,Social Sciences,Patient,63,60,62,6,7,BA Sociology
+1026,CBC,B-,Degree,Social Sciences,Disciplined,63,67,63,10,7,BA Sociology
+1027,KCSE,B-,Degree,Law,Analytical,57,68,65,10,9,Bachelor of Laws (LLB)
+1028,KCSE,C+,Degree,Sports Science,Patient,63,62,51,5,8,Bachelor of Physical Education
+1029,CBC,A-,Degree,Engineering,Sociable,72,81,76,5,6,Bachelor of Civil Engineering
+1030,CBC,B-,Degree,Technology,Curious,57,69,63,9,8,BSc Computer Science
+1031,CBC,D,Certificate,Media,Sociable,40,42,40,5,3,Certificate in Mass Communication
+1032,CBC,C+,Degree,Business,Disciplined,51,50,51,7,5,Bachelor of Commerce
+1033,CBC,B,Degree,Education,Observant,72,70,73,5,4,Bachelor of Education (Science)
+1034,KCSE,B,Degree,Finance,Team-Oriented,61,63,73,5,8,BSc Actuarial Science
+1035,CBC,C-,Diploma,Hospitality,Creative,48,53,41,3,4,Diploma in Hospitality and Tourism Management
+1036,CBC,D,Certificate,Finance,Patient,32,44,33,8,6,Certificate in Accounting
+1037,CBC,C+,Degree,Healthcare,Persuasive,54,56,50,4,7,BSc Nursing
+1038,KCSE,C,Diploma,Environmental Science,Detail-Oriented,46,46,53,9,9,Diploma in Environmental Studies
+1039,KCSE,D+,Certificate,Hospitality,Observant,43,51,39,8,7,Certificate in Hospitality and Tourism Management
+1040,CBC,C-,Diploma,Agriculture,Ambitious,54,46,41,8,5,Diploma in Agriculture
+1041,KCSE,E,Retake/Artisan,Agriculture,Reflective,20,16,26,6,7,KCSE Retake Recommended
+1042,CBC,B-,Degree,Media,Independent,61,63,64,4,7,BA Journalism and Mass Communication
+1043,KCSE,B,Degree,Hospitality,Patient,72,66,73,9,6,BSc Hospitality and Tourism Management
+1044,KCSE,B,Degree,Finance,Organized,66,76,67,5,6,Bachelor of Commerce (Finance)
+1045,CBC,C,Diploma,Business,Adaptable,45,47,57,9,8,Diploma in Business Management
+1046,KCSE,C-,Diploma,Business,Independent,42,52,49,9,7,Diploma in Business Management
+1047,KCSE,D+,Certificate,Social Sciences,Empathetic,32,36,40,10,5,Certificate in Social Work and Community Development
+1048,CBC,D,Certificate,Arts & Design,Empathetic,43,43,40,5,4,Certificate in Fine Art and Design
+1049,KCSE,B+,Degree,Business,Independent,77,73,76,5,9,Bachelor of Commerce
+1050,KCSE,D-,Certificate,Sports Science,Adaptable,23,33,36,8,10,Certificate in Sports Science
+1051,KCSE,D,Certificate,Finance,Analytical,46,43,45,4,4,Certificate in Accounting
+1052,KCSE,C,Diploma,Healthcare,Disciplined,53,56,51,10,7,Diploma in Nursing (Community Health)
+1053,CBC,E,Retake/Artisan,Arts & Design,Innovative,14,29,28,5,6,KCSE Retake Recommended
+1054,CBC,B-,Degree,Agriculture,Creative,69,65,54,10,10,BSc Horticulture
+1055,KCSE,C-,Diploma,Education,Responsible,45,50,44,6,7,Diploma in Early Childhood Development Education
+1056,CBC,C+,Degree,Business,Confident,59,53,65,4,8,Bachelor of Commerce
+1057,KCSE,D+,Certificate,Technology,Curious,37,38,45,9,9,Certificate in Information Communication Technology
+1058,CBC,C-,Diploma,Arts & Design,Hardworking,47,56,45,8,8,Diploma in Fine Art and Design
+1059,KCSE,C-,Diploma,Sports Science,Reflective,44,41,50,5,8,Diploma in Sports Science
+1060,KCSE,B-,Degree,Finance,Patient,63,62,64,9,6,BSc Actuarial Science
+1061,KCSE,A,Degree,Engineering,Innovative,83,100,87,6,7,Bachelor of Mechanical Engineering
+1062,CBC,B,Degree,Hospitality,Independent,64,72,68,8,10,BSc Hospitality and Tourism Management
+1063,KCSE,B-,Degree,Healthcare,Creative,58,65,57,9,8,BSc Nursing
+1064,KCSE,D-,Certificate,Agriculture,Resourceful,40,34,35,8,6,Certificate in Agriculture
+1065,CBC,C-,Diploma,Agriculture,Team-Oriented,46,51,41,8,6,Diploma in Agriculture
+1066,CBC,B-,Degree,Finance,Adaptable,56,62,54,6,10,BSc Actuarial Science
+1067,CBC,B+,Degree,Technology,Independent,76,72,64,6,4,BSc Information Technology
+1068,CBC,B,Degree,Media,Practical,73,63,71,6,10,BA Journalism and Mass Communication
+1069,KCSE,C+,Degree,Agriculture,Organized,52,54,63,9,6,BSc Agriculture
+1070,KCSE,D,Certificate,Agriculture,Ambitious,38,39,35,6,8,Certificate in Agriculture
+1071,CBC,B-,Degree,Healthcare,Analytical,60,58,67,6,10,BSc Nursing
+1072,CBC,C-,Diploma,Hospitality,Detail-Oriented,54,53,54,8,8,Diploma in Hospitality and Tourism Management
+1073,CBC,C+,Degree,Sports Science,Analytical,62,51,57,7,10,Bachelor of Physical Education
+1074,CBC,A-,Degree,Social Sciences,Patient,75,81,71,8,6,BA Sociology
+1075,KCSE,C+,Degree,Social Sciences,Innovative,59,62,61,5,10,BA Sociology
+1076,KCSE,B+,Degree,Environmental Science,Patient,72,69,78,5,5,BSc Environmental Science
+1077,CBC,A,Degree,Healthcare,Confident,95,85,92,10,6,BSc Nursing
+1078,KCSE,C+,Degree,Environmental Science,Hardworking,51,63,61,7,6,BSc Environmental Science
+1079,CBC,D+,Certificate,Law,Analytical,45,39,36,5,7,Certificate in Legal Studies
+1080,KCSE,D+,Certificate,Environmental Science,Sociable,43,38,35,8,4,Certificate in Environmental Studies
+1081,CBC,D-,Certificate,Healthcare,Independent,24,25,36,8,7,Certificate in Nursing (Community Health)
+1082,CBC,D+,Certificate,Business,Organized,49,34,35,8,8,Certificate in Business Management
+1083,KCSE,A-,Degree,Social Sciences,Persuasive,86,73,79,6,7,Bachelor of Social Work
+1084,CBC,C+,Degree,Law,Empathetic,57,57,58,7,6,Bachelor of Laws (LLB)
+1085,KCSE,C+,Degree,Law,Analytical,63,57,52,5,8,Bachelor of Laws (LLB)
+1086,CBC,B,Degree,Media,Organized,67,74,72,5,4,BA Journalism and Mass Communication
+1087,KCSE,D+,Certificate,Engineering,Resourceful,40,38,39,7,8,Certificate in Engineering (Electrical/Mechanical)
+1088,CBC,C,Diploma,Engineering,Logical,42,59,58,6,6,Diploma in Engineering (Electrical/Mechanical)
+1089,KCSE,C,Diploma,Sports Science,Team-Oriented,53,56,47,4,3,Diploma in Sports Science
+1090,KCSE,C,Diploma,Education,Analytical,49,47,46,5,6,Diploma in Early Childhood Development Education
+1091,CBC,A-,Degree,Aviation,Analytical,69,70,84,10,10,BSc Aviation Management
+1092,KCSE,D,Certificate,Sports Science,Team-Oriented,29,37,42,5,4,Certificate in Sports Science
+1093,KCSE,A-,Degree,Engineering,Empathetic,75,74,72,3,10,Bachelor of Mechanical Engineering
+1094,CBC,A-,Degree,Environmental Science,Friendly,73,79,74,8,9,BSc Environmental Science
+1095,CBC,D+,Certificate,Law,Sociable,38,36,43,7,7,Certificate in Legal Studies
+1096,CBC,B-,Degree,Environmental Science,Observant,59,61,60,10,9,BSc Environmental Science
+1097,CBC,D+,Certificate,Aviation,Observant,49,36,47,8,7,Certificate in Aviation Ground Operations
+1098,CBC,D+,Certificate,Law,Ambitious,38,46,45,10,9,Certificate in Legal Studies
+1099,CBC,B+,Degree,Sports Science,Organized,75,73,72,10,9,BSc Sports Science
+1100,CBC,C+,Degree,Environmental Science,Confident,56,56,61,8,10,BSc Environmental Science
+1101,CBC,C,Diploma,Business,Sociable,49,55,46,4,4,Diploma in Business Management
+1102,CBC,B,Degree,Education,Patient,61,61,59,5,9,Bachelor of Education (Science)
+1103,CBC,A-,Degree,Healthcare,Independent,81,77,74,6,8,BSc Nursing
+1104,KCSE,C,Diploma,Aviation,Team-Oriented,54,47,57,9,9,Diploma in Aviation Ground Operations
+1105,CBC,C-,Diploma,Aviation,Team-Oriented,47,53,41,4,5,Diploma in Aviation Ground Operations
+1106,CBC,C+,Degree,Engineering,Hardworking,51,61,54,6,3,Bachelor of Civil Engineering
+1107,KCSE,C,Diploma,Sports Science,Logical,52,55,58,8,4,Diploma in Sports Science
+1108,CBC,C-,Diploma,Business,Adaptable,41,43,40,9,5,Diploma in Business Management
+1109,CBC,B,Degree,Social Sciences,Reflective,75,61,63,8,9,Bachelor of Social Work
+1110,KCSE,C-,Diploma,Healthcare,Practical,49,50,45,8,4,Diploma in Nursing (Community Health)
+1111,KCSE,C,Diploma,Media,Team-Oriented,49,46,56,8,7,Diploma in Mass Communication
+1112,KCSE,D,Certificate,Healthcare,Analytical,37,37,37,5,4,Certificate in Nursing (Community Health)
+1113,KCSE,C,Diploma,Law,Creative,45,54,43,9,4,Diploma in Legal Studies
+1114,KCSE,C,Diploma,Education,Curious,47,47,52,5,5,Diploma in Early Childhood Development Education
+1115,KCSE,C,Diploma,Business,Disciplined,51,47,60,7,5,Diploma in Business Management
+1116,CBC,D+,Certificate,Engineering,Innovative,46,37,37,8,6,Certificate in Engineering (Electrical/Mechanical)
+1117,KCSE,C,Diploma,Environmental Science,Curious,59,51,56,5,7,Diploma in Environmental Studies
+1118,CBC,C-,Diploma,Hospitality,Analytical,48,52,41,5,5,Diploma in Hospitality and Tourism Management
+1119,CBC,B-,Degree,Sports Science,Friendly,63,66,65,7,8,Bachelor of Physical Education
+1120,KCSE,C+,Degree,Environmental Science,Team-Oriented,59,50,64,10,8,BSc Environmental Science
+1121,CBC,B-,Degree,Sports Science,Persuasive,60,66,61,5,6,Bachelor of Physical Education
+1122,KCSE,C-,Diploma,Social Sciences,Sociable,49,47,51,7,5,Diploma in Social Work and Community Development
+1123,CBC,C-,Diploma,Aviation,Persuasive,50,43,48,5,7,Diploma in Aviation Ground Operations
+1124,CBC,D,Certificate,Law,Detail-Oriented,37,43,46,3,5,Certificate in Legal Studies
+1125,CBC,D,Certificate,Sports Science,Observant,34,32,34,10,8,Certificate in Sports Science
+1126,CBC,C+,Degree,Healthcare,Curious,54,51,55,7,5,Bachelor of Medicine and Surgery (MBChB)
+1127,CBC,D,Certificate,Engineering,Creative,40,32,34,6,5,Certificate in Engineering (Electrical/Mechanical)
+1128,CBC,C,Diploma,Sports Science,Observant,47,51,48,10,6,Diploma in Sports Science
+1129,KCSE,D,Certificate,Hospitality,Reflective,45,32,34,5,8,Certificate in Hospitality and Tourism Management
+1130,CBC,D,Certificate,Healthcare,Analytical,33,39,32,4,4,Certificate in Nursing (Community Health)
+1131,CBC,C+,Degree,Arts & Design,Hardworking,50,53,57,10,6,Bachelor of Design
+1132,CBC,C+,Degree,Arts & Design,Adaptable,55,59,56,9,5,BA Fine Art
+1133,CBC,B-,Degree,Engineering,Sociable,57,62,67,5,8,Bachelor of Mechanical Engineering
+1134,KCSE,C-,Diploma,Media,Resourceful,44,51,42,5,5,Diploma in Mass Communication
+1135,CBC,D,Certificate,Finance,Practical,41,39,44,10,6,Certificate in Accounting
+1136,KCSE,B+,Degree,Healthcare,Hardworking,66,77,69,9,5,BSc Nursing
+1137,CBC,B,Degree,Business,Logical,71,69,74,9,9,Bachelor of Procurement and Logistics
+1138,CBC,C,Diploma,Sports Science,Practical,56,54,44,9,5,Diploma in Sports Science
+1139,CBC,C-,Diploma,Environmental Science,Practical,53,38,53,7,4,Diploma in Environmental Studies
+1140,KCSE,C+,Degree,Technology,Team-Oriented,50,64,54,5,5,BSc Computer Science
+1141,KCSE,C-,Diploma,Aviation,Hardworking,41,39,52,8,6,Diploma in Aviation Ground Operations
+1142,CBC,D+,Certificate,Aviation,Logical,43,47,43,6,7,Certificate in Aviation Ground Operations
+1143,KCSE,B+,Degree,Engineering,Empathetic,70,73,70,6,6,Bachelor of Civil Engineering
+1144,KCSE,C-,Diploma,Media,Ambitious,47,52,50,6,4,Diploma in Mass Communication
+1145,CBC,D,Certificate,Finance,Responsible,36,38,29,10,10,Certificate in Accounting
+1146,KCSE,B-,Degree,Agriculture,Adaptable,70,57,66,7,4,BSc Agriculture
+1147,CBC,A-,Degree,Engineering,Friendly,73,73,74,4,5,Bachelor of Civil Engineering
+1148,CBC,B-,Degree,Media,Detail-Oriented,63,59,60,4,6,BA Journalism and Mass Communication
+1149,KCSE,C+,Degree,Aviation,Observant,59,63,57,8,6,Bachelor of Air Transport Operations
+1150,KCSE,B+,Degree,Healthcare,Hardworking,70,67,69,7,6,BSc Nursing
+1151,CBC,C+,Degree,Sports Science,Patient,48,55,50,7,10,BSc Sports Science
+1152,CBC,B+,Degree,Social Sciences,Detail-Oriented,80,81,72,10,9,BA Sociology
+1153,CBC,C,Diploma,Law,Curious,58,55,58,5,9,Diploma in Legal Studies
+1154,CBC,C+,Degree,Law,Friendly,61,64,62,4,4,Bachelor of Laws (LLB)
+1155,KCSE,D+,Certificate,Sports Science,Persuasive,36,41,45,6,6,Certificate in Sports Science
+1156,CBC,B,Degree,Sports Science,Disciplined,62,68,63,7,4,Bachelor of Physical Education
+1157,KCSE,B+,Degree,Finance,Team-Oriented,72,70,67,9,6,BSc Actuarial Science
+1158,CBC,B-,Degree,Arts & Design,Empathetic,54,57,68,10,9,Bachelor of Design
+1159,KCSE,C,Diploma,Technology,Team-Oriented,45,52,58,6,7,Diploma in Information Communication Technology
+1160,CBC,B,Degree,Agriculture,Organized,66,71,63,5,6,BSc Horticulture
+1161,CBC,B+,Degree,Hospitality,Logical,72,70,68,9,7,BSc Travel and Tourism Management
+1162,CBC,C,Diploma,Technology,Responsible,56,58,52,5,8,Diploma in Information Communication Technology
+1163,KCSE,C+,Degree,Social Sciences,Friendly,53,60,48,10,4,BA Sociology
+1164,KCSE,B+,Degree,Education,Detail-Oriented,74,72,73,10,7,Bachelor of Education (Arts)
+1165,KCSE,B-,Degree,Sports Science,Team-Oriented,60,59,66,9,6,Bachelor of Physical Education
+1166,CBC,C+,Degree,Social Sciences,Sociable,58,62,60,10,9,Bachelor of Social Work
+1167,KCSE,B,Degree,Education,Independent,71,59,66,7,5,Bachelor of Education (Arts)
+1168,CBC,C-,Diploma,Technology,Analytical,51,46,45,9,7,Diploma in Information Communication Technology
+1169,CBC,B+,Degree,Law,Responsible,81,74,79,9,7,Bachelor of Laws (LLB)
+1170,CBC,C,Diploma,Technology,Friendly,50,57,58,10,10,Diploma in Information Communication Technology
+1171,KCSE,D,Certificate,Finance,Innovative,39,31,35,5,7,Certificate in Accounting
+1172,CBC,B,Degree,Engineering,Responsible,58,70,74,10,4,Bachelor of Mechanical Engineering
+1173,CBC,C-,Diploma,Social Sciences,Hardworking,48,48,52,9,10,Diploma in Social Work and Community Development
+1174,CBC,C,Diploma,Business,Observant,45,49,51,4,10,Diploma in Business Management
+1175,CBC,B,Degree,Aviation,Innovative,73,60,72,6,7,Bachelor of Air Transport Operations
+1176,KCSE,A-,Degree,Arts & Design,Organized,70,80,85,10,4,BA Fine Art
+1177,CBC,B-,Degree,Law,Organized,64,61,55,9,7,Bachelor of Laws (LLB)
+1178,KCSE,C-,Diploma,Healthcare,Practical,40,49,54,8,4,Diploma in Nursing (Community Health)
+1179,CBC,C-,Diploma,Healthcare,Logical,47,48,48,8,10,Diploma in Nursing (Community Health)
+1180,CBC,D+,Certificate,Law,Adaptable,44,33,34,6,10,Certificate in Legal Studies
+1181,CBC,C,Diploma,Environmental Science,Analytical,60,56,53,4,4,Diploma in Environmental Studies
+1182,CBC,C,Diploma,Healthcare,Hardworking,58,48,51,4,4,Diploma in Nursing (Community Health)
+1183,KCSE,C,Diploma,Environmental Science,Innovative,61,57,62,6,7,Diploma in Environmental Studies
+1184,KCSE,C+,Degree,Education,Detail-Oriented,49,56,51,4,10,Bachelor of Education (Arts)
+1185,KCSE,B-,Degree,Business,Resourceful,66,57,64,7,9,Bachelor of Commerce
+1186,CBC,C,Diploma,Sports Science,Observant,46,59,57,4,6,Diploma in Sports Science
+1187,KCSE,B+,Degree,Hospitality,Analytical,70,70,68,8,7,BSc Hospitality and Tourism Management
+1188,KCSE,B+,Degree,Business,Ambitious,77,75,76,4,9,Bachelor of Commerce
+1189,CBC,C+,Degree,Technology,Disciplined,53,63,57,4,5,BSc Computer Science
+1190,CBC,B,Degree,Agriculture,Curious,68,65,72,4,6,BSc Agriculture
+1191,KCSE,C,Diploma,Healthcare,Responsible,56,54,55,10,5,Diploma in Nursing (Community Health)
+1192,KCSE,B,Degree,Environmental Science,Creative,71,61,70,8,8,BSc Environmental Science
+1193,CBC,C+,Degree,Engineering,Adaptable,59,64,55,8,8,Bachelor of Civil Engineering
+1194,KCSE,C,Diploma,Engineering,Responsible,57,56,59,6,5,Diploma in Engineering (Electrical/Mechanical)
+1195,KCSE,C+,Degree,Social Sciences,Creative,58,50,53,5,9,BA Sociology
+1196,KCSE,C-,Diploma,Hospitality,Adaptable,49,50,46,6,5,Diploma in Hospitality and Tourism Management
+1197,KCSE,C+,Degree,Technology,Persuasive,56,60,52,5,6,BSc Information Technology
+1198,CBC,C-,Diploma,Arts & Design,Disciplined,44,40,43,10,5,Diploma in Fine Art and Design
+1199,KCSE,C-,Diploma,Aviation,Team-Oriented,41,46,49,7,3,Diploma in Aviation Ground Operations
+1200,CBC,B,Degree,Environmental Science,Independent,71,69,75,7,6,BSc Environmental Science
+1201,KCSE,C+,Degree,Sports Science,Persuasive,62,61,57,6,7,Bachelor of Physical Education
+1202,KCSE,B+,Degree,Engineering,Independent,69,80,73,10,6,Bachelor of Civil Engineering
+1203,KCSE,B,Degree,Engineering,Confident,61,67,71,10,10,Bachelor of Civil Engineering
+1204,KCSE,B-,Degree,Hospitality,Organized,56,66,60,7,5,BSc Travel and Tourism Management
+1205,KCSE,C,Diploma,Sports Science,Team-Oriented,49,49,52,10,5,Diploma in Sports Science
+1206,CBC,C-,Diploma,Social Sciences,Adaptable,42,56,50,5,9,Diploma in Social Work and Community Development
+1207,KCSE,C-,Diploma,Engineering,Patient,43,44,40,8,8,Diploma in Engineering (Electrical/Mechanical)
+1208,CBC,C,Diploma,Arts & Design,Disciplined,55,48,46,4,5,Diploma in Fine Art and Design
+1209,KCSE,B+,Degree,Engineering,Empathetic,64,76,71,7,8,Bachelor of Mechanical Engineering
+1210,CBC,D+,Certificate,Sports Science,Adaptable,49,43,43,8,9,Certificate in Sports Science
+1211,KCSE,B-,Degree,Sports Science,Reflective,69,58,63,4,7,Bachelor of Physical Education
+1212,KCSE,D,Certificate,Environmental Science,Sociable,43,36,41,9,4,Certificate in Environmental Studies
+1213,KCSE,C,Diploma,Social Sciences,Curious,44,54,51,4,7,Diploma in Social Work and Community Development
+1214,CBC,B,Degree,Law,Curious,61,72,70,8,4,Bachelor of Laws (LLB)
+1215,KCSE,C,Diploma,Media,Reflective,46,52,61,6,4,Diploma in Mass Communication
+1216,KCSE,C-,Diploma,Arts & Design,Reflective,42,53,41,5,10,Diploma in Fine Art and Design
+1217,CBC,C+,Degree,Technology,Ambitious,60,66,59,9,7,BSc Information Technology
+1218,CBC,C-,Diploma,Business,Empathetic,42,48,47,9,4,Diploma in Business Management
+1219,KCSE,C+,Degree,Agriculture,Responsible,57,50,58,10,6,BSc Agriculture
+1220,CBC,B-,Degree,Environmental Science,Logical,55,55,66,7,10,BSc Environmental Science
+1221,CBC,C,Diploma,Education,Practical,51,54,45,5,6,Diploma in Early Childhood Development Education
+1222,CBC,C,Diploma,Social Sciences,Analytical,58,60,46,4,9,Diploma in Social Work and Community Development
+1223,CBC,D+,Certificate,Arts & Design,Logical,41,34,39,9,5,Certificate in Fine Art and Design
+1224,KCSE,C+,Degree,Law,Patient,61,50,51,4,8,Bachelor of Laws (LLB)
+1225,CBC,C-,Diploma,Media,Friendly,42,50,50,7,5,Diploma in Mass Communication
+1226,CBC,D-,Certificate,Healthcare,Adaptable,39,39,29,9,9,Certificate in Nursing (Community Health)
+1227,KCSE,B,Degree,Environmental Science,Disciplined,67,61,72,8,7,BSc Environmental Science
+1228,CBC,C+,Degree,Arts & Design,Friendly,64,64,51,4,5,BA Fine Art
+1229,KCSE,C+,Degree,Arts & Design,Innovative,64,62,58,4,8,Bachelor of Design
+1230,CBC,E,Retake/Artisan,Engineering,Patient,23,23,23,7,9,Artisan/Basic Skills Training in Electrical Installation
+1231,KCSE,C-,Diploma,Social Sciences,Organized,49,46,42,4,10,Diploma in Social Work and Community Development
+1232,KCSE,C,Diploma,Finance,Patient,53,47,44,4,4,Diploma in Accounting
+1233,CBC,C-,Diploma,Social Sciences,Detail-Oriented,42,55,52,7,3,Diploma in Social Work and Community Development
+1234,KCSE,B,Degree,Social Sciences,Analytical,65,67,69,3,8,BA Sociology
+1235,CBC,C+,Degree,Education,Reflective,64,59,49,8,5,Bachelor of Education (Arts)
+1236,CBC,C,Diploma,Business,Creative,52,59,54,4,5,Diploma in Business Management
+1237,CBC,C+,Degree,Agriculture,Analytical,61,51,65,8,7,BSc Agriculture
+1238,CBC,B,Degree,Agriculture,Detail-Oriented,60,72,65,7,6,BSc Agriculture
+1239,CBC,A-,Degree,Aviation,Analytical,76,75,81,4,8,Bachelor of Air Transport Operations
+1240,CBC,C-,Diploma,Social Sciences,Analytical,56,41,46,6,8,Diploma in Social Work and Community Development
+1241,CBC,C+,Degree,Healthcare,Detail-Oriented,54,63,53,4,6,BSc Nursing
+1242,KCSE,C+,Degree,Finance,Ambitious,57,64,65,9,5,BSc Actuarial Science
+1243,CBC,B+,Degree,Sports Science,Observant,70,67,71,8,7,Bachelor of Physical Education
+1244,KCSE,C+,Degree,Engineering,Ambitious,60,58,60,8,4,Bachelor of Civil Engineering
+1245,KCSE,E,Retake/Artisan,Social Sciences,Friendly,14,23,30,6,10,KCSE Retake Recommended
+1246,CBC,C,Diploma,Social Sciences,Hardworking,50,50,54,8,9,Diploma in Social Work and Community Development
+1247,CBC,C-,Diploma,Healthcare,Logical,47,45,45,6,4,Diploma in Nursing (Community Health)
+1248,CBC,C-,Diploma,Hospitality,Hardworking,54,55,51,9,5,Diploma in Hospitality and Tourism Management
+1249,CBC,C-,Diploma,Media,Resourceful,54,50,49,6,4,Diploma in Mass Communication
+1250,KCSE,D-,Certificate,Aviation,Adaptable,26,40,33,6,8,Certificate in Aviation Ground Operations
+1251,KCSE,C,Diploma,Aviation,Observant,58,59,61,10,4,Diploma in Aviation Ground Operations
+1252,CBC,D,Certificate,Agriculture,Analytical,43,37,39,6,5,Certificate in Agriculture
+1253,CBC,C+,Degree,Agriculture,Independent,64,57,52,9,10,BSc Horticulture
+1254,CBC,D+,Certificate,Hospitality,Detail-Oriented,48,36,42,5,9,Certificate in Hospitality and Tourism Management
+1255,CBC,D+,Certificate,Aviation,Creative,49,45,43,7,8,Certificate in Aviation Ground Operations
+1256,KCSE,A-,Degree,Healthcare,Responsible,70,83,84,9,4,BSc Nursing
+1257,KCSE,B-,Degree,Hospitality,Ambitious,58,68,61,9,9,BSc Travel and Tourism Management
+1258,CBC,D+,Certificate,Aviation,Independent,35,44,47,6,8,Certificate in Aviation Ground Operations
+1259,CBC,B,Degree,Sports Science,Curious,72,61,58,9,9,BSc Sports Science
+1260,CBC,C-,Diploma,Sports Science,Responsible,56,54,50,4,10,Diploma in Sports Science
+1261,KCSE,A-,Degree,Engineering,Patient,70,82,83,5,10,Bachelor of Civil Engineering
+1262,KCSE,B+,Degree,Finance,Analytical,79,76,65,6,5,Bachelor of Commerce (Finance)
+1263,CBC,B,Degree,Business,Adaptable,68,60,59,8,5,Bachelor of Commerce
+1264,KCSE,C,Diploma,Arts & Design,Resourceful,46,52,47,5,10,Diploma in Fine Art and Design
+1265,CBC,C+,Degree,Arts & Design,Organized,57,65,58,7,10,BA Fine Art
+1266,KCSE,A,Degree,Aviation,Empathetic,100,96,77,9,10,Bachelor of Air Transport Operations
+1267,CBC,C,Diploma,Environmental Science,Team-Oriented,56,56,49,9,5,Diploma in Environmental Studies
+1268,KCSE,D+,Certificate,Law,Disciplined,43,43,46,7,8,Certificate in Legal Studies
+1269,KCSE,C+,Degree,Finance,Team-Oriented,56,55,61,4,9,BSc Actuarial Science
+1270,CBC,C-,Diploma,Law,Curious,51,48,41,10,8,Diploma in Legal Studies
+1271,CBC,A,Degree,Law,Adaptable,100,82,84,10,5,Bachelor of Laws (LLB)
+1272,CBC,B-,Degree,Finance,Hardworking,65,65,63,7,9,BSc Actuarial Science
+1273,KCSE,D,Certificate,Sports Science,Creative,43,42,41,6,8,Certificate in Sports Science
+1274,CBC,C+,Degree,Aviation,Curious,58,60,50,4,6,BSc Aviation Management
+1275,KCSE,D-,Certificate,Environmental Science,Ambitious,29,37,30,5,9,Certificate in Environmental Studies
+1276,CBC,A,Degree,Education,Responsible,100,83,98,9,8,Bachelor of Education (Science)
+1277,CBC,D+,Certificate,Law,Team-Oriented,37,40,42,9,9,Certificate in Legal Studies
+1278,KCSE,C-,Diploma,Media,Ambitious,48,39,39,10,6,Diploma in Mass Communication
+1279,CBC,C+,Degree,Aviation,Adaptable,50,52,62,6,6,BSc Aviation Management
+1280,CBC,B,Degree,Finance,Resourceful,61,70,62,10,8,BSc Actuarial Science
+1281,CBC,C,Diploma,Social Sciences,Responsible,49,55,55,4,6,Diploma in Social Work and Community Development
+1282,CBC,A-,Degree,Business,Observant,82,74,77,10,5,Bachelor of Commerce
+1283,KCSE,B,Degree,Agriculture,Logical,70,71,62,8,6,BSc Horticulture
+1284,CBC,D,Certificate,Law,Innovative,46,29,36,8,9,Certificate in Legal Studies
+1285,CBC,A,Degree,Aviation,Hardworking,85,91,91,8,8,Bachelor of Air Transport Operations
+1286,CBC,B,Degree,Hospitality,Persuasive,59,64,63,7,6,BSc Travel and Tourism Management
+1287,KCSE,B,Degree,Environmental Science,Practical,73,68,69,5,6,BSc Natural Resource Management
+1288,CBC,A-,Degree,Arts & Design,Curious,80,83,71,6,7,BA Fine Art
+1289,KCSE,C+,Degree,Environmental Science,Resourceful,58,63,50,6,5,BSc Environmental Science
+1290,KCSE,C+,Degree,Sports Science,Detail-Oriented,64,57,65,7,6,Bachelor of Physical Education
+1291,CBC,C,Diploma,Education,Practical,54,60,50,8,9,Diploma in Early Childhood Development Education
+1292,CBC,D-,Certificate,Social Sciences,Sociable,30,29,26,4,8,Certificate in Social Work and Community Development
+1293,KCSE,A,Degree,Sports Science,Creative,86,83,88,10,6,Bachelor of Physical Education
+1294,CBC,C-,Diploma,Healthcare,Patient,42,40,48,5,4,Diploma in Nursing (Community Health)
+1295,CBC,B-,Degree,Media,Resourceful,66,68,70,6,10,BA Journalism and Mass Communication
+1296,CBC,C-,Diploma,Aviation,Independent,38,47,43,6,5,Diploma in Aviation Ground Operations
+1297,KCSE,C+,Degree,Environmental Science,Observant,52,61,57,10,8,BSc Environmental Science
+1298,KCSE,C,Diploma,Media,Reflective,43,47,54,7,4,Diploma in Mass Communication
+1299,CBC,C-,Diploma,Law,Sociable,45,55,44,9,6,Diploma in Legal Studies
+1300,CBC,C+,Degree,Business,Resourceful,56,58,61,7,10,Bachelor of Commerce
+1301,KCSE,B,Degree,Media,Creative,62,61,60,8,5,BA Film and Media Studies
+1302,KCSE,C-,Diploma,Arts & Design,Analytical,41,48,51,10,10,Diploma in Fine Art and Design
+1303,CBC,C+,Degree,Aviation,Resourceful,52,52,56,6,10,Bachelor of Air Transport Operations
+1304,CBC,B-,Degree,Education,Independent,64,66,57,6,5,Bachelor of Education (Arts)
+1305,CBC,C,Diploma,Arts & Design,Innovative,60,55,57,8,9,Diploma in Fine Art and Design
+1306,KCSE,C+,Degree,Hospitality,Practical,51,59,62,10,8,BSc Hospitality and Tourism Management
+1307,CBC,C+,Degree,Business,Resourceful,66,51,58,10,4,Bachelor of Commerce
+1308,KCSE,C+,Degree,Law,Patient,62,57,64,10,7,Bachelor of Laws (LLB)
+1309,KCSE,B-,Degree,Environmental Science,Reflective,69,60,62,10,9,BSc Environmental Science
+1310,CBC,B,Degree,Education,Persuasive,71,74,61,4,9,Bachelor of Education (Arts)
+1311,KCSE,D,Certificate,Technology,Curious,32,46,41,4,5,Certificate in Information Communication Technology
+1312,KCSE,C,Diploma,Technology,Hardworking,60,60,53,7,8,Diploma in Information Communication Technology
+1313,KCSE,B+,Degree,Aviation,Curious,67,76,81,6,9,Bachelor of Air Transport Operations
+1314,KCSE,A-,Degree,Healthcare,Organized,70,71,70,4,6,BSc Nursing
+1315,KCSE,D,Certificate,Sports Science,Hardworking,33,31,32,3,5,Certificate in Sports Science
+1316,KCSE,C-,Diploma,Business,Friendly,39,46,47,10,9,Diploma in Business Management
+1317,KCSE,C,Diploma,Business,Hardworking,45,55,51,10,8,Diploma in Business Management
+1318,KCSE,D+,Certificate,Social Sciences,Patient,44,46,48,9,5,Certificate in Social Work and Community Development
+1319,CBC,B+,Degree,Engineering,Independent,75,70,67,9,5,Bachelor of Civil Engineering
+1320,KCSE,D+,Certificate,Technology,Curious,51,39,36,7,4,Certificate in Information Communication Technology
+1321,KCSE,C+,Degree,Media,Independent,51,50,59,10,6,BA Journalism and Mass Communication
+1322,KCSE,D,Certificate,Arts & Design,Disciplined,30,44,28,4,6,Certificate in Fine Art and Design
+1323,CBC,D,Certificate,Agriculture,Independent,36,34,46,6,6,Certificate in Agriculture
+1324,CBC,D,Certificate,Finance,Organized,41,29,28,4,9,Certificate in Accounting
+1325,KCSE,A-,Degree,Social Sciences,Reflective,79,74,71,5,7,Bachelor of Social Work
+1326,KCSE,A,Degree,Social Sciences,Reflective,92,75,100,10,8,BA Sociology
+1327,CBC,C+,Degree,Finance,Organized,55,49,61,6,7,BSc Actuarial Science
+1328,KCSE,C+,Degree,Social Sciences,Responsible,59,56,56,7,6,BA Sociology
+1329,CBC,C-,Diploma,Finance,Analytical,47,54,53,8,4,Diploma in Accounting
+1330,CBC,D,Certificate,Sports Science,Responsible,31,29,30,9,4,Certificate in Sports Science
+1331,CBC,D-,Certificate,Media,Independent,38,25,24,7,7,Certificate in Mass Communication
+1332,CBC,B+,Degree,Technology,Analytical,69,75,77,7,8,BSc Information Technology
+1333,CBC,C,Diploma,Engineering,Disciplined,47,46,52,9,5,Diploma in Engineering (Electrical/Mechanical)
+1334,CBC,D+,Certificate,Social Sciences,Hardworking,42,34,41,4,6,Certificate in Social Work and Community Development
+1335,CBC,C,Diploma,Healthcare,Independent,61,50,54,7,5,Diploma in Nursing (Community Health)
+1336,CBC,C-,Diploma,Business,Patient,55,49,54,10,7,Diploma in Business Management
+1337,CBC,A-,Degree,Business,Independent,86,71,75,10,9,Bachelor of Commerce
+1338,KCSE,B+,Degree,Arts & Design,Practical,75,75,77,10,7,BA Fine Art
+1339,CBC,B,Degree,Sports Science,Curious,62,59,68,8,5,Bachelor of Physical Education
+1340,KCSE,D+,Certificate,Law,Responsible,40,45,48,6,7,Certificate in Legal Studies
+1341,CBC,C,Diploma,Law,Confident,44,56,44,7,7,Diploma in Legal Studies
+1342,KCSE,D+,Certificate,Arts & Design,Patient,35,36,36,5,10,Certificate in Fine Art and Design
+1343,CBC,D+,Certificate,Social Sciences,Practical,41,38,41,10,8,Certificate in Social Work and Community Development
+1344,KCSE,C,Diploma,Education,Creative,48,57,52,4,6,Diploma in Early Childhood Development Education
+1345,KCSE,D+,Certificate,Business,Team-Oriented,47,44,39,4,10,Certificate in Business Management
+1346,CBC,C-,Diploma,Business,Friendly,54,52,48,6,5,Diploma in Business Management
+1347,CBC,D,Certificate,Technology,Innovative,34,27,31,4,10,Certificate in Information Communication Technology
+1348,KCSE,C,Diploma,Arts & Design,Ambitious,52,51,57,5,7,Diploma in Fine Art and Design
+1349,KCSE,C-,Diploma,Hospitality,Creative,43,46,53,7,7,Diploma in Hospitality and Tourism Management
+1350,KCSE,A,Degree,Healthcare,Friendly,89,88,95,10,10,BSc Nursing
+1351,KCSE,E,Retake/Artisan,Environmental Science,Independent,12,31,27,5,6,Artisan/Basic Skills Training in Environmental Care
+1352,KCSE,C+,Degree,Sports Science,Practical,64,58,58,6,8,Bachelor of Physical Education
+1353,CBC,C-,Diploma,Technology,Resourceful,52,51,55,4,7,Diploma in Information Communication Technology
+1354,KCSE,C,Diploma,Law,Observant,57,53,46,4,5,Diploma in Legal Studies
+1355,CBC,C-,Diploma,Hospitality,Practical,51,50,48,9,5,Diploma in Hospitality and Tourism Management
+1356,CBC,C-,Diploma,Education,Logical,44,42,43,6,8,Diploma in Early Childhood Development Education
+1357,KCSE,B+,Degree,Environmental Science,Hardworking,66,72,75,6,8,BSc Environmental Science
+1358,CBC,B+,Degree,Healthcare,Independent,66,74,78,5,6,BSc Nursing
+1359,KCSE,D-,Certificate,Healthcare,Logical,30,30,22,8,7,Certificate in Nursing (Community Health)
+1360,CBC,B-,Degree,Business,Creative,59,67,67,7,6,Bachelor of Commerce
+1361,CBC,C+,Degree,Social Sciences,Independent,48,55,55,9,6,BA Sociology
+1362,CBC,C,Diploma,Social Sciences,Detail-Oriented,49,54,48,9,5,Diploma in Social Work and Community Development
+1363,KCSE,D+,Certificate,Arts & Design,Ambitious,39,36,39,8,5,Certificate in Fine Art and Design
+1364,CBC,A,Degree,Business,Practical,77,88,96,8,9,Bachelor of Procurement and Logistics
+1365,CBC,C+,Degree,Hospitality,Empathetic,50,59,53,10,7,BSc Hospitality and Tourism Management
+1366,CBC,C,Diploma,Technology,Analytical,61,50,50,8,10,Diploma in Information Communication Technology
+1367,KCSE,B,Degree,Business,Resourceful,74,71,70,7,10,Bachelor of Commerce
+1368,KCSE,C-,Diploma,Aviation,Independent,49,42,43,9,7,Diploma in Aviation Ground Operations
+1369,CBC,C+,Degree,Arts & Design,Observant,56,61,53,7,6,Bachelor of Design
+1370,KCSE,C,Diploma,Law,Detail-Oriented,51,60,53,6,6,Diploma in Legal Studies
+1371,CBC,B-,Degree,Agriculture,Reflective,56,57,58,8,7,BSc Horticulture
+1372,CBC,C,Diploma,Aviation,Hardworking,61,58,47,8,8,Diploma in Aviation Ground Operations
+1373,KCSE,C+,Degree,Engineering,Observant,60,65,49,7,9,Bachelor of Mechanical Engineering
+1374,CBC,C,Diploma,Engineering,Creative,54,49,62,6,7,Diploma in Engineering (Electrical/Mechanical)
+1375,KCSE,B-,Degree,Agriculture,Persuasive,56,69,67,7,8,BSc Agriculture
+1376,CBC,C+,Degree,Law,Empathetic,56,52,66,5,6,Bachelor of Laws (LLB)
+1377,CBC,D+,Certificate,Environmental Science,Empathetic,44,46,43,8,10,Certificate in Environmental Studies
+1378,KCSE,B,Degree,Business,Observant,67,74,73,7,6,Bachelor of Procurement and Logistics
+1379,KCSE,C+,Degree,Sports Science,Sociable,54,59,63,4,9,Bachelor of Physical Education
+1380,KCSE,B,Degree,Technology,Empathetic,76,75,63,4,5,BSc Computer Science
+1381,KCSE,C,Diploma,Law,Persuasive,56,44,53,4,10,Diploma in Legal Studies
+1382,KCSE,D,Certificate,Business,Logical,45,39,30,4,4,Certificate in Business Management
+1383,KCSE,B,Degree,Technology,Empathetic,66,61,69,8,8,BSc Information Technology
+1384,KCSE,C-,Diploma,Technology,Observant,42,51,53,5,7,Diploma in Information Communication Technology
+1385,KCSE,C,Diploma,Hospitality,Logical,58,56,54,4,6,Diploma in Hospitality and Tourism Management
+1386,CBC,D+,Certificate,Arts & Design,Disciplined,36,45,45,6,5,Certificate in Fine Art and Design
+1387,CBC,D+,Certificate,Agriculture,Reflective,41,33,42,10,8,Certificate in Agriculture
+1388,KCSE,B-,Degree,Technology,Ambitious,60,67,69,10,10,BSc Information Technology
+1389,CBC,D+,Certificate,Healthcare,Responsible,49,47,42,4,9,Certificate in Nursing (Community Health)
+1390,KCSE,C+,Degree,Education,Observant,56,59,57,9,7,Bachelor of Education (Science)
+1391,KCSE,C+,Degree,Finance,Logical,62,59,54,8,5,BSc Actuarial Science
+1392,CBC,D+,Certificate,Sports Science,Responsible,42,48,47,9,6,Certificate in Sports Science
+1393,CBC,C+,Degree,Healthcare,Observant,63,60,66,9,6,Bachelor of Medicine and Surgery (MBChB)
+1394,KCSE,D-,Certificate,Finance,Team-Oriented,35,27,33,9,4,Certificate in Accounting
+1395,KCSE,C-,Diploma,Education,Empathetic,49,48,40,10,6,Diploma in Early Childhood Development Education
+1396,KCSE,A-,Degree,Social Sciences,Sociable,85,80,70,9,6,Bachelor of Social Work
+1397,KCSE,B-,Degree,Agriculture,Independent,57,58,61,9,8,BSc Agriculture
+1398,KCSE,D,Certificate,Healthcare,Ambitious,43,37,38,5,4,Certificate in Nursing (Community Health)
+1399,KCSE,E,Retake/Artisan,Sports Science,Observant,30,24,16,9,10,Artisan/Basic Skills Training in Sports Coaching
+1400,CBC,B,Degree,Environmental Science,Adaptable,60,65,76,9,6,BSc Environmental Science
+1401,CBC,A-,Degree,Law,Ambitious,85,77,81,9,10,Bachelor of Laws (LLB)
+1402,KCSE,D-,Certificate,Agriculture,Practical,36,28,40,6,9,Certificate in Agriculture
+1403,KCSE,B,Degree,Finance,Empathetic,70,60,73,9,8,BSc Actuarial Science
+1404,CBC,C,Diploma,Law,Sociable,48,47,52,8,7,Diploma in Legal Studies
+1405,CBC,B-,Degree,Education,Team-Oriented,62,70,63,4,7,Bachelor of Education (Science)
+1406,KCSE,D+,Certificate,Engineering,Reflective,36,36,46,6,8,Certificate in Engineering (Electrical/Mechanical)
+1407,CBC,C+,Degree,Engineering,Reflective,53,63,63,6,4,Bachelor of Civil Engineering
+1408,CBC,D-,Certificate,Technology,Reflective,27,40,40,10,7,Certificate in Information Communication Technology
+1409,CBC,D-,Certificate,Social Sciences,Persuasive,39,41,38,7,6,Certificate in Social Work and Community Development
+1410,CBC,C+,Degree,Sports Science,Innovative,56,54,63,5,7,BSc Sports Science
+1411,CBC,C,Diploma,Sports Science,Detail-Oriented,50,56,54,10,4,Diploma in Sports Science
+1412,CBC,E,Retake/Artisan,Social Sciences,Logical,22,21,16,10,9,Artisan/Basic Skills Training in Community Development
+1413,KCSE,C-,Diploma,Business,Ambitious,49,42,55,8,4,Diploma in Business Management
+1414,KCSE,E,Retake/Artisan,Aviation,Curious,24,32,27,4,10,KCSE Retake Recommended
+1415,KCSE,A-,Degree,Agriculture,Patient,85,76,81,8,6,BSc Agriculture
+1416,CBC,B-,Degree,Education,Creative,64,66,63,7,10,Bachelor of Education (Arts)
+1417,CBC,C-,Diploma,Aviation,Analytical,51,41,46,8,5,Diploma in Aviation Ground Operations
+1418,KCSE,C-,Diploma,Engineering,Sociable,42,40,41,4,8,Diploma in Engineering (Electrical/Mechanical)
+1419,CBC,A-,Degree,Aviation,Hardworking,86,76,84,10,6,Bachelor of Air Transport Operations
+1420,CBC,D,Certificate,Business,Creative,30,43,39,8,6,Certificate in Business Management
+1421,KCSE,D,Certificate,Healthcare,Observant,36,41,47,7,8,Certificate in Nursing (Community Health)
+1422,KCSE,C-,Diploma,Aviation,Patient,44,55,42,3,7,Diploma in Aviation Ground Operations
+1423,KCSE,C-,Diploma,Agriculture,Detail-Oriented,40,39,55,6,4,Diploma in Agriculture
+1424,KCSE,B,Degree,Finance,Observant,67,70,72,5,5,Bachelor of Commerce (Finance)
+1425,KCSE,D+,Certificate,Technology,Reflective,44,49,36,5,8,Certificate in Information Communication Technology
+1426,KCSE,C+,Degree,Technology,Curious,52,56,60,3,10,BSc Computer Science
+1427,CBC,D,Certificate,Agriculture,Resourceful,45,43,32,8,8,Certificate in Agriculture
+1428,CBC,B-,Degree,Technology,Persuasive,60,69,69,4,6,BSc Information Technology
+1429,CBC,A-,Degree,Finance,Analytical,72,72,84,5,9,BSc Actuarial Science
+1430,CBC,B,Degree,Environmental Science,Practical,70,63,73,9,7,BSc Environmental Science
+1431,CBC,C-,Diploma,Hospitality,Organized,51,42,47,4,8,Diploma in Hospitality and Tourism Management
+1432,CBC,C,Diploma,Environmental Science,Team-Oriented,54,52,57,9,10,Diploma in Environmental Studies
+1433,KCSE,C,Diploma,Healthcare,Observant,56,57,47,7,6,Diploma in Nursing (Community Health)
+1434,KCSE,D+,Certificate,Law,Curious,45,34,44,7,8,Certificate in Legal Studies
+1435,KCSE,B+,Degree,Technology,Innovative,67,76,80,9,9,BSc Information Technology
+1436,CBC,C+,Degree,Hospitality,Hardworking,61,61,52,8,10,BSc Hospitality and Tourism Management
+1437,KCSE,D,Certificate,Engineering,Curious,35,43,31,6,5,Certificate in Engineering (Electrical/Mechanical)
+1438,CBC,C+,Degree,Agriculture,Creative,55,63,59,8,10,BSc Horticulture
+1439,CBC,C+,Degree,Media,Resourceful,56,49,50,8,6,BA Journalism and Mass Communication
+1440,KCSE,D-,Certificate,Finance,Friendly,33,28,33,4,9,Certificate in Accounting
+1441,CBC,B,Degree,Healthcare,Hardworking,61,72,60,7,7,BSc Nursing
+1442,CBC,C+,Degree,Arts & Design,Independent,65,61,57,8,10,BA Fine Art
+1443,CBC,C,Diploma,Agriculture,Confident,52,58,44,10,6,Diploma in Agriculture
+1444,KCSE,C-,Diploma,Environmental Science,Persuasive,45,48,41,9,6,Diploma in Environmental Studies
+1445,KCSE,D+,Certificate,Healthcare,Friendly,40,46,48,10,7,Certificate in Nursing (Community Health)
+1446,KCSE,B-,Degree,Healthcare,Disciplined,62,56,70,8,8,BSc Nursing
+1447,CBC,C-,Diploma,Business,Ambitious,43,42,50,5,5,Diploma in Business Management
+1448,KCSE,D+,Certificate,Environmental Science,Friendly,51,39,41,5,5,Certificate in Environmental Studies
+1449,KCSE,D,Certificate,Social Sciences,Sociable,29,44,36,6,8,Certificate in Social Work and Community Development
+1450,CBC,D+,Certificate,Sports Science,Sociable,39,41,49,9,5,Certificate in Sports Science
+1451,CBC,D,Certificate,Engineering,Independent,36,37,40,7,10,Certificate in Engineering (Electrical/Mechanical)
+1452,CBC,C+,Degree,Business,Empathetic,52,58,52,9,8,Bachelor of Procurement and Logistics
+1453,CBC,C+,Degree,Business,Responsible,55,60,62,5,9,Bachelor of Commerce
+1454,CBC,A,Degree,Business,Persuasive,90,95,94,7,10,Bachelor of Procurement and Logistics
+1455,KCSE,C,Diploma,Engineering,Practical,59,48,55,4,7,Diploma in Engineering (Electrical/Mechanical)
+1456,CBC,C,Diploma,Engineering,Organized,57,51,47,10,9,Diploma in Engineering (Electrical/Mechanical)
+1457,KCSE,B+,Degree,Healthcare,Confident,72,75,67,9,8,BSc Nursing
+1458,CBC,C+,Degree,Education,Innovative,61,50,59,5,8,Bachelor of Education (Arts)
+1459,CBC,A,Degree,Social Sciences,Detail-Oriented,100,83,90,8,7,BA Sociology
+1460,KCSE,B,Degree,Healthcare,Innovative,71,69,73,9,10,BSc Nursing
+1461,CBC,A,Degree,Agriculture,Ambitious,98,87,92,10,5,BSc Horticulture
+1462,KCSE,B-,Degree,Healthcare,Independent,57,67,67,9,7,BSc Nursing
+1463,KCSE,C+,Degree,Sports Science,Creative,51,55,60,5,8,Bachelor of Physical Education
+1464,CBC,C,Diploma,Social Sciences,Persuasive,55,52,56,5,5,Diploma in Social Work and Community Development
+1465,CBC,B+,Degree,Engineering,Sociable,79,67,77,8,9,Bachelor of Civil Engineering
+1466,KCSE,C-,Diploma,Business,Persuasive,40,39,53,7,7,Diploma in Business Management
+1467,CBC,B,Degree,Social Sciences,Organized,73,64,57,4,6,Bachelor of Social Work
+1468,KCSE,C,Diploma,Sports Science,Observant,55,44,56,9,6,Diploma in Sports Science
+1469,CBC,C,Diploma,Social Sciences,Responsible,49,47,58,5,8,Diploma in Social Work and Community Development
+1470,KCSE,B+,Degree,Sports Science,Sociable,74,70,72,10,9,Bachelor of Physical Education
+1471,KCSE,C-,Diploma,Business,Reflective,47,52,55,5,8,Diploma in Business Management
+1472,CBC,B,Degree,Arts & Design,Persuasive,68,63,68,4,5,BA Fine Art
+1473,KCSE,C,Diploma,Arts & Design,Observant,58,50,53,5,6,Diploma in Fine Art and Design
+1474,CBC,C,Diploma,Aviation,Responsible,56,50,54,9,4,Diploma in Aviation Ground Operations
+1475,KCSE,B,Degree,Social Sciences,Practical,71,65,61,7,10,Bachelor of Social Work
+1476,CBC,B-,Degree,Technology,Resourceful,57,64,58,7,6,BSc Computer Science
+1477,KCSE,A-,Degree,Social Sciences,Curious,70,82,81,7,4,BA Sociology
+1478,CBC,B+,Degree,Healthcare,Patient,76,79,72,8,6,BSc Nursing
+1479,KCSE,B,Degree,Media,Team-Oriented,64,76,65,6,9,BA Journalism and Mass Communication
+1480,CBC,D,Certificate,Aviation,Observant,32,33,39,10,8,Certificate in Aviation Ground Operations
+1481,KCSE,B+,Degree,Aviation,Responsible,66,77,75,5,4,BSc Aviation Management
+1482,KCSE,B+,Degree,Agriculture,Analytical,73,79,72,10,7,BSc Agriculture
+1483,KCSE,A-,Degree,Media,Observant,74,81,74,7,7,BA Journalism and Mass Communication
+1484,KCSE,D+,Certificate,Media,Patient,39,35,36,6,6,Certificate in Mass Communication
+1485,KCSE,B,Degree,Technology,Resourceful,76,69,68,4,8,BSc Information Technology
+1486,CBC,B+,Degree,Engineering,Detail-Oriented,74,76,68,5,5,Bachelor of Civil Engineering
+1487,CBC,C,Diploma,Education,Persuasive,60,59,53,7,6,Diploma in Early Childhood Development Education
+1488,CBC,B-,Degree,Media,Disciplined,59,58,70,9,6,BA Journalism and Mass Communication
+1489,CBC,C-,Diploma,Hospitality,Organized,53,51,49,9,5,Diploma in Hospitality and Tourism Management
+1490,CBC,B-,Degree,Sports Science,Independent,61,65,57,4,6,Bachelor of Physical Education
+1491,CBC,B+,Degree,Environmental Science,Patient,77,76,78,5,5,BSc Environmental Science
+1492,CBC,D-,Certificate,Business,Creative,27,25,38,7,5,Certificate in Business Management
+1493,CBC,C-,Diploma,Agriculture,Detail-Oriented,48,42,39,5,6,Diploma in Agriculture
+1494,KCSE,C+,Degree,Business,Reflective,59,53,56,4,4,Bachelor of Commerce
+1495,CBC,D+,Certificate,Arts & Design,Responsible,44,37,44,9,10,Certificate in Fine Art and Design
+1496,KCSE,D,Certificate,Sports Science,Resourceful,45,34,32,6,6,Certificate in Sports Science
+1497,CBC,A-,Degree,Technology,Patient,71,73,72,9,5,BSc Information Technology
+1498,CBC,B-,Degree,Media,Patient,55,60,62,8,9,BA Journalism and Mass Communication
+1499,KCSE,C-,Diploma,Technology,Observant,56,51,50,5,9,Diploma in Information Communication Technology
+1500,KCSE,B+,Degree,Aviation,Disciplined,73,71,63,5,6,Bachelor of Air Transport Operations
+1501,CBC,B,Degree,Technology,Practical,67,68,66,6,10,BSc Information Technology
+1502,KCSE,B,Degree,Law,Curious,63,60,74,5,10,Bachelor of Laws (LLB)
+1503,KCSE,A,Degree,Education,Independent,82,96,87,10,5,Bachelor of Education (Arts)
+1504,CBC,B+,Degree,Hospitality,Hardworking,76,75,73,5,4,BSc Hospitality and Tourism Management
+1505,CBC,D,Certificate,Arts & Design,Team-Oriented,28,43,31,7,7,Certificate in Fine Art and Design
+1506,KCSE,D+,Certificate,Healthcare,Adaptable,50,37,38,6,10,Certificate in Nursing (Community Health)
+1507,CBC,D,Certificate,Aviation,Observant,41,42,41,6,5,Certificate in Aviation Ground Operations
+1508,KCSE,C,Diploma,Sports Science,Innovative,48,53,48,8,8,Diploma in Sports Science
+1509,KCSE,C+,Degree,Business,Curious,49,63,55,7,8,Bachelor of Procurement and Logistics
+1510,KCSE,C-,Diploma,Engineering,Team-Oriented,41,54,42,4,10,Diploma in Engineering (Electrical/Mechanical)
+1511,KCSE,C,Diploma,Engineering,Sociable,54,58,55,10,10,Diploma in Engineering (Electrical/Mechanical)
+1512,CBC,D+,Certificate,Education,Sociable,42,35,48,8,8,Certificate in Early Childhood Development Education
+1513,KCSE,C,Diploma,Finance,Organized,45,50,47,7,5,Diploma in Accounting
+1514,KCSE,D+,Certificate,Business,Organized,40,46,45,9,5,Certificate in Business Management
+1515,KCSE,C-,Diploma,Environmental Science,Observant,44,43,54,6,9,Diploma in Environmental Studies
+1516,CBC,C+,Degree,Technology,Innovative,62,53,62,8,4,BSc Information Technology
+1517,CBC,B,Degree,Finance,Innovative,74,69,73,8,6,BSc Actuarial Science
+1518,CBC,B-,Degree,Sports Science,Team-Oriented,67,58,59,10,6,BSc Sports Science
+1519,KCSE,B+,Degree,Technology,Ambitious,75,72,68,9,10,BSc Computer Science
+1520,KCSE,B,Degree,Hospitality,Detail-Oriented,69,63,69,9,8,BSc Travel and Tourism Management
+1521,CBC,D+,Certificate,Aviation,Practical,38,37,44,7,4,Certificate in Aviation Ground Operations
+1522,KCSE,C-,Diploma,Aviation,Observant,41,47,52,4,9,Diploma in Aviation Ground Operations
+1523,KCSE,B,Degree,Healthcare,Practical,66,69,72,7,9,BSc Nursing
+1524,CBC,C,Diploma,Education,Analytical,52,48,50,10,9,Diploma in Early Childhood Development Education
+1525,CBC,A,Degree,Business,Resourceful,100,92,94,9,10,Bachelor of Procurement and Logistics
+1526,CBC,C,Diploma,Arts & Design,Responsible,57,49,47,5,8,Diploma in Fine Art and Design
+1527,KCSE,D,Certificate,Business,Empathetic,28,30,32,5,10,Certificate in Business Management
+1528,KCSE,C-,Diploma,Healthcare,Team-Oriented,48,47,55,5,8,Diploma in Nursing (Community Health)
+1529,KCSE,C,Diploma,Healthcare,Reflective,45,52,53,5,3,Diploma in Nursing (Community Health)
+1530,KCSE,B-,Degree,Environmental Science,Practical,57,68,62,6,5,BSc Environmental Science
+1531,KCSE,D+,Certificate,Law,Sociable,38,50,45,8,7,Certificate in Legal Studies
+1532,CBC,A-,Degree,Law,Sociable,82,85,73,7,10,Bachelor of Laws (LLB)
+1533,KCSE,C,Diploma,Engineering,Team-Oriented,56,54,61,10,9,Diploma in Engineering (Electrical/Mechanical)
+1534,CBC,B,Degree,Healthcare,Persuasive,64,60,60,7,4,BSc Nursing
+1535,KCSE,C-,Diploma,Healthcare,Disciplined,47,46,50,8,4,Diploma in Nursing (Community Health)
+1536,KCSE,B-,Degree,Media,Team-Oriented,55,64,68,5,8,BA Journalism and Mass Communication
+1537,CBC,C+,Degree,Engineering,Empathetic,57,55,57,4,10,Bachelor of Civil Engineering
+1538,KCSE,C,Diploma,Law,Sociable,54,54,59,4,6,Diploma in Legal Studies
+1539,CBC,C-,Diploma,Law,Responsible,50,52,45,6,7,Diploma in Legal Studies
+1540,KCSE,B-,Degree,Hospitality,Innovative,65,59,55,9,4,BSc Hospitality and Tourism Management
+1541,KCSE,C,Diploma,Social Sciences,Hardworking,53,47,54,7,7,Diploma in Social Work and Community Development
+1542,CBC,C-,Diploma,Education,Disciplined,44,48,46,4,7,Diploma in Early Childhood Development Education
+1543,CBC,D+,Certificate,Healthcare,Independent,38,49,40,7,9,Certificate in Nursing (Community Health)
+1544,CBC,E,Retake/Artisan,Social Sciences,Resourceful,19,24,20,10,10,KCSE Retake Recommended
+1545,KCSE,D-,Certificate,Arts & Design,Creative,25,30,33,4,9,Certificate in Fine Art and Design
+1546,CBC,B-,Degree,Agriculture,Logical,56,63,68,9,6,BSc Horticulture
+1547,KCSE,C,Diploma,Hospitality,Hardworking,49,61,51,9,4,Diploma in Hospitality and Tourism Management
+1548,KCSE,C-,Diploma,Technology,Analytical,49,52,48,9,8,Diploma in Information Communication Technology
+1549,CBC,A,Degree,Media,Friendly,78,96,100,10,7,BA Journalism and Mass Communication
+1550,CBC,C,Diploma,Sports Science,Reflective,56,47,58,4,8,Diploma in Sports Science
+1551,KCSE,C+,Degree,Technology,Persuasive,53,55,64,6,5,BSc Information Technology
+1552,CBC,D,Certificate,Arts & Design,Confident,43,41,33,6,8,Certificate in Fine Art and Design
+1553,CBC,B+,Degree,Social Sciences,Practical,76,63,78,8,5,BA Sociology
+1554,CBC,B,Degree,Finance,Responsible,63,66,65,5,9,BSc Actuarial Science
+1555,CBC,C,Diploma,Technology,Team-Oriented,61,55,46,9,10,Diploma in Information Communication Technology
+1556,KCSE,A,Degree,Media,Curious,100,91,93,10,9,BA Film and Media Studies
+1557,CBC,D-,Certificate,Business,Independent,34,28,29,8,7,Certificate in Business Management
+1558,CBC,B,Degree,Business,Disciplined,63,62,66,7,8,Bachelor of Procurement and Logistics
+1559,CBC,A-,Degree,Sports Science,Creative,79,78,75,5,5,Bachelor of Physical Education
+1560,CBC,C,Diploma,Social Sciences,Curious,57,59,57,9,4,Diploma in Social Work and Community Development
+1561,CBC,B-,Degree,Engineering,Innovative,68,58,63,5,4,Bachelor of Civil Engineering
+1562,KCSE,C+,Degree,Environmental Science,Patient,58,66,49,7,7,BSc Environmental Science
+1563,KCSE,D+,Certificate,Agriculture,Practical,42,45,39,4,5,Certificate in Agriculture
+1564,CBC,C-,Diploma,Agriculture,Disciplined,43,51,41,7,9,Diploma in Agriculture
+1565,CBC,C+,Degree,Engineering,Friendly,54,55,65,8,6,Bachelor of Civil Engineering
+1566,KCSE,D-,Certificate,Engineering,Responsible,32,29,29,10,4,Certificate in Engineering (Electrical/Mechanical)
+1567,KCSE,C,Diploma,Environmental Science,Creative,51,52,53,5,10,Diploma in Environmental Studies
+1568,KCSE,B,Degree,Law,Hardworking,67,63,63,10,9,Bachelor of Laws (LLB)
+1569,CBC,C,Diploma,Hospitality,Confident,53,59,51,8,6,Diploma in Hospitality and Tourism Management
+1570,KCSE,D,Certificate,Arts & Design,Resourceful,30,38,40,10,9,Certificate in Fine Art and Design
+1571,CBC,D+,Certificate,Law,Observant,42,50,49,9,7,Certificate in Legal Studies
+1572,KCSE,D,Certificate,Social Sciences,Innovative,33,43,35,7,4,Certificate in Social Work and Community Development
+1573,KCSE,B,Degree,Engineering,Logical,71,62,61,10,7,Bachelor of Civil Engineering
+1574,CBC,A-,Degree,Hospitality,Analytical,71,81,84,7,9,BSc Hospitality and Tourism Management
+1575,KCSE,C+,Degree,Agriculture,Detail-Oriented,61,60,61,4,9,BSc Agriculture
+1576,KCSE,C-,Diploma,Social Sciences,Reflective,51,51,49,4,9,Diploma in Social Work and Community Development
+1577,KCSE,C,Diploma,Technology,Persuasive,54,61,54,6,4,Diploma in Information Communication Technology
+1578,KCSE,A-,Degree,Environmental Science,Logical,77,75,72,4,4,BSc Environmental Science
+1579,KCSE,C-,Diploma,Media,Empathetic,56,49,50,4,6,Diploma in Mass Communication
+1580,CBC,C-,Diploma,Hospitality,Persuasive,42,51,48,10,10,Diploma in Hospitality and Tourism Management
+1581,CBC,B+,Degree,Finance,Disciplined,73,79,71,5,6,Bachelor of Commerce (Finance)
+1582,CBC,B+,Degree,Engineering,Responsible,76,78,73,5,4,Bachelor of Civil Engineering
+1583,CBC,C,Diploma,Social Sciences,Ambitious,44,50,50,5,4,Diploma in Social Work and Community Development
+1584,KCSE,C-,Diploma,Technology,Organized,51,46,46,10,8,Diploma in Information Communication Technology
+1585,CBC,C+,Degree,Technology,Confident,51,58,63,3,4,BSc Information Technology
+1586,KCSE,B,Degree,Sports Science,Logical,65,62,70,5,6,Bachelor of Physical Education
+1587,CBC,D,Certificate,Hospitality,Creative,35,44,39,10,10,Certificate in Hospitality and Tourism Management
+1588,CBC,B,Degree,Hospitality,Logical,63,74,69,9,9,BSc Hospitality and Tourism Management
+1589,CBC,B+,Degree,Healthcare,Adaptable,66,71,73,4,4,BSc Nursing
+1590,CBC,D+,Certificate,Social Sciences,Reflective,36,37,42,4,7,Certificate in Social Work and Community Development
+1591,CBC,C+,Degree,Law,Persuasive,53,56,51,5,3,Bachelor of Laws (LLB)
+1592,KCSE,C,Diploma,Agriculture,Patient,54,44,51,6,9,Diploma in Agriculture
+1593,KCSE,D,Certificate,Aviation,Practical,34,28,37,4,5,Certificate in Aviation Ground Operations
+1594,KCSE,A-,Degree,Environmental Science,Sociable,78,71,72,10,5,BSc Environmental Science
+1595,CBC,A-,Degree,Environmental Science,Hardworking,84,73,83,4,9,BSc Environmental Science
+1596,CBC,B+,Degree,Education,Resourceful,67,79,78,5,3,Bachelor of Education (Arts)
+1597,KCSE,C,Diploma,Business,Independent,51,45,52,4,6,Diploma in Business Management
+1598,KCSE,C+,Degree,Law,Responsible,59,62,51,6,9,Bachelor of Laws (LLB)
+1599,CBC,D+,Certificate,Environmental Science,Curious,38,42,38,7,6,Certificate in Environmental Studies
+1600,KCSE,B+,Degree,Business,Detail-Oriented,75,75,70,5,9,Bachelor of Commerce
+1601,KCSE,C+,Degree,Healthcare,Organized,61,61,50,6,4,BSc Nursing
+1602,CBC,A,Degree,Agriculture,Sociable,99,100,77,10,10,BSc Agriculture
+1603,CBC,D+,Certificate,Education,Friendly,34,49,40,9,10,Certificate in Early Childhood Development Education
+1604,KCSE,B-,Degree,Aviation,Responsible,58,62,57,9,10,Bachelor of Air Transport Operations
+1605,CBC,C,Diploma,Environmental Science,Adaptable,53,53,46,8,6,Diploma in Environmental Studies
+1606,KCSE,B,Degree,Finance,Independent,65,72,73,4,10,BSc Actuarial Science
+1607,CBC,B-,Degree,Healthcare,Responsible,54,56,64,10,4,BSc Nursing
+1608,CBC,C,Diploma,Social Sciences,Sociable,53,51,51,10,10,Diploma in Social Work and Community Development
+1609,KCSE,C+,Degree,Finance,Responsible,66,53,49,9,6,BSc Actuarial Science
+1610,KCSE,C,Diploma,Hospitality,Organized,52,54,47,4,7,Diploma in Hospitality and Tourism Management
+1611,KCSE,C+,Degree,Arts & Design,Patient,66,52,56,10,7,BA Fine Art
+1612,CBC,B,Degree,Agriculture,Innovative,61,63,64,8,8,BSc Agriculture
+1613,KCSE,B+,Degree,Agriculture,Detail-Oriented,65,64,70,5,5,BSc Agriculture
+1614,CBC,E,Retake/Artisan,Engineering,Resourceful,9,23,34,5,5,Artisan/Basic Skills Training in Electrical Installation
+1615,KCSE,A,Degree,Media,Resourceful,96,90,96,10,9,BA Journalism and Mass Communication
+1616,CBC,D,Certificate,Environmental Science,Sociable,36,41,44,10,10,Certificate in Environmental Studies
+1617,CBC,C+,Degree,Media,Persuasive,48,63,54,5,6,BA Journalism and Mass Communication
+1618,KCSE,C-,Diploma,Finance,Empathetic,49,39,50,8,6,Diploma in Accounting
+1619,CBC,C-,Diploma,Business,Analytical,42,41,44,5,6,Diploma in Business Management
+1620,CBC,C+,Degree,Hospitality,Hardworking,54,55,56,8,4,BSc Hospitality and Tourism Management
+1621,KCSE,B-,Degree,Social Sciences,Curious,63,60,66,7,8,BA Sociology
+1622,KCSE,D-,Certificate,Sports Science,Responsible,31,25,28,4,5,Certificate in Sports Science
+1623,KCSE,C,Diploma,Media,Friendly,58,51,43,8,10,Diploma in Mass Communication
+1624,CBC,D,Certificate,Healthcare,Observant,34,30,35,7,5,Certificate in Nursing (Community Health)
+1625,KCSE,B+,Degree,Technology,Adaptable,68,70,64,5,4,BSc Information Technology
+1626,KCSE,A,Degree,Engineering,Curious,99,85,74,10,10,Bachelor of Civil Engineering
+1627,CBC,B-,Degree,Environmental Science,Independent,59,68,70,5,6,BSc Environmental Science
+1628,CBC,D-,Certificate,Aviation,Practical,41,27,31,10,4,Certificate in Aviation Ground Operations
+1629,KCSE,B-,Degree,Agriculture,Team-Oriented,68,71,67,5,6,BSc Agriculture
+1630,CBC,B+,Degree,Law,Practical,68,73,76,5,7,Bachelor of Laws (LLB)
+1631,CBC,C+,Degree,Environmental Science,Responsible,66,65,55,4,10,BSc Environmental Science
+1632,CBC,D+,Certificate,Arts & Design,Observant,47,43,47,8,7,Certificate in Fine Art and Design
+1633,KCSE,B,Degree,Technology,Independent,63,67,64,4,5,BSc Information Technology
+1634,CBC,D+,Certificate,Technology,Friendly,49,44,38,6,8,Certificate in Information Communication Technology
+1635,CBC,C,Diploma,Business,Confident,56,48,58,8,4,Diploma in Business Management
+1636,CBC,B+,Degree,Social Sciences,Patient,65,67,72,6,6,BA Sociology
+1637,KCSE,C-,Diploma,Environmental Science,Empathetic,44,49,47,9,4,Diploma in Environmental Studies
+1638,KCSE,D+,Certificate,Business,Empathetic,47,44,46,5,9,Certificate in Business Management
+1639,KCSE,C-,Diploma,Education,Hardworking,48,52,41,9,10,Diploma in Early Childhood Development Education
+1640,KCSE,A-,Degree,Engineering,Practical,78,75,80,10,4,Bachelor of Civil Engineering
+1641,KCSE,D+,Certificate,Technology,Patient,48,39,43,4,9,Certificate in Information Communication Technology
+1642,KCSE,A-,Degree,Sports Science,Ambitious,84,83,80,10,10,Bachelor of Physical Education
+1643,CBC,B+,Degree,Arts & Design,Ambitious,72,80,66,10,6,BA Fine Art
+1644,KCSE,C,Diploma,Technology,Team-Oriented,55,58,44,4,7,Diploma in Information Communication Technology
+1645,CBC,C-,Diploma,Healthcare,Independent,38,42,55,4,10,Diploma in Nursing (Community Health)
+1646,CBC,B,Degree,Social Sciences,Organized,67,61,69,4,10,BA Sociology
+1647,KCSE,C-,Diploma,Aviation,Reflective,46,52,39,8,8,Diploma in Aviation Ground Operations
+1648,KCSE,B,Degree,Engineering,Responsible,63,67,73,8,9,Bachelor of Civil Engineering
+1649,CBC,B-,Degree,Education,Responsible,55,66,60,8,5,Bachelor of Education (Arts)
+1650,KCSE,C-,Diploma,Healthcare,Detail-Oriented,39,43,39,7,3,Diploma in Nursing (Community Health)
+1651,CBC,B-,Degree,Sports Science,Practical,57,57,58,4,7,Bachelor of Physical Education
+1652,KCSE,C+,Degree,Technology,Analytical,50,62,48,9,4,BSc Computer Science
+1653,KCSE,B-,Degree,Media,Team-Oriented,67,71,61,9,5,BA Journalism and Mass Communication
+1654,KCSE,D+,Certificate,Education,Observant,32,34,50,6,9,Certificate in Early Childhood Development Education
+1655,CBC,C+,Degree,Arts & Design,Organized,52,60,52,7,4,BA Fine Art
+1656,CBC,D,Certificate,Social Sciences,Organized,37,38,33,4,9,Certificate in Social Work and Community Development
+1657,CBC,A-,Degree,Business,Persuasive,70,73,84,6,5,Bachelor of Commerce
+1658,KCSE,C+,Degree,Agriculture,Empathetic,49,61,55,9,9,BSc Horticulture
+1659,KCSE,C,Diploma,Finance,Disciplined,48,49,43,5,6,Diploma in Accounting
+1660,CBC,D+,Certificate,Environmental Science,Adaptable,41,35,45,8,6,Certificate in Environmental Studies
+1661,KCSE,D+,Certificate,Law,Logical,51,41,40,10,8,Certificate in Legal Studies
+1662,KCSE,C+,Degree,Arts & Design,Sociable,53,65,55,4,8,BA Fine Art
+1663,CBC,D+,Certificate,Environmental Science,Logical,45,44,36,10,7,Certificate in Environmental Studies
+1664,KCSE,C,Diploma,Business,Creative,57,49,44,7,9,Diploma in Business Management
+1665,CBC,C+,Degree,Environmental Science,Empathetic,56,57,48,5,8,BSc Environmental Science
+1666,KCSE,C+,Degree,Environmental Science,Team-Oriented,63,54,55,4,8,BSc Natural Resource Management
+1667,CBC,B,Degree,Business,Practical,73,62,63,8,5,Bachelor of Procurement and Logistics
+1668,KCSE,B+,Degree,Healthcare,Empathetic,79,72,80,4,5,BSc Nursing
+1669,CBC,B+,Degree,Healthcare,Friendly,72,68,79,9,10,BSc Nursing
+1670,KCSE,B,Degree,Business,Analytical,73,77,60,10,10,Bachelor of Commerce
+1671,CBC,C,Diploma,Finance,Empathetic,51,53,58,10,9,Diploma in Accounting
+1672,KCSE,C+,Degree,Finance,Creative,62,55,51,9,5,BSc Actuarial Science
+1673,KCSE,B-,Degree,Arts & Design,Organized,63,67,58,7,7,BA Fine Art
+1674,CBC,A-,Degree,Social Sciences,Detail-Oriented,71,80,79,4,8,BA Sociology
+1675,KCSE,C,Diploma,Finance,Sociable,55,56,52,9,5,Diploma in Accounting
+1676,CBC,A-,Degree,Technology,Curious,82,79,78,5,8,BSc Information Technology
+1677,CBC,D-,Certificate,Education,Hardworking,34,34,33,6,3,Certificate in Early Childhood Development Education
+1678,CBC,C+,Degree,Social Sciences,Independent,51,47,52,10,9,BA Sociology
+1679,KCSE,A-,Degree,Social Sciences,Empathetic,83,85,68,5,7,BA Sociology
+1680,KCSE,C,Diploma,Sports Science,Practical,46,43,48,4,9,Diploma in Sports Science
+1681,KCSE,B-,Degree,Healthcare,Hardworking,59,59,69,5,6,BSc Nursing
+1682,KCSE,C-,Diploma,Hospitality,Patient,44,45,53,8,4,Diploma in Hospitality and Tourism Management
+1683,KCSE,B-,Degree,Healthcare,Curious,68,56,56,9,9,BSc Nursing
+1684,KCSE,B-,Degree,Technology,Organized,68,55,63,5,4,BSc Information Technology
+1685,CBC,C+,Degree,Aviation,Empathetic,64,64,50,6,4,Bachelor of Air Transport Operations
+1686,CBC,B+,Degree,Engineering,Reflective,79,70,74,7,10,Bachelor of Civil Engineering
+1687,KCSE,C+,Degree,Environmental Science,Analytical,57,61,56,5,9,BSc Environmental Science
+1688,KCSE,B-,Degree,Education,Creative,64,63,61,6,5,Bachelor of Education (Arts)
+1689,KCSE,C-,Diploma,Hospitality,Ambitious,41,49,53,7,4,Diploma in Hospitality and Tourism Management
+1690,KCSE,C,Diploma,Agriculture,Sociable,59,44,56,5,9,Diploma in Agriculture
+1691,KCSE,C-,Diploma,Hospitality,Practical,55,47,46,8,9,Diploma in Hospitality and Tourism Management
+1692,KCSE,D-,Certificate,Social Sciences,Practical,40,25,41,5,7,Certificate in Social Work and Community Development
+1693,CBC,C,Diploma,Education,Creative,51,57,53,9,7,Diploma in Early Childhood Development Education
+1694,CBC,C-,Diploma,Business,Responsible,40,45,47,5,6,Diploma in Business Management
+1695,CBC,D+,Certificate,Environmental Science,Confident,42,35,38,9,7,Certificate in Environmental Studies
+1696,CBC,C-,Diploma,Business,Friendly,48,50,51,4,10,Diploma in Business Management
+1697,CBC,B,Degree,Healthcare,Friendly,62,57,66,5,8,Bachelor of Medicine and Surgery (MBChB)
+1698,CBC,B+,Degree,Technology,Innovative,80,66,71,5,7,BSc Information Technology
+1699,KCSE,C,Diploma,Environmental Science,Persuasive,45,54,55,7,5,Diploma in Environmental Studies
+1700,CBC,B-,Degree,Healthcare,Empathetic,59,67,54,7,7,Bachelor of Medicine and Surgery (MBChB)
+1701,CBC,B-,Degree,Media,Organized,68,56,70,6,5,BA Film and Media Studies
+1702,CBC,C-,Diploma,Technology,Analytical,43,42,51,8,9,Diploma in Information Communication Technology
+1703,KCSE,B,Degree,Social Sciences,Independent,68,64,75,5,10,BA Sociology
+1704,CBC,B+,Degree,Education,Friendly,74,71,71,6,10,Bachelor of Education (Arts)
+1705,KCSE,C+,Degree,Social Sciences,Innovative,52,64,63,7,9,BA Sociology
+1706,CBC,C+,Degree,Technology,Empathetic,58,52,51,10,5,BSc Information Technology
+1707,CBC,C+,Degree,Social Sciences,Innovative,55,53,63,7,6,BA Sociology
+1708,KCSE,C+,Degree,Business,Confident,63,52,53,7,4,Bachelor of Commerce
+1709,KCSE,C+,Degree,Law,Independent,54,65,52,7,6,Bachelor of Laws (LLB)
+1710,CBC,C+,Degree,Business,Empathetic,53,58,60,7,5,Bachelor of Commerce
+1711,CBC,A-,Degree,Technology,Friendly,79,70,76,10,5,BSc Information Technology
+1712,CBC,C+,Degree,Environmental Science,Responsible,59,66,55,10,9,BSc Environmental Science
+1713,CBC,C,Diploma,Social Sciences,Persuasive,58,58,48,8,7,Diploma in Social Work and Community Development
+1714,KCSE,C-,Diploma,Technology,Curious,54,51,45,6,8,Diploma in Information Communication Technology
+1715,KCSE,A,Degree,Agriculture,Independent,93,79,93,10,9,BSc Agriculture
+1716,CBC,B,Degree,Finance,Ambitious,62,68,75,7,4,BSc Actuarial Science
+1717,CBC,B,Degree,Sports Science,Team-Oriented,71,70,67,8,6,BSc Sports Science
+1718,CBC,C+,Degree,Aviation,Hardworking,51,52,54,9,8,Bachelor of Air Transport Operations
+1719,KCSE,D-,Certificate,Environmental Science,Detail-Oriented,35,39,34,4,4,Certificate in Environmental Studies
+1720,CBC,A-,Degree,Social Sciences,Sociable,79,80,73,5,4,BA Sociology
+1721,KCSE,C+,Degree,Hospitality,Disciplined,51,61,62,7,8,BSc Hospitality and Tourism Management
+1722,KCSE,C+,Degree,Media,Sociable,62,61,56,10,3,BA Journalism and Mass Communication
+1723,CBC,D+,Certificate,Hospitality,Innovative,42,36,43,10,5,Certificate in Hospitality and Tourism Management
+1724,KCSE,C,Diploma,Agriculture,Friendly,55,47,52,10,7,Diploma in Agriculture
+1725,KCSE,C,Diploma,Hospitality,Detail-Oriented,52,46,47,10,5,Diploma in Hospitality and Tourism Management
+1726,KCSE,C,Diploma,Social Sciences,Creative,57,58,54,4,7,Diploma in Social Work and Community Development
+1727,CBC,C+,Degree,Aviation,Innovative,60,59,61,10,4,BSc Aviation Management
+1728,CBC,C,Diploma,Sports Science,Resourceful,56,56,42,10,9,Diploma in Sports Science
+1729,KCSE,C+,Degree,Media,Ambitious,55,48,50,8,9,BA Journalism and Mass Communication
+1730,CBC,C+,Degree,Business,Logical,63,60,63,9,6,Bachelor of Commerce
+1731,KCSE,C,Diploma,Finance,Curious,55,61,53,8,4,Diploma in Accounting
+1732,CBC,C,Diploma,Sports Science,Resourceful,56,52,55,6,4,Diploma in Sports Science
+1733,KCSE,C,Diploma,Engineering,Hardworking,43,48,49,10,5,Diploma in Engineering (Electrical/Mechanical)
+1734,CBC,B,Degree,Aviation,Ambitious,62,72,75,4,3,Bachelor of Air Transport Operations
+1735,KCSE,D+,Certificate,Education,Practical,41,34,47,10,7,Certificate in Early Childhood Development Education
+1736,CBC,A,Degree,Hospitality,Adaptable,93,89,91,5,10,BSc Hospitality and Tourism Management
+1737,CBC,B,Degree,Business,Sociable,64,70,70,8,9,Bachelor of Commerce
+1738,CBC,C-,Diploma,Aviation,Analytical,55,45,49,4,6,Diploma in Aviation Ground Operations
+1739,KCSE,E,Retake/Artisan,Law,Confident,22,29,24,5,7,Artisan/Basic Skills Training in Paralegal Studies
+1740,CBC,C,Diploma,Education,Resourceful,48,56,60,8,5,Diploma in Early Childhood Development Education
+1741,CBC,A-,Degree,Business,Hardworking,72,80,74,6,10,Bachelor of Commerce
+1742,KCSE,C,Diploma,Engineering,Confident,59,61,47,10,8,Diploma in Engineering (Electrical/Mechanical)
+1743,KCSE,C,Diploma,Agriculture,Observant,59,52,52,5,10,Diploma in Agriculture
+1744,KCSE,A,Degree,Engineering,Innovative,83,100,100,6,6,Bachelor of Mechanical Engineering
+1745,KCSE,C-,Diploma,Business,Curious,39,45,53,8,10,Diploma in Business Management
+1746,KCSE,D+,Certificate,Social Sciences,Friendly,46,49,44,5,4,Certificate in Social Work and Community Development
+1747,CBC,C+,Degree,Agriculture,Curious,64,49,56,6,8,BSc Agriculture
+1748,KCSE,B+,Degree,Education,Analytical,79,65,68,5,7,Bachelor of Education (Arts)
+1749,CBC,E,Retake/Artisan,Hospitality,Organized,20,26,29,10,10,KCSE Retake Recommended
+1750,CBC,C,Diploma,Media,Observant,43,50,45,8,6,Diploma in Mass Communication
+1751,CBC,C+,Degree,Finance,Curious,60,65,62,6,9,BSc Actuarial Science
+1752,KCSE,C+,Degree,Environmental Science,Practical,64,57,63,4,4,BSc Natural Resource Management
+1753,KCSE,C+,Degree,Healthcare,Team-Oriented,57,49,60,10,4,BSc Nursing
+1754,KCSE,D+,Certificate,Hospitality,Patient,37,37,48,9,6,Certificate in Hospitality and Tourism Management
+1755,KCSE,B-,Degree,Social Sciences,Innovative,54,64,68,6,4,BA Sociology
+1756,CBC,C-,Diploma,Media,Detail-Oriented,49,45,52,7,9,Diploma in Mass Communication
+1757,KCSE,B+,Degree,Aviation,Practical,75,68,67,8,4,Bachelor of Air Transport Operations
+1758,CBC,C+,Degree,Agriculture,Observant,62,55,55,8,8,BSc Agriculture
+1759,KCSE,B-,Degree,Sports Science,Responsible,60,55,56,9,3,BSc Sports Science
+1760,CBC,B-,Degree,Healthcare,Observant,53,65,64,5,9,BSc Nursing
+1761,CBC,C-,Diploma,Media,Practical,52,45,49,6,10,Diploma in Mass Communication
+1762,KCSE,D-,Certificate,Aviation,Adaptable,24,26,26,10,5,Certificate in Aviation Ground Operations
+1763,KCSE,C-,Diploma,Arts & Design,Patient,45,42,50,7,5,Diploma in Fine Art and Design
+1764,KCSE,C+,Degree,Social Sciences,Independent,57,60,52,5,10,BA Sociology
+1765,KCSE,B+,Degree,Law,Reflective,75,80,66,9,4,Bachelor of Laws (LLB)
+1766,KCSE,B-,Degree,Agriculture,Observant,59,55,57,4,8,BSc Agriculture
+1767,CBC,A-,Degree,Social Sciences,Disciplined,72,71,81,7,10,BA Sociology
+1768,CBC,C-,Diploma,Finance,Reflective,52,51,42,8,5,Diploma in Accounting
+1769,CBC,C-,Diploma,Media,Reflective,47,42,52,7,6,Diploma in Mass Communication
+1770,CBC,B+,Degree,Business,Persuasive,75,64,63,9,4,Bachelor of Commerce
+1771,KCSE,B-,Degree,Agriculture,Team-Oriented,70,67,55,10,4,BSc Agriculture
+1772,CBC,A-,Degree,Engineering,Independent,76,76,80,6,9,Bachelor of Civil Engineering
+1773,KCSE,C,Diploma,Technology,Patient,54,47,55,4,4,Diploma in Information Communication Technology
+1774,KCSE,B-,Degree,Social Sciences,Adaptable,64,61,65,9,10,BA Sociology
+1775,CBC,A-,Degree,Technology,Curious,78,86,81,5,5,BSc Information Technology
+1776,CBC,A-,Degree,Environmental Science,Observant,75,73,71,4,7,BSc Environmental Science
+1777,CBC,B-,Degree,Law,Patient,67,58,58,5,9,Bachelor of Laws (LLB)
+1778,CBC,B+,Degree,Hospitality,Team-Oriented,73,67,67,6,4,BSc Hospitality and Tourism Management
+1779,KCSE,A-,Degree,Education,Adaptable,73,83,70,9,4,Bachelor of Education (Arts)
+1780,KCSE,B-,Degree,Agriculture,Patient,56,65,63,9,6,BSc Agriculture
+1781,CBC,B-,Degree,Hospitality,Creative,56,57,59,7,4,BSc Hospitality and Tourism Management
+1782,CBC,D-,Certificate,Engineering,Organized,30,40,29,7,7,Certificate in Engineering (Electrical/Mechanical)
+1783,CBC,A-,Degree,Media,Reflective,84,72,82,7,5,BA Journalism and Mass Communication
+1784,CBC,C-,Diploma,Education,Ambitious,47,39,41,5,5,Diploma in Early Childhood Development Education
+1785,CBC,C-,Diploma,Social Sciences,Reflective,42,53,40,4,6,Diploma in Social Work and Community Development
+1786,KCSE,B,Degree,Arts & Design,Curious,69,71,67,9,5,BA Fine Art
+1787,KCSE,B,Degree,Agriculture,Persuasive,73,75,69,8,5,BSc Agriculture
+1788,KCSE,C+,Degree,Hospitality,Sociable,59,61,51,5,7,BSc Hospitality and Tourism Management
+1789,KCSE,C-,Diploma,Healthcare,Independent,43,48,42,5,8,Diploma in Nursing (Community Health)
+1790,KCSE,D+,Certificate,Social Sciences,Disciplined,47,41,39,10,4,Certificate in Social Work and Community Development
+1791,KCSE,B-,Degree,Engineering,Observant,58,65,71,5,4,Bachelor of Civil Engineering
+1792,KCSE,E,Retake/Artisan,Sports Science,Curious,21,25,24,9,5,Artisan/Basic Skills Training in Sports Coaching
+1793,CBC,C+,Degree,Environmental Science,Team-Oriented,60,56,53,4,8,BSc Environmental Science
+1794,CBC,C,Diploma,Business,Ambitious,55,50,56,4,7,Diploma in Business Management
+1795,CBC,C,Diploma,Finance,Confident,51,50,59,6,5,Diploma in Accounting
+1796,CBC,B,Degree,Engineering,Logical,65,73,74,5,6,Bachelor of Civil Engineering
+1797,CBC,B-,Degree,Education,Detail-Oriented,65,61,62,9,8,Bachelor of Education (Arts)
+1798,CBC,C,Diploma,Arts & Design,Hardworking,49,54,54,10,9,Diploma in Fine Art and Design
+1799,KCSE,D+,Certificate,Business,Independent,42,35,42,10,4,Certificate in Business Management
+1800,KCSE,B+,Degree,Aviation,Organized,68,69,73,5,7,Bachelor of Air Transport Operations
+1801,KCSE,B+,Degree,Arts & Design,Resourceful,77,71,77,8,6,Bachelor of Design
+1802,CBC,C+,Degree,Healthcare,Logical,59,53,59,8,4,BSc Nursing
+1803,KCSE,A-,Degree,Media,Sociable,79,74,76,7,10,BA Journalism and Mass Communication
+1804,CBC,C,Diploma,Media,Analytical,50,51,55,6,10,Diploma in Mass Communication
+1805,KCSE,B,Degree,Arts & Design,Hardworking,68,71,66,7,4,BA Fine Art
+1806,KCSE,C+,Degree,Technology,Organized,54,55,64,6,8,BSc Information Technology
+1807,CBC,B-,Degree,Sports Science,Team-Oriented,69,60,53,6,7,Bachelor of Physical Education
+1808,KCSE,D+,Certificate,Education,Disciplined,33,38,35,5,6,Certificate in Early Childhood Development Education
+1809,CBC,C-,Diploma,Sports Science,Friendly,50,44,47,6,7,Diploma in Sports Science
+1810,CBC,D+,Certificate,Arts & Design,Creative,42,42,42,9,5,Certificate in Fine Art and Design
+1811,CBC,C+,Degree,Technology,Practical,58,59,54,10,9,BSc Information Technology
+1812,KCSE,C-,Diploma,Education,Disciplined,49,40,49,9,10,Diploma in Early Childhood Development Education
+1813,KCSE,D+,Certificate,Arts & Design,Innovative,36,36,38,3,6,Certificate in Fine Art and Design
+1814,CBC,C+,Degree,Social Sciences,Responsible,58,67,52,8,10,BA Sociology
+1815,KCSE,B,Degree,Sports Science,Detail-Oriented,69,61,61,8,5,BSc Sports Science
+1816,KCSE,C,Diploma,Social Sciences,Persuasive,52,60,51,8,9,Diploma in Social Work and Community Development
+1817,CBC,B,Degree,Business,Creative,67,66,65,6,6,Bachelor of Commerce
+1818,KCSE,C,Diploma,Law,Independent,61,56,51,9,4,Diploma in Legal Studies
+1819,CBC,C-,Diploma,Environmental Science,Logical,45,42,43,10,6,Diploma in Environmental Studies
+1820,CBC,C-,Diploma,Environmental Science,Hardworking,43,46,44,9,7,Diploma in Environmental Studies
+1821,KCSE,C+,Degree,Arts & Design,Resourceful,63,52,60,10,9,BA Fine Art
+1822,KCSE,C+,Degree,Education,Curious,64,59,57,9,10,Bachelor of Education (Science)
+1823,CBC,B,Degree,Environmental Science,Curious,65,67,75,10,5,BSc Environmental Science
+1824,CBC,A-,Degree,Agriculture,Innovative,82,77,79,9,10,BSc Agriculture
+1825,CBC,B-,Degree,Healthcare,Ambitious,62,56,70,10,7,BSc Nursing
+1826,KCSE,D+,Certificate,Finance,Logical,42,43,39,7,8,Certificate in Accounting
+1827,KCSE,C,Diploma,Media,Observant,47,51,58,10,8,Diploma in Mass Communication
+1828,KCSE,A-,Degree,Hospitality,Responsible,73,83,80,6,4,BSc Hospitality and Tourism Management
+1829,CBC,B+,Degree,Arts & Design,Ambitious,67,78,75,3,6,BA Fine Art
+1830,KCSE,C-,Diploma,Arts & Design,Organized,47,50,42,7,10,Diploma in Fine Art and Design
+1831,CBC,B-,Degree,Aviation,Friendly,62,64,60,7,8,Bachelor of Air Transport Operations
+1832,KCSE,E,Retake/Artisan,Agriculture,Confident,17,18,11,10,10,KCSE Retake Recommended
+1833,CBC,B+,Degree,Agriculture,Ambitious,76,74,64,4,7,BSc Agriculture
+1834,KCSE,C,Diploma,Law,Innovative,49,48,47,10,6,Diploma in Legal Studies
+1835,KCSE,D+,Certificate,Aviation,Sociable,35,43,34,6,10,Certificate in Aviation Ground Operations
+1836,CBC,B-,Degree,Arts & Design,Observant,66,61,65,7,10,BA Fine Art
+1837,CBC,B,Degree,Social Sciences,Ambitious,65,65,72,4,9,BA Sociology
+1838,CBC,D+,Certificate,Environmental Science,Independent,49,36,38,5,7,Certificate in Environmental Studies
+1839,CBC,D+,Certificate,Hospitality,Team-Oriented,45,47,45,5,7,Certificate in Hospitality and Tourism Management
+1840,KCSE,C-,Diploma,Hospitality,Empathetic,44,45,51,5,6,Diploma in Hospitality and Tourism Management
+1841,CBC,D+,Certificate,Healthcare,Observant,45,43,36,7,5,Certificate in Nursing (Community Health)
+1842,CBC,C-,Diploma,Environmental Science,Innovative,50,48,43,4,8,Diploma in Environmental Studies
+1843,KCSE,C-,Diploma,Media,Empathetic,44,55,48,6,7,Diploma in Mass Communication
+1844,CBC,D+,Certificate,Sports Science,Organized,45,46,48,8,5,Certificate in Sports Science
+1845,CBC,C-,Diploma,Education,Analytical,42,54,44,8,5,Diploma in Early Childhood Development Education
+1846,KCSE,C-,Diploma,Social Sciences,Curious,52,53,49,7,8,Diploma in Social Work and Community Development
+1847,KCSE,B+,Degree,Media,Responsible,66,81,79,3,10,BA Journalism and Mass Communication
+1848,KCSE,C+,Degree,Education,Practical,65,61,58,10,5,Bachelor of Education (Arts)
+1849,KCSE,C,Diploma,Sports Science,Patient,60,58,54,4,7,Diploma in Sports Science
+1850,CBC,C,Diploma,Business,Ambitious,56,47,48,9,6,Diploma in Business Management
+1851,CBC,B-,Degree,Sports Science,Confident,59,62,61,5,9,Bachelor of Physical Education
+1852,CBC,B,Degree,Environmental Science,Ambitious,68,68,61,8,6,BSc Environmental Science
+1853,CBC,D+,Certificate,Hospitality,Creative,47,51,34,5,9,Certificate in Hospitality and Tourism Management
+1854,KCSE,A-,Degree,Arts & Design,Innovative,85,77,72,10,5,BA Fine Art
+1855,KCSE,B-,Degree,Engineering,Empathetic,59,65,63,5,9,Bachelor of Civil Engineering
+1856,KCSE,B-,Degree,Education,Sociable,62,64,54,10,3,Bachelor of Education (Arts)
+1857,CBC,C,Diploma,Engineering,Adaptable,51,45,58,7,4,Diploma in Engineering (Electrical/Mechanical)
+1858,CBC,C-,Diploma,Engineering,Empathetic,48,53,45,7,5,Diploma in Engineering (Electrical/Mechanical)
+1859,KCSE,D,Certificate,Finance,Observant,35,38,35,6,6,Certificate in Accounting
+1860,CBC,D+,Certificate,Aviation,Observant,35,49,39,9,4,Certificate in Aviation Ground Operations
+1861,KCSE,B,Degree,Technology,Responsible,60,73,64,8,10,BSc Information Technology
+1862,KCSE,C,Diploma,Business,Friendly,46,46,44,6,5,Diploma in Business Management
+1863,KCSE,C,Diploma,Technology,Organized,52,49,47,4,4,Diploma in Information Communication Technology
+1864,CBC,A-,Degree,Engineering,Resourceful,78,73,71,8,8,Bachelor of Mechanical Engineering
+1865,KCSE,D+,Certificate,Social Sciences,Patient,38,35,36,5,6,Certificate in Social Work and Community Development
+1866,KCSE,C-,Diploma,Engineering,Reflective,45,51,42,5,6,Diploma in Engineering (Electrical/Mechanical)
+1867,CBC,C,Diploma,Social Sciences,Analytical,52,47,44,9,10,Diploma in Social Work and Community Development
+1868,CBC,C+,Degree,Aviation,Disciplined,63,55,59,6,8,Bachelor of Air Transport Operations
+1869,KCSE,B-,Degree,Agriculture,Sociable,59,62,67,5,9,BSc Agriculture
+1870,CBC,D-,Certificate,Social Sciences,Persuasive,34,31,27,9,6,Certificate in Social Work and Community Development
+1871,CBC,C+,Degree,Business,Friendly,63,66,60,8,6,Bachelor of Commerce
+1872,CBC,C,Diploma,Business,Ambitious,55,58,46,10,9,Diploma in Business Management
+1873,KCSE,C+,Degree,Education,Organized,50,63,56,5,8,Bachelor of Education (Arts)
+1874,KCSE,B-,Degree,Aviation,Friendly,59,59,61,4,9,Bachelor of Air Transport Operations
+1875,CBC,B-,Degree,Hospitality,Ambitious,63,64,61,6,5,BSc Hospitality and Tourism Management
+1876,KCSE,B+,Degree,Environmental Science,Adaptable,66,67,63,8,9,BSc Environmental Science
+1877,CBC,D,Certificate,Law,Hardworking,36,41,31,9,7,Certificate in Legal Studies
+1878,KCSE,B+,Degree,Education,Responsible,75,76,69,5,4,Bachelor of Education (Science)
+1879,KCSE,E,Retake/Artisan,Media,Sociable,23,23,23,10,8,KCSE Retake Recommended
+1880,CBC,C,Diploma,Technology,Patient,53,55,48,8,8,Diploma in Information Communication Technology
+1881,CBC,C-,Diploma,Healthcare,Hardworking,54,48,43,5,4,Diploma in Nursing (Community Health)
+1882,KCSE,D,Certificate,Business,Confident,39,40,38,9,4,Certificate in Business Management
+1883,KCSE,B,Degree,Education,Innovative,73,66,76,5,9,Bachelor of Education (Arts)
+1884,CBC,A-,Degree,Healthcare,Reflective,68,78,83,10,4,BSc Nursing
+1885,CBC,A,Degree,Hospitality,Ambitious,96,74,99,10,10,BSc Hospitality and Tourism Management
+1886,CBC,B+,Degree,Arts & Design,Independent,72,65,80,8,5,BA Fine Art
+1887,KCSE,B+,Degree,Education,Logical,81,67,64,6,4,Bachelor of Education (Arts)
+1888,KCSE,C-,Diploma,Finance,Resourceful,52,40,42,8,4,Diploma in Accounting
+1889,KCSE,B+,Degree,Social Sciences,Sociable,73,79,71,7,9,Bachelor of Social Work
+1890,KCSE,D-,Certificate,Education,Empathetic,36,34,38,10,4,Certificate in Early Childhood Development Education
+1891,CBC,B,Degree,Finance,Logical,65,63,66,10,4,BSc Actuarial Science
+1892,KCSE,C+,Degree,Aviation,Responsible,57,52,53,10,4,Bachelor of Air Transport Operations
+1893,CBC,B+,Degree,Engineering,Detail-Oriented,72,74,70,5,6,Bachelor of Civil Engineering
+1894,KCSE,E,Retake/Artisan,Social Sciences,Ambitious,19,10,20,10,10,KCSE Retake Recommended
+1895,CBC,C,Diploma,Law,Logical,51,48,59,5,4,Diploma in Legal Studies
+1896,CBC,B+,Degree,Media,Adaptable,74,69,70,4,10,BA Journalism and Mass Communication
+1897,KCSE,C,Diploma,Finance,Curious,46,51,48,3,4,Diploma in Accounting
+1898,CBC,B+,Degree,Healthcare,Persuasive,75,79,67,4,8,BSc Nursing
+1899,KCSE,C-,Diploma,Sports Science,Analytical,47,47,50,10,9,Diploma in Sports Science
+1900,KCSE,C+,Degree,Technology,Team-Oriented,52,52,61,4,4,BSc Computer Science
+1901,KCSE,B,Degree,Education,Analytical,67,69,68,8,4,Bachelor of Education (Arts)
+1902,CBC,B+,Degree,Finance,Hardworking,69,67,66,8,9,BSc Actuarial Science
+1903,CBC,B,Degree,Sports Science,Curious,68,74,72,5,8,Bachelor of Physical Education
+1904,KCSE,D,Certificate,Hospitality,Adaptable,30,31,42,4,5,Certificate in Hospitality and Tourism Management
+1905,KCSE,B,Degree,Hospitality,Detail-Oriented,63,72,68,5,7,BSc Hospitality and Tourism Management
+1906,KCSE,B-,Degree,Law,Creative,63,70,59,9,7,Bachelor of Laws (LLB)
+1907,KCSE,C,Diploma,Finance,Observant,46,46,56,8,5,Diploma in Accounting
+1908,CBC,D+,Certificate,Hospitality,Resourceful,45,50,48,8,6,Certificate in Hospitality and Tourism Management
+1909,CBC,C,Diploma,Business,Resourceful,46,59,45,5,10,Diploma in Business Management
+1910,CBC,C,Diploma,Technology,Responsible,43,51,55,6,10,Diploma in Information Communication Technology
+1911,KCSE,C+,Degree,Finance,Independent,51,51,58,4,5,BSc Actuarial Science
+1912,KCSE,C+,Degree,Finance,Reflective,58,63,53,9,7,BSc Actuarial Science
+1913,KCSE,B-,Degree,Law,Friendly,59,57,61,9,5,Bachelor of Laws (LLB)
+1914,CBC,C-,Diploma,Healthcare,Reflective,42,50,44,7,9,Diploma in Nursing (Community Health)
+1915,CBC,C+,Degree,Hospitality,Responsible,52,49,54,8,8,BSc Hospitality and Tourism Management
+1916,CBC,C,Diploma,Agriculture,Practical,59,52,54,5,5,Diploma in Agriculture
+1917,CBC,C,Diploma,Business,Sociable,46,50,55,9,4,Diploma in Business Management
+1918,KCSE,C+,Degree,Sports Science,Organized,52,54,57,10,3,BSc Sports Science
+1919,CBC,D-,Certificate,Social Sciences,Creative,28,25,31,10,6,Certificate in Social Work and Community Development
+1920,CBC,B+,Degree,Healthcare,Disciplined,66,67,67,8,4,Bachelor of Medicine and Surgery (MBChB)
+1921,KCSE,A,Degree,Business,Sociable,89,76,94,10,7,Bachelor of Commerce
+1922,CBC,A-,Degree,Agriculture,Hardworking,80,79,74,5,9,BSc Agriculture
+1923,KCSE,D+,Certificate,Business,Reflective,48,42,44,4,6,Certificate in Business Management
+1924,CBC,C+,Degree,Arts & Design,Persuasive,61,52,53,8,10,Bachelor of Design
+1925,CBC,C,Diploma,Media,Independent,50,54,57,4,4,Diploma in Mass Communication
+1926,KCSE,B,Degree,Arts & Design,Sociable,67,68,70,4,5,BA Fine Art
+1927,CBC,B+,Degree,Aviation,Observant,72,77,68,5,4,Bachelor of Air Transport Operations
+1928,CBC,B+,Degree,Hospitality,Curious,64,74,71,6,10,BSc Hospitality and Tourism Management
+1929,KCSE,B+,Degree,Hospitality,Friendly,63,70,78,5,9,BSc Hospitality and Tourism Management
+1930,KCSE,D+,Certificate,Engineering,Curious,39,43,43,4,7,Certificate in Engineering (Electrical/Mechanical)
+1931,KCSE,C-,Diploma,Finance,Disciplined,52,44,53,10,10,Diploma in Accounting
+1932,KCSE,A-,Degree,Social Sciences,Innovative,70,74,76,5,7,BA Sociology
+1933,CBC,D+,Certificate,Healthcare,Curious,50,39,50,7,9,Certificate in Nursing (Community Health)
+1934,CBC,B-,Degree,Hospitality,Team-Oriented,60,58,56,9,7,BSc Hospitality and Tourism Management
+1935,KCSE,D+,Certificate,Education,Independent,40,45,43,6,10,Certificate in Early Childhood Development Education
+1936,KCSE,B+,Degree,Arts & Design,Independent,77,77,78,9,8,BA Fine Art
+1937,KCSE,C+,Degree,Education,Disciplined,64,57,62,8,10,Bachelor of Education (Arts)
+1938,KCSE,B+,Degree,Education,Team-Oriented,80,78,76,5,6,Bachelor of Education (Arts)
+1939,CBC,C-,Diploma,Arts & Design,Curious,52,49,42,8,7,Diploma in Fine Art and Design
+1940,KCSE,B-,Degree,Social Sciences,Persuasive,63,67,67,5,4,BA Sociology
+1941,CBC,C+,Degree,Technology,Responsible,58,63,63,6,3,BSc Information Technology
+1942,KCSE,D-,Certificate,Technology,Creative,37,32,29,5,10,Certificate in Information Communication Technology
+1943,KCSE,B,Degree,Media,Adaptable,66,69,72,8,7,BA Journalism and Mass Communication
+1944,KCSE,C,Diploma,Media,Analytical,56,58,60,8,4,Diploma in Mass Communication
+1945,CBC,D,Certificate,Hospitality,Sociable,32,32,42,10,10,Certificate in Hospitality and Tourism Management
+1946,KCSE,A-,Degree,Healthcare,Organized,75,73,82,10,8,Bachelor of Medicine and Surgery (MBChB)
+1947,KCSE,B,Degree,Education,Innovative,61,61,65,7,4,Bachelor of Education (Arts)
+1948,KCSE,D+,Certificate,Law,Ambitious,39,42,39,4,4,Certificate in Legal Studies
+1949,CBC,B+,Degree,Law,Detail-Oriented,71,77,65,10,8,Bachelor of Laws (LLB)
+1950,KCSE,D+,Certificate,Media,Hardworking,43,43,34,6,10,Certificate in Mass Communication
+1951,CBC,D-,Certificate,Healthcare,Empathetic,32,32,36,5,5,Certificate in Nursing (Community Health)
+1952,KCSE,A-,Degree,Environmental Science,Detail-Oriented,76,74,73,7,8,BSc Environmental Science
+1953,KCSE,B-,Degree,Law,Confident,68,65,67,5,5,Bachelor of Laws (LLB)
+1954,KCSE,C,Diploma,Finance,Sociable,53,48,60,6,7,Diploma in Accounting
+1955,KCSE,A,Degree,Technology,Curious,92,88,87,8,9,BSc Information Technology
+1956,KCSE,B,Degree,Aviation,Confident,72,60,74,6,10,Bachelor of Air Transport Operations
+1957,CBC,D+,Certificate,Arts & Design,Patient,36,50,44,3,7,Certificate in Fine Art and Design
+1958,KCSE,C,Diploma,Finance,Team-Oriented,59,48,54,4,4,Diploma in Accounting
+1959,CBC,C+,Degree,Engineering,Analytical,51,50,61,8,5,Bachelor of Mechanical Engineering
+1960,CBC,B-,Degree,Finance,Patient,71,64,66,7,7,BSc Actuarial Science
+1961,CBC,D+,Certificate,Sports Science,Organized,44,40,42,9,6,Certificate in Sports Science
+1962,KCSE,C+,Degree,Hospitality,Hardworking,56,54,50,8,6,BSc Hospitality and Tourism Management
+1963,CBC,D,Certificate,Business,Disciplined,40,35,39,4,4,Certificate in Business Management
+1964,KCSE,C-,Diploma,Hospitality,Sociable,37,47,39,4,7,Diploma in Hospitality and Tourism Management
+1965,CBC,B+,Degree,Technology,Reflective,66,77,63,7,4,BSc Computer Science
+1966,KCSE,C,Diploma,Aviation,Innovative,60,58,49,6,7,Diploma in Aviation Ground Operations
+1967,KCSE,B-,Degree,Hospitality,Practical,62,55,57,10,7,BSc Travel and Tourism Management
+1968,CBC,D-,Certificate,Arts & Design,Friendly,29,37,38,7,4,Certificate in Fine Art and Design
+1969,CBC,C+,Degree,Business,Logical,54,62,52,8,8,Bachelor of Commerce
+1970,KCSE,A,Degree,Environmental Science,Reflective,87,93,84,8,5,BSc Natural Resource Management
+1971,CBC,C,Diploma,Education,Patient,53,58,44,8,8,Diploma in Early Childhood Development Education
+1972,CBC,B-,Degree,Arts & Design,Ambitious,62,68,53,10,4,BA Fine Art
+1973,KCSE,C,Diploma,Healthcare,Observant,46,57,54,4,7,Diploma in Nursing (Community Health)
+1974,CBC,B-,Degree,Healthcare,Detail-Oriented,69,65,64,4,5,Bachelor of Medicine and Surgery (MBChB)
+1975,CBC,C,Diploma,Media,Empathetic,50,57,55,4,10,Diploma in Mass Communication
+1976,KCSE,C,Diploma,Agriculture,Resourceful,51,49,44,6,8,Diploma in Agriculture
+1977,KCSE,E,Retake/Artisan,Technology,Confident,32,28,17,8,6,KCSE Retake Recommended
+1978,CBC,C,Diploma,Business,Organized,60,47,47,10,9,Diploma in Business Management
+1979,KCSE,C,Diploma,Media,Team-Oriented,55,50,58,8,7,Diploma in Mass Communication
+1980,KCSE,C+,Degree,Media,Observant,60,50,64,9,5,BA Journalism and Mass Communication
+1981,KCSE,B,Degree,Business,Independent,66,69,70,7,6,Bachelor of Commerce
+1982,CBC,D-,Certificate,Business,Practical,34,36,26,5,7,Certificate in Business Management
+1983,KCSE,C,Diploma,Business,Detail-Oriented,51,51,59,6,4,Diploma in Business Management
+1984,CBC,D,Certificate,Environmental Science,Observant,28,39,33,6,10,Certificate in Environmental Studies
+1985,KCSE,B-,Degree,Hospitality,Empathetic,58,70,61,4,7,BSc Hospitality and Tourism Management
+1986,CBC,C,Diploma,Law,Independent,56,44,48,5,8,Diploma in Legal Studies
+1987,CBC,C+,Degree,Law,Team-Oriented,56,51,49,5,4,Bachelor of Laws (LLB)
+1988,KCSE,B-,Degree,Healthcare,Ambitious,67,57,70,6,8,BSc Nursing
+1989,KCSE,B+,Degree,Business,Persuasive,72,65,70,10,3,Bachelor of Commerce
+1990,KCSE,C,Diploma,Business,Innovative,60,51,56,7,5,Diploma in Business Management
+1991,KCSE,C,Diploma,Environmental Science,Detail-Oriented,56,53,49,8,8,Diploma in Environmental Studies
+1992,CBC,C,Diploma,Education,Creative,54,47,49,6,5,Diploma in Early Childhood Development Education
+1993,CBC,A-,Degree,Aviation,Independent,86,76,79,8,10,Bachelor of Air Transport Operations
+1994,KCSE,C-,Diploma,Aviation,Confident,55,53,44,10,9,Diploma in Aviation Ground Operations
+1995,KCSE,B,Degree,Arts & Design,Disciplined,68,59,69,5,9,BA Fine Art
+1996,KCSE,C+,Degree,Aviation,Ambitious,52,58,55,7,6,BSc Aviation Management
+1997,KCSE,B-,Degree,Agriculture,Reflective,55,60,55,7,5,BSc Agriculture
+1998,KCSE,C-,Diploma,Environmental Science,Adaptable,53,41,46,8,10,Diploma in Environmental Studies
+1999,KCSE,B,Degree,Healthcare,Independent,66,64,71,8,5,BSc Nursing
+2000,KCSE,A,Degree,Law,Organized,83,91,85,10,10,Bachelor of Laws (LLB)
